@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evolutionary psychology | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/tags/evolutionary-psychology/</link>
+      <atom:link href="https://albertoacerbi.github.io/tags/evolutionary-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <description>evolutionary psychology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>evolutionary psychology</title>
+      <link>https://albertoacerbi.github.io/tags/evolutionary-psychology/</link>
+    </image>
+    
+    <item>
+      <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
+      <link>https://albertoacerbi.github.io/publication/2019_pal_comm_b/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2019_pal_comm_b/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://albertoacerbi.github.io/post/2019_ordeal_simulation/&#34; target=&#34;_blank&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Folk-economic beliefs as “evidential fiction”: Putting the economic public discourse back on track</title>
+      <link>https://albertoacerbi.github.io/publication/2018_bbs/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2018_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
+      <link>https://albertoacerbi.github.io/publication/2017_cog_emo/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2017_cog_emo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

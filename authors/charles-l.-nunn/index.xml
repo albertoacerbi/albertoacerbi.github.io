@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles L. Nunn | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/authors/charles-l.-nunn/</link>
+      <atom:link href="https://albertoacerbi.github.io/authors/charles-l.-nunn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles L. Nunn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>Charles L. Nunn</title>
+      <link>https://albertoacerbi.github.io/authors/charles-l.-nunn/</link>
+    </image>
+    
+    <item>
+      <title>Modeling imitation and emulation in constrained search spaces</title>
+      <link>https://albertoacerbi.github.io/publication/2011_learn_behav/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2011_learn_behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predation and the phasing of sleep: an evolutionary individual-based model</title>
+      <link>https://albertoacerbi.github.io/publication/2011_an_behav/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2011_an_behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
+      <link>https://albertoacerbi.github.io/publication/2008_bmc/</link>
+      <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2008_bmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

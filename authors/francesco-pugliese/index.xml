@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Pugliese | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/authors/francesco-pugliese/</link>
+      <atom:link href="https://albertoacerbi.github.io/authors/francesco-pugliese/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Pugliese</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>Francesco Pugliese</title>
+      <link>https://albertoacerbi.github.io/authors/francesco-pugliese/</link>
+    </image>
+    
+    <item>
+      <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/2015_plos/</link>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2015_plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2012_leadership/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2012_leadership/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

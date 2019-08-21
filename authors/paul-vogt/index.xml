@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Vogt | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/authors/paul-vogt/</link>
+      <atom:link href="https://albertoacerbi.github.io/authors/paul-vogt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Vogt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>Paul Vogt</title>
+      <link>https://albertoacerbi.github.io/authors/paul-vogt/</link>
+    </image>
+    
+    <item>
+      <title>Social learning in embodied agents</title>
+      <link>https://albertoacerbi.github.io/publication/2008_conn_sci/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2008_conn_sci/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I edited, together with Davide Marocco and Paul Vogt, a double special issue of the journal &lt;em&gt;Connection Science&lt;/em&gt; on the topic &amp;ldquo;Social Learning in Embodied Agents&amp;rdquo;. This is our editorial.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/</link>
+      <atom:link href="https://albertoacerbi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Acerbi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>Alberto Acerbi</title>
+      <link>https://albertoacerbi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://albertoacerbi.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://albertoacerbi.github.io/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://albertoacerbi.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://albertoacerbi.github.io/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://albertoacerbi.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
+      <link>https://albertoacerbi.github.io/post/2019_wellcome/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_wellcome/</guid>
+      <description>&lt;p&gt;The Wellcome Trust has recently (yesterday) released the 2018 &lt;a href=&#34;https://wellcome.ac.uk/reports/wellcome-global-monitor/2018&#34; target=&#34;_blank&#34;&gt;Global Monitor&lt;/a&gt;, a 140,000 people survey on how ‘people around the world think and feel about science and major health challenges’. Among the many interesting pieces of information, not surprisingly, attitudes towards vaccinations are starting to be widely discussed in the &lt;a href=&#34;https://www.theguardian.com/society/2019/jun/19/survey-shows-crisis-of-confidence-in-vaccines-in-parts-of-europe&#34; target=&#34;_blank&#34;&gt;press&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first important thing to notice, as the Wellcome Trust correctly does, is that ‘worldwide, 79% of people agree that vaccines are safe and 84% agree that they are effective’ and ‘92% of parents worldwide said that their children have received a vaccine to prevent them from getting childhood diseases .’ Whatever we may think, the majority of people around the world rightly believe that vaccines are good. Of course, there is a minority of people, especially in western countries, that is less convinced of that. Citing again the Wellcome Trust, ‘In France, one in three people disagree that vaccines are safe, the highest percentage for any country worldwide’. The France figure is, however, one of few outliers, also for western countries, where the averages of people disagreeing that vaccines are safe are around 10%.&lt;/p&gt;
+
+&lt;p&gt;Still, that one out of ten persons in western countries could think as such is worrying. Not surprisingly, social media has been identified as one of the culprits of this situation, and I bet that, following the Wellcome Trust survey, the trend will continue (I already found one article &lt;a href=&#34;https://www.independent.co.uk/news/health/anti-vaxx-vaccination-myth-poll-europe-pro-nature-birth-a8964441.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). Out of curiosity, I correlated the Wellcome trust data with recent data on social media penetration/usage in Europe, and they are not correlated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./social_media.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I was on it, I also correlated the data with the importance of religion..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./religion.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;the trust in science&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./science.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;and the GDP pro capita&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./gdp.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Naturally, this is a very basic analysis. It could be for example that, within countries, people that are sceptical of vaccines use more social media than others. That anti-vaxx information spreads effectively in social media is not surprising. There are &lt;a href=&#34;https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(15)00197-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661315001977%3Fshowall%3Dtrue&#34; target=&#34;_blank&#34;&gt;many reasons&lt;/a&gt; why anti-vaccination beliefs are easy to spread (and, conversely, it could be more difficult with pro-vaccination beliefs). Information around vaccines is psychologically attractive, involving potentially disgust and counterintuitive concepts that, coupled with a possible negative bias, make fearmongering on vaccines a good topic for &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;online misinformation&lt;/a&gt;. All of this, however, is not a prerogative of digital social media (where correct, pro-vaccine, information &lt;a href=&#34;https://jamanetwork.com/journals/jama/fullarticle/2670250&#34; target=&#34;_blank&#34;&gt;also spreads effectively&lt;/a&gt;), and vaccine hesitancy is &lt;a href=&#34;http://sethmnookin.com/the-panic-virus/&#34; target=&#34;_blank&#34;&gt;as old as vaccines themselves&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In any case, each time you hear someone saying, or writing, that anti-vaccination beliefs are linked to social media you should be sceptical. At least: it is not obvious.&lt;/p&gt;
+
+&lt;p&gt;If you are interested, all the technical stuff (data, R script, what I coded exactly as “vaccine hesitancy”, “social media penetration”, etc.) are in &lt;a href=&#34;https://github.com/albertoacerbi/vaccines-wellcome&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; GitHub repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The ordeal simulation hypothesis</title>
+      <link>https://albertoacerbi.github.io/post/2019_ordeal_simulation/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_ordeal_simulation/</guid>
+      <description>&lt;p&gt;You have probably heard the adagio that “man bites dog”, and not “dog bites man”, makes for a good piece of news: unusual, exceptional, events are better stories than everyday occurrences. Hidden behind the surface, however, there is another message that seems so obvious we do not even think about it: both examples are negative events. “Dog wins the lottery” would probably be a good piece of news too, but it is not mentioned. That negative news – and possibly negative narratives in general – are more attractive than positive ones is a bit of a cliché, but it supported by much research.&lt;/p&gt;
+
+&lt;p&gt;An interesting case-study is false news. By definition, they do not need to describe real facts, so they can exploit our preferences in an almost unconstrained way. In a content analysis of a small sample of articles categorised as online misinformation, I found that &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;negative articles where around five times more numerous than positive articles&lt;/a&gt;. It is not just about news. English-language fiction became consistently more negative &lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528&#34; target=&#34;_blank&#34;&gt;in the last two centuries&lt;/a&gt;, and English-language song lyrics did the same &lt;a href=&#34;https://osf.io/preprints/socarxiv/3j6wx/&#34; target=&#34;_blank&#34;&gt;in the last fifty years&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And why, yet, this should be the case? There are many possible explanations: one is that the stories we tell each other are simulations. As much as pilots can exercise their flight skills in dangerous situations safe from risks in a simulator, the pleasure we experience when we enjoy narratives would be rooted in the possibility of exercise our skills in an analogous safe environment. The next time you are in the woods you should be suspicious of the wolf.&lt;/p&gt;
+
+&lt;p&gt;From this perspective, it makes sense that negative events are predominant in stories: it is worst to arrive unprepared to a negative event than to a positive one. Some &lt;a href=&#34;https://global.oup.com/academic/product/9780190666514&#34; target=&#34;_blank&#34;&gt;research&lt;/a&gt; has explored the idea that, in fact, not generally negative events, but threats are what narratives are about. It does not matter &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1090513817301976&#34; target=&#34;_blank&#34;&gt;how realistic the threats are&lt;/a&gt;: you can enjoy watching &lt;em&gt;The Haunting of Hill House&lt;/em&gt; even if you do not think ghosts exist or sharing the dubious news about a &lt;a href=&#34;https://www.snopes.com/fact-check/morgue-employee-cremated-nap/&#34; target=&#34;_blank&#34;&gt;morgue employee cremated while taking a nap&lt;/a&gt; even if you do not usually hang out in morgues.&lt;/p&gt;
+
+&lt;p&gt;In a recently published &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0267-0&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, Olivier Morin, Oleg Sobchuk, and I, tried to explore further the threath simulation hypothesis. We found two problems with how the hypothesis is often presented. First, it leaves unspecified which kind of threats should be simulated in narratives. Second, and related, it is not clear whether it is a “theory of fictional content”, i.e. it applies specifically to fictional narratives, or to a more wide range of contents, since, as we saw before, also news tend to bend toward the negative (but also, for example, &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/11515147&#34; target=&#34;_blank&#34;&gt;dreams&lt;/a&gt; have been interpreted in the same way).&lt;/p&gt;
+
+&lt;p&gt;In the paper, we explore a more exacting version of the hypothesis, that we called the Ordeals simulation hypothesis (mainly Olivier’s brainchild). The hypothesis specifies that neither negative events in general, nor threats in general, should be overrepresented in fiction, but ordeals. Ordeals – the meaning is different from the usage of the term in common language – are threats that are severe, rare, and reactable. ‘Reactable’ here means that we cannot prevent them (as we can do for, say, cardiovascular diseases or pathogen contamination), but they are also not completely out of our control (like being struck by lighting). Aggressions, violent social interactions and, most of all, homicides, are all examples of ordeals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./ordeal.jpeg&#34; alt=&#34;jpeg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first question is then whether ordeals are overrepresented in fiction with respect to other threats, or, to take a clear case: why do people die in novels? The ordeal simulation hypothesis predicts that agentive or accidental deaths (such as homicides or calamities), but not natural deaths, should be overrepresented. (&lt;em&gt;Game of Thrones&lt;/em&gt; is too easy of an &lt;a href=&#34;https://deathtimeline.com&#34; target=&#34;_blank&#34;&gt;example&lt;/a&gt;, but I recently read that the currently much talked &lt;em&gt;Chernobyl&lt;/em&gt; series may have &lt;a href=&#34;https://www.forbes.com/sites/michaelshellenberger/2019/05/09/the-reason-they-fictionalize-nuclear-disasters-like-chernobyl-is-because-they-kill-so-few-people/#7e6edff641fc&#34; target=&#34;_blank&#34;&gt;exaggerated&lt;/a&gt; the number of deaths). We coded hundreds of summaries of novels in wikipedia: mortality rates of novels’ characters are disproportionally high, when compared to realistic estimates. For 100,000 adults in US, between 100 and 200 deaths are estimated every year. But, in novels, we calculated this figure as 19,000, that is, three orders of magnitude higher. The realistic rate for agentive death is only 31 over 100,000, but in novels is more than 13,000. Natural deaths are also overrepresented, but less so: in reality the rate is higher than agentive deaths (&lt;sup&gt;107&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt;,000), while in novels is only around 2,000. (Much more in the paper.)&lt;/p&gt;
+
+&lt;p&gt;The second question is whether the prominence of agentive deaths is a specific feature of fiction with respect to other kinds of content. To explore this, we used a different methodology: we performed a computer text analysis of two large, comparable, corpora, one of novels and one of private letters and diaries, to detect the frequencies of words related to death in general, and to agentive death (‘kill’, ‘murder’, ‘execution’, etc.) in particular. The ordeal simulation hypothesis would predict that the frequency of agentive death-related words would be higher in the novels than in the private documents, but no difference should be found for general death-related words. In this case, the prediction was not confirmed: mentions of death, both violent and non-violent, were about equally frequent in fictional and non-fictional material.&lt;/p&gt;
+
+&lt;p&gt;What can we conclude from all that? Agentive deaths are overrepresented in fiction, but they are also, so it seems, overrepresented in material written without the intention of being made public. Perhaps the ordeal simulation hypothesis is not on the right track. My opinion, however, is that the problem may lie in finding an explanation that works for, and only for, fictional material. From the psychological point of view, how different is to read a true story, a piece of news, or a novel? (agentive deaths sure are overrepresented in news, see the plot below – full study &lt;a href=&#34;https://ourworldindata.org/does-the-news-reflect-what-we-die-from&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./OUD.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How different is to write a novel, a diary entry, or a letter? Perhaps there is no specific feature that makes fictions different from other materials, besides, as suggested before when mentioning misinformation, bigger freedom of explore possible contents. Maybe developing a “theory of fiction” (that works only for fiction) is misguided. There are various elements that make narratives (fiction, diaries, news, but also scientific theories, political orientations, etc.) attractive, these elements are the legitimate objects of study, and we can apply them to various domains, fiction included.&lt;/p&gt;
+
+&lt;p&gt;Here the &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0267-0&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, and if you are really interested, &lt;a href=&#34;https://osf.io/fjkze/&#34; target=&#34;_blank&#34;&gt;all&lt;/a&gt; the data and codes for the analysis. The paper was published in the &lt;a href=&#34;https://www.nature.com/collections/feibciaebg&#34; target=&#34;_blank&#34;&gt;Cultural Evolution&lt;/a&gt; collection of Palgrave Communications, with many other contributions worth looking at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
+      <link>https://albertoacerbi.github.io/publication/2019_pal_comm_b/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2019_pal_comm_b/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://albertoacerbi.github.io/post/2019_ordeal_simulation/&#34; target=&#34;_blank&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is cultural evolution “neoliberal”?</title>
+      <link>https://albertoacerbi.github.io/post/2019_neoliberal/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_neoliberal/</guid>
+      <description>&lt;p&gt;I have been involved, over the weekend, in a small twitter debate on the old question of whether anthropology should use qualitative or quantitative methodologies. The debate was not particularly interesting by itself (I had many, probably too many, similar conversations starting when I was an undergraduate student) and the readers of this blog know, or suspect, my position, so I am not dwelling on it. There is, however, a marginal aspect that made me think a bit: I have the feeling that, when it is all said and done, the negative attitudes toward quantifications are linked to the idea that quantifying human culture is politically “neoliberal”, if not altogether “right-wing”.&lt;/p&gt;
+
+&lt;p&gt;I am sure that no critic of quantification in anthropology will accept this as their own position and they will express more cogent (at least from their point of view) arguments. It does not matter: I am happy to explore a straw man here. (A tweet that was stating it explicitly appeared at some point over the weekend, and it was “liked” by one of the persons involved in the debate, but that is just a side-note, a “like” on Twitter does not need to mean anything.)&lt;/p&gt;
+
+&lt;p&gt;Whereas I can grasp why some evolutionary approaches can be considered as supporting neoliberal social policies – even though I think the question is more nuanced and complicated – how can quantification by itself be? Is studying &lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0106565&#34; target=&#34;_blank&#34;&gt;how movies influence the popularity of dog breeds&lt;/a&gt; neoliberal? Is it &lt;em&gt;counting&lt;/em&gt; how many different &lt;a href=&#34;http://www.ehbonline.org/article/S1090-5138(16)30274-4/fulltext&#34; target=&#34;_blank&#34;&gt;folktales&lt;/a&gt; there are in different populations? Is cultural evolution, intended as a general project of applying scientific and quantitative methods to the study of culture, neoliberal?&lt;/p&gt;
+
+&lt;p&gt;Enough with rhetorical questions, but I would be interested if anybody knows any scholarly reference or developed argument that support this position (again, I know, it is a straw man). The only reason I can think of is that, in the last decades, researchers working on quantitative approaches to culture have been less active in political matters than researchers working on qualitative approaches, even though my impression is that the formers are politically leaning left as much as the rest of social scientists (at least the people that refer to the “cultural evolution” label).&lt;/p&gt;
+
+&lt;p&gt;I am really not interested in starting a debate, but perhaps there are reasons for considering quantification as such, and I’d be happy to exploit collective intelligence to know more (as said, possibly in the form of scholarly publications, etc.). Ok, I am going back to my R codes now.
+&lt;img src=&#34;./wall.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural stability without copying</title>
+      <link>https://albertoacerbi.github.io/publication/preprint_stability/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/preprint_stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morgue employee cremated by mistake while taking a nap</title>
+      <link>https://albertoacerbi.github.io/post/2019_morgue/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_morgue/</guid>
+      <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
+
+&lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34; target=&#34;_blank&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34; target=&#34;_blank&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;
+
+&lt;p&gt;Many other works, however, had painted a more nuanced image, showing that the production and the consumption of misinformation is &lt;a href=&#34;http://science.sciencemag.org/content/363/6425/374?fbclid=IwAR0ThyrRJk7feelo0SdkBr6obs3NIwjJgZt_E4QCCHYkfAva7Eo8A5A4VlI&#34; target=&#34;_blank&#34;&gt;concentrated in a limited portion of social media users&lt;/a&gt;, that individuals that have already extreme political views &lt;a href=&#34;https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf&#34; target=&#34;_blank&#34;&gt;are more likely to be exposed to political misinformation&lt;/a&gt;, and that, in general, misinformation is &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.31.2.211&#34; target=&#34;_blank&#34;&gt;unlikely to change people minds&lt;/a&gt;. And, simply, other studies have shown that the actual amount of online misinformation &lt;a href=&#34;http://advances.sciencemag.org/content/5/1/eaau4586&#34; target=&#34;_blank&#34;&gt;is not that big&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Yet, the narrative supporting that online misinformation is dangerous is itself very persuasive. It is easier to think that the people that voted Trump (you can replace this with whatever you do not like) have been manipulated by evil figures, and if they would have access to the correct information they would have done the right thing. This narrative is also quite dangerous, I think, because creates an easy scapegoat (you can make up any newspaper article with this schema: “How [name of social media] helped [thing that you do not like]”) that often distract to more relevant social, economic, and cultural problems.&lt;/p&gt;
+
+&lt;p&gt;Also, this narrative does not fit particularly well with an evolutionary account of human behaviour. We are a species that heavily relies on communication, social interactions, and learning from others. While details widely vary, researchers studying cultural evolution and cognition agree that, for the characteristics allowing communication, social interactions, and learning from others to be evolved in the first place, we should not be too &lt;a href=&#34;https://psycnet.apa.org/record/2017-22175-001&#34; target=&#34;_blank&#34;&gt;gullible&lt;/a&gt;. Of course, the conditions could be so different now that we could be more easily tricked, but this is an open question, and, given a ‘presumption of good design’, we should be at least sceptical of answers that are too pessimistic.&lt;/p&gt;
+
+&lt;p&gt;Given this somewhat reassuring perspective, however, online misinformation does exist, and one can ask what the possible advantages of misinformation could be. In a recent &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;, I proposed that one of these could simply be that misinformation can be manufactured building on features that make it attractive in an almost unconstrained way, whereas ‘true’ news cannot, simply because they need to correspond to reality. Misinformation can be designed to spread more than real information does (whether this is a conscious process or not). Cognitive anthropologists have put forward features that make some content, everything else equal, more appealing, memorable, or attention-grabbing than other content.&lt;/p&gt;
+
+&lt;p&gt;Here is an example: many misinformation articles (I examine a small sample of ‘fake news’ from 2017: all the material, including the links and the texts used, is &lt;a href=&#34;https://osf.io/78vhn/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;) contains threat-related information, even though threats &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1090513817301976&#34; target=&#34;_blank&#34;&gt;do not need to be relevant for us&lt;/a&gt; (as in the article that gives the title to this blog post: not many of us usually take naps in a morgue. Still, the &lt;a href=&#34;https://worldnewsdailyreport.com/morgue-employee-cremated-by-mistake-while-taking-a-nap/&#34; target=&#34;_blank&#34;&gt;false news&lt;/a&gt; has been shared/liked/commented more than one million times on Facebook). Other features (negative content, disgust, etc.) and many more details are explained in the paper.&lt;/p&gt;
+
+&lt;p&gt;Misinformation is not low-quality information that succeeds in spreading because of the shortcomings of online communication. Quite the opposite, misinformation, or at least some of it, is high-quality information that spreads because online communication is efficient. The difference is that ‘quality’ is not about truthfulness, but about how it fits with our cognitive predispositions. Online “fake news”, is, from this perspective, not much of a political and propagandistic phenomenon, but is more similar to the diffusion of memes, urban legends, and the like (of course political misinformation exist, even though, interestingly, often takes advantage of similar cognitive preferences to spread, think about the notorious &lt;a href=&#34;https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory&#34; target=&#34;_blank&#34;&gt;Pizzagate&lt;/a&gt;, with its mix of threat, sex, and disgust).&lt;/p&gt;
+
+&lt;p&gt;The paper is part of a &lt;a href=&#34;https://www.nature.com/collections/feibciaebg&#34; target=&#34;_blank&#34;&gt;Cultural evolution&lt;/a&gt; collection, edited by Jamie Tehrani, and I invite you to have a look at the other articles too!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./cemetery.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cognitive attraction and online misinformation</title>
+      <link>https://albertoacerbi.github.io/publication/2019_pal_comm_a/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2019_pal_comm_a/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://albertoacerbi.github.io/post/2019_morgue/&#34; target=&#34;_blank&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
+      <link>https://albertoacerbi.github.io/publication/preprint_top25/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/preprint_top25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://albertoacerbi.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Copy-the-majority of instances or individuals? Two approaches to the majority and their consequences for conformist decision-making</title>
+      <link>https://albertoacerbi.github.io/publication/2019_plos/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2019_plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
+      <link>https://albertoacerbi.github.io/publication/preprint_songlyrics/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/preprint_songlyrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did Einstein really say that? Testing content versus context in the cultural selection of quotations</title>
+      <link>https://albertoacerbi.github.io/publication/2018_jocc/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2018_jocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to ‘Sigmoidal Acquisition Curves are Good Indicators of Conformist Transmission’</title>
+      <link>https://albertoacerbi.github.io/publication/2018_sci_rep/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2018_sci_rep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folk-economic beliefs as “evidential fiction”: Putting the economic public discourse back on track</title>
+      <link>https://albertoacerbi.github.io/publication/2018_bbs/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2018_bbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoid submitting to for-profit journals seems a lost battle. What about avoid reviewing?</title>
+      <link>https://albertoacerbi.github.io/post/2018_avoiding/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2018_avoiding/</guid>
+      <description>&lt;p&gt;Academic publishing is a strange beast. The majority of scientists think it is, as a minimum, largely inefficient, and, after a few beers, most of them would consider it not far from an elaborate scam. On the other side, nobody – almost nobody – can afford not submitting to for-profit publishers. While, as the readers of this blog know, I am actively involved in the activities to establish a new journal, open-access and self-published, with the Cultural Evolution Society, I am of course in the same situation. If I’d feel any of the drafts I am working at the moment is good enough, I will run to submit it to Nature Human Behaviour or similar…&lt;/p&gt;
+
+&lt;p&gt;Is there any other way out of this?&lt;/p&gt;
+
+&lt;p&gt;Last week I discovered that Behavioral Ecology (the journal) gives to reviewers a lifetime 25% discount on Oxford University Press books. My first reaction was to think to stop reviewing for for-profit publishers that do not compensate reviewers, but the next step would be, in fact, to stop reviewing for for-profit publishers at all. I quickly tweeted about this, and I commented on the excellent post from Pascal Boyer in the International Cognition and Culture Institute’s blog, but, alas, I did not receive much feedback, so here it is again.&lt;/p&gt;
+
+&lt;p&gt;Contrary to avoid submitting, avoid reviewing would not be a cost for us (if anything, it would save some time), and, if enough people would do it, it would start to be also inconvenient to submit to those journals, as manuscripts would get stuck for a long(er) time. Also, scholars that would keep reviewing will possibly receive more and more articles, so that they may change their mind.&lt;/p&gt;
+
+&lt;p&gt;Notice I am not saying that peer-review is wrong or useless (I do not think so, and it is anyway irrelevant for my point) or that reviewers must be paid (I do not think so: in a fair system, reviewing should be one of the various activities of researchers, and we are clearly not paid singularly for each of them), but that this may be a way to break the vicious circle that makes scientists complain with one hand and submit with the other.&lt;/p&gt;
+
+&lt;p&gt;There may be something terribly wrong or naive in it, but this is why blog posts can be useful!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./greve.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A quick update on the Journal of Cultural Evolution</title>
+      <link>https://albertoacerbi.github.io/post/2018_jce_update/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2018_jce_update/</guid>
+      <description>&lt;p&gt;Apparently, June is the month I write a blog post about the “Journal of Cultural Evolution” (or whatever will be its name) project, so I will keep the tradition alive. All begun for me five years ago (!), and, hopefully, we are getting closer to some tangible result.&lt;/p&gt;
+
+&lt;p&gt;Many things changed from then. Cultural evolution is starting to be a recognised discipline, with its own &lt;a href=&#34;https://culturalevolutionsociety.org&#34; target=&#34;_blank&#34;&gt;society&lt;/a&gt;. The first successful conference was held last year in Jena, and the next one will be in October in Tempe, Arizona. More and more academic journals are accepting quantitative and evolutionary studies of culture, including the new Nature Human Behaviour, Evolutionary Studies in Imaginative Culture, and an “Evolutionary Human Sciences” journal (I hope this is the correct title) which will soon start for Cambridge University Press.&lt;/p&gt;
+
+&lt;p&gt;Many people feel however that there is still need for a dedicated journal, and within the Cultural Evolution Society we set up a publication committee. In the spirit of full transparency, and as this might be of interest to the members of the society at large, and perhaps to others, here is a short highlight of our plans.&lt;/p&gt;
+
+&lt;p&gt;We are working to a journal with the goal of providing a space for, for example, opinion/debate pieces, long pieces that would be more difficult to publish elsewhere, datasets, preregistered reports, and so on. In addition, while details are still not settled in stone, we plan to take full advantage of recent innovations and ideas from the open science movement (quoting – more or less literally – Claudio Tennie: “a cultural evolution journal should culturally evolve journals!”): the journal will be self-published, online-only, open access and cost-free for authors, and we intend to experiment with various forms of peer-review (one option I like is a mixed form, where submitted papers, if accepted by the editor for review, are accessbile online for possible “open reviews” and, in the same time, sent to “traditional” invited reviewers).&lt;/p&gt;
+
+&lt;p&gt;The platform we expect to use is the &lt;a href=&#34;https://pkp.sfu.ca/ojs/&#34; target=&#34;_blank&#34;&gt;Open Journal System&lt;/a&gt; (one example that influenced our choice is the journal &lt;a href=&#34;https://open.lnu.se/index.php/metapsychology/about&#34; target=&#34;_blank&#34;&gt;Meta-Psychology&lt;/a&gt;) and we hope to be able in the next months to hire a person to set-up the platform. If all goes well there will be some news about it – perhaps before the yearly blog post next June! – and, as usual, comments and feedbacks are welcome.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./culture.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Role of Neutral evolution in word turnover during centuries of English word popularity</title>
+      <link>https://albertoacerbi.github.io/publication/2017_complex_sys/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2017_complex_sys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural complexity and demography: the case of folktales</title>
+      <link>https://albertoacerbi.github.io/publication/2017_ehb/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2017_ehb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
+      <link>https://albertoacerbi.github.io/publication/2017_cog_emo/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2017_cog_emo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of Tim Lewens, Cultural Evolution: Conceptual Challenges</title>
+      <link>https://albertoacerbi.github.io/publication/2017_phil_sci/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2017_phil_sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cultural evolution approach to digital media</title>
+      <link>https://albertoacerbi.github.io/publication/2016_fhn/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2016_fhn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A re-appreciation of “conformity”</title>
+      <link>https://albertoacerbi.github.io/publication/2016_an_behav/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2016_an_behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformity cannot be identified based on population-level signatures</title>
+      <link>https://albertoacerbi.github.io/publication/2016_sci_rep/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2016_sci_rep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans</title>
+      <link>https://albertoacerbi.github.io/publication/2016_rsos/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2016_rsos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://albertoacerbi.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://albertoacerbi.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The role of redundant information in cultural transmission and cultural stabilization</title>
+      <link>https://albertoacerbi.github.io/publication/2016_jcp/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2016_jcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/2015_plos/</link>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2015_plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If we are all cultural Darwinians what’s the fuss about? Clarifying recent disagreements in the field of cultural evolution</title>
+      <link>https://albertoacerbi.github.io/publication/2015_phil_bio/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2015_phil_bio/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Philosopher Massimo Pigliucci discussed this article in &lt;a href=&#34;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution&#34; target=&#34;_blank&#34;&gt;The Trouble with Cultural Evolution&lt;/a&gt;, &lt;em&gt;Footnotes to Plato&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dog Movies Stars and Dog Breed Popularity: A Case Study in Media Influence on Choice</title>
+      <link>https://albertoacerbi.github.io/publication/2014_plos_a/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2014_plos_a/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2014/10/16/arts/international/how-much-is-that-doggie-from-the-movie.html&#34; target=&#34;_blank&#34;&gt;How much is that doggie from the movie?&lt;/a&gt;, &lt;em&gt;The New York Times&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://news.sciencemag.org/plants-animals/2014/09/lassie-effect-movies-drive-our-preference-certain-dog-breeds&#34; target=&#34;_blank&#34;&gt;The Lassie Effect: Movies drive our preference for certain dog breeds&lt;/a&gt;, &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/culture/2014/sep/15/how-much-is-that-doggie-in-the-movie-films-dictate-most-popular-pooches&#34; target=&#34;_blank&#34;&gt;How much is that doggie in the movie? Films dictate most popular pooches&lt;/a&gt;, &lt;em&gt;The Guardian&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://theconversation.com/how-the-films-youve-seen-influence-your-choice-of-dog-31498&#34; target=&#34;_blank&#34;&gt;How the films you’ve seen influence your choice of dog&lt;/a&gt;, &lt;em&gt;The Conversation&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biases in cultural transmission shape the turnover of popular traits</title>
+      <link>https://albertoacerbi.github.io/publication/2014_ehb/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2014_ehb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books average previous decade of economic misery</title>
+      <link>https://albertoacerbi.github.io/publication/2014_plos_b/</link>
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2014_plos_b/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2014/01/09/science/study-finds-literary-mood-reflects-previous-decades-economy.html?_r=0&#34; target=&#34;_blank&#34;&gt;Why Wasn’t it ‘Grapes of Glee’? Study of Books Find Economic Link&lt;/a&gt;, &lt;em&gt;The New York Times&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://healthland.time.com/2014/01/09/the-literary-misery-index-what-the-economy-has-to-do-with-what-youre-reading/&#34; target=&#34;_blank&#34;&gt;The Literary Misery Index: What the Economy Has to Do With What You’re Reading&lt;/a&gt;, &lt;em&gt;Time Magazine&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/books/2014/jan/09/study-economic-misery-literature-mood-words&#34; target=&#34;_blank&#34;&gt;Literature gloom mirrors economic misery, study finds&lt;/a&gt;, &lt;em&gt;The Guardian&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://edition.cnn.com/2014/01/21/showbiz/literature-economy-hard-times/index.html&#34; target=&#34;_blank&#34;&gt;Why hard times make for miserable books&lt;/a&gt;, &lt;em&gt;CNN&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Information is power&lt;/strong&gt;, &lt;em&gt;Radio3 Scienza&lt;/em&gt; (a radio interview in italian, I start around minute 18, download the podcast &lt;a href=&#34;https://dl.dropboxusercontent.com/s/0jtj91xpmqwdid5/RADIO3SCIENZA_del_17_01_2014_-_Information_is_power.mp3?dl=1&amp;amp;token_hash=AAHLOCu9F7cOk2Q2z3HHBd2SoikN5SMIV9XyfWBBfaDgTg&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulatory traits: Cultural Influences on Cultural Evolution</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2014_regulatory/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2014_regulatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness of emotion extraction from 20th century English books</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2013_emotion/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2013_emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion vs. Function in Cultural Evolution: The Case of Dog Breed Popularity</title>
+      <link>https://albertoacerbi.github.io/publication/2013_plos_a/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2013_plos_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The expression of emotions in 20th century books</title>
+      <link>https://albertoacerbi.github.io/publication/2013_plos_b/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2013_plos_b/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I wrote a &lt;a href=&#34;http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html&#34; target=&#34;_blank&#34;&gt;popular summary&lt;/a&gt; of the paper for the &lt;em&gt;Huffington Post&lt;/em&gt; (US edition). Other media coverage includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nature.com/news/text-mining-uncovers-british-reserve-and-us-emotion-1.12642&#34; target=&#34;_blank&#34;&gt;Text mining uncovers British reserve and US emotion&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://artsbeat.blogs.nytimes.com/2013/03/25/fold-up-your-handkerchiefs-books-have-gotten-less-emotional-study-says/?mtrref=undefined&amp;amp;gwh=C9D8521D01CC2505709A530FCDC5B87D&amp;amp;gwt=pay&amp;amp;assetType=REGIWALL&#34; target=&#34;_blank&#34;&gt;Fold Up Your Handkerchiefs: Books Have Gotten Less &amp;lsquo;Emotional&amp;rsquo;, Study Says&lt;/a&gt;, &lt;em&gt;The New York Times&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ricerca.repubblica.it/repubblica/archivio/repubblica/2013/03/21/aiuto-nostri-romanzi-hanno-perso-le-emozioni.html&#34; target=&#34;_blank&#34;&gt;Aiuto, i nostri romanzi hanno perso le emozioni&lt;/a&gt; (in Italian), &lt;em&gt;La Repubblica&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A radio interview for BBC &lt;em&gt;Material World&lt;/em&gt;: &lt;a href=&#34;https://www.bbc.co.uk/programmes/b01r9sl7&#34; target=&#34;_blank&#34;&gt;Planck, Elusive Giant Squid, Emotive words&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Old and Young Individuals’ Role in Cultural Change</title>
+      <link>https://albertoacerbi.github.io/publication/2012_jasss/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2012_jasss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2012_leadership/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2012_leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral constraints and the evolution of faithful social learning</title>
+      <link>https://albertoacerbi.github.io/publication/2012_cur_zoo/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2012_cur_zoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Logic of Fashion Cycles</title>
+      <link>https://albertoacerbi.github.io/publication/2012_plos/</link>
+      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2012_plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory Traits in Cultural Evolution</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2012_regulatory/</link>
+      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2012_regulatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling imitation and emulation in constrained search spaces</title>
+      <link>https://albertoacerbi.github.io/publication/2011_learn_behav/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2011_learn_behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predation and the phasing of sleep: an evolutionary individual-based model</title>
+      <link>https://albertoacerbi.github.io/publication/2011_an_behav/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2011_an_behav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Sometimes Evitable Route to Conservatism and Persuasiveness. A Reply to Xue and Costopoulos</title>
+      <link>https://albertoacerbi.github.io/publication/2010_cur_anthr/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2010_cur_anthr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural evolution and individual development of openness and conservatism</title>
+      <link>https://albertoacerbi.github.io/publication/2009_pnas/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2009_pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orienting learning by exploiting sociality: an evolutionary robotics simulations</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2009_orienting/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2009_orienting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social learning in embodied agents</title>
+      <link>https://albertoacerbi.github.io/publication/2008_conn_sci/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2008_conn_sci/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;I edited, together with Davide Marocco and Paul Vogt, a double special issue of the journal &lt;em&gt;Connection Science&lt;/em&gt; on the topic &amp;ldquo;Social Learning in Embodied Agents&amp;rdquo;. This is our editorial.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
+      <link>https://albertoacerbi.github.io/publication/2008_bmc/</link>
+      <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2008_bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_social/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution of pain</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_pain/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_embodied/</link>
+      <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_embodied/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation and Social Facilitation in a Population of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_adaptation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural transmission between and within generations</title>
+      <link>https://albertoacerbi.github.io/publication/2006_jasss/</link>
+      <pubDate>Tue, 31 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/2006_jasss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

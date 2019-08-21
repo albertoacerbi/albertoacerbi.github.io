@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/publication_types/1/</link>
+      <atom:link href="https://albertoacerbi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://albertoacerbi.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Robustness of emotion extraction from 20th century English books</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2013_emotion/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2013_emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2012_leadership/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2012_leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory Traits in Cultural Evolution</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2012_regulatory/</link>
+      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2012_regulatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orienting learning by exploiting sociality: an evolutionary robotics simulations</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2009_orienting/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2009_orienting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_social/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution of pain</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_pain/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_embodied/</link>
+      <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_embodied/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation and Social Facilitation in a Population of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_adaptation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_adaptation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

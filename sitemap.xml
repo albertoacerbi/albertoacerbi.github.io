@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/admin/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2019_wellcome/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2019_ordeal_simulation/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/2/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/oleg-sobchuk/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/olivier-morin/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2019_pal_comm_b/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/cultural-evolution/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/evolutionary-psychology/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/fiction/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/text-mining/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2019_neoliberal/</loc>
+    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/3/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/preprint_stability/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/helena-miton/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/mathieu-charbonneau/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/thom-scott-phillips/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/cultural-attraction/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/individual-based-models/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2019_morgue/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2019_pal_comm_a/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/digital-media/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/misinformation/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/amanda-webber/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/christoph-schwitzer/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/daphne-kerhoas/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/grainne-mccabe/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/russell-mittermeier/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/preprint_top25/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/conservation/</loc>
+    <lastmod>2019-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2019_plos/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/edwin-j.-c.-van-leeuwen/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/thomas-j.-h.-morgan/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/transmission-biases/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/alex-mesoudi/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/charlotte-brand/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/preprint_songlyrics/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/emotions/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2018_jocc/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/jamshid-j.-tehrani/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/experiment/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/0/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/claudio-tennie/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/daniel-b.-m.-haun/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2018_sci_rep/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2018_bbs/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/pier-luigi-sacco/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2018_avoiding/</loc>
+    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/post/2018_jce_update/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/damian-ruck/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/daniel-j.-hruschka/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/philip-garnett/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/r.-alexander-bentley/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2017_complex_sys/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2017_ehb/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/jeremy-kendal/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2017_cog_emo/</loc>
+    <lastmod>2017-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2017_phil_sci/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2016_fhn/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2016_an_behav/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/rachel-l.-kendal/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2016_sci_rep/</loc>
+    <lastmod>2016-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2016_rsos/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2016_jcp/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/alife/robotics/</loc>
+    <lastmod>2015-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/davide-marocco/</loc>
+    <lastmod>2015-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2015_plos/</loc>
+    <lastmod>2015-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/francesco-pugliese/</loc>
+    <lastmod>2015-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2015_phil_bio/</loc>
+    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2014_plos_a/</loc>
+    <lastmod>2014-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/harold-herzog/</loc>
+    <lastmod>2014-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/stefano-ghirlanda/</loc>
+    <lastmod>2014-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2014_ehb/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2014_plos_b/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/paul-ormerod/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/vasileios-lampos/</loc>
+    <lastmod>2014-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/6/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/magnus-enquist/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2014_regulatory/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/1/</loc>
+    <lastmod>2013-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2013_emotion/</loc>
+    <lastmod>2013-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2013_plos_a/</loc>
+    <lastmod>2013-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/james-a.-serpell/</loc>
+    <lastmod>2013-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2013_plos_b/</loc>
+    <lastmod>2013-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2012_jasss/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2012_leadership/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/orazio-miglino/</loc>
+    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2012_cur_zoo/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/pierre-o.-jacquet/</loc>
+    <lastmod>2012-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2012_plos/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2012_regulatory/</loc>
+    <lastmod>2012-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/charles-l.-nunn/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2011_learn_behav/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2011_an_behav/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/sleep/</loc>
+    <lastmod>2011-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/mayuko-makamaru/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2010_cur_anthr/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2009_pnas/</loc>
+    <lastmod>2009-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2009_orienting/</loc>
+    <lastmod>2009-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/paul-vogt/</loc>
+    <lastmod>2008-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2008_conn_sci/</loc>
+    <lastmod>2008-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/patrick-mcnamara/</loc>
+    <lastmod>2008-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2008_bmc/</loc>
+    <lastmod>2008-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/domenico-parisi/</loc>
+    <lastmod>2007-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2007_social/</loc>
+    <lastmod>2007-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/stefano-nolfi/</loc>
+    <lastmod>2007-09-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2007_pain/</loc>
+    <lastmod>2007-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2007_embodied/</loc>
+    <lastmod>2007-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/cp_2007_adaptation/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2006_jasss/</loc>
+    <lastmod>2006-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/courses/</loc>
+  </url>
+  
+</urlset>

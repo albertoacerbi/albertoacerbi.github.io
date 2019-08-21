@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefano Nolfi | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/authors/stefano-nolfi/</link>
+      <atom:link href="https://albertoacerbi.github.io/authors/stefano-nolfi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefano Nolfi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Sep 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>Stefano Nolfi</title>
+      <link>https://albertoacerbi.github.io/authors/stefano-nolfi/</link>
+    </image>
+    
+    <item>
+      <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_social/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
+      <link>https://albertoacerbi.github.io/publication/cp_2007_embodied/</link>
+      <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/publication/cp_2007_embodied/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
