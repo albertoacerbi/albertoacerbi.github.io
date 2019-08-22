@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albertoacerbi.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albertoacerbi.github.io/authors/admin/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
@@ -427,34 +412,6 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://albertoacerbi.github.io/publication/2016_jcp/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -641,6 +598,35 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/publication_types/5/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/alessandro-lutri/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/sabrina-tonutti/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2009_umano/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/in-italian/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/publication/2009_pnas/</loc>
     <lastmod>2009-11-10T00:00:00+00:00</lastmod>
   </url>
@@ -648,6 +634,16 @@
   <url>
     <loc>https://albertoacerbi.github.io/publication/cp_2009_orienting/</loc>
     <lastmod>2009-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2009_rifl/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2008_si/</loc>
+    <lastmod>2008-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -670,6 +666,17 @@
   <url>
     <loc>https://albertoacerbi.github.io/publication/2008_bmc/</loc>
     <lastmod>2008-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication_types/7/</loc>
+    <lastmod>2007-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/2007_phd/</loc>
+    <lastmod>2007-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -710,12 +717,18 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://albertoacerbi.github.io/publication/2005_si/</loc>
+    <lastmod>2005-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/courses/</loc>
+    <loc>https://albertoacerbi.github.io/publication/2005_annali/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
