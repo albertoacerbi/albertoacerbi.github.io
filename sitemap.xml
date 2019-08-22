@@ -18,24 +18,14 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albertoacerbi.github.io/authors/admin/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -121,6 +111,16 @@
     <loc>https://albertoacerbi.github.io/tags/text-mining/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/talk/2019_brunel/</loc>
+    <lastmod>2019-05-22T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/talk/</loc>
+    <lastmod>2019-05-22T15:00:00+00:00</lastmod>
   </url>
   
   <url>
