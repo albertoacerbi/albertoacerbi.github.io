@@ -616,7 +616,7 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2009_umano/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2009_umano/</loc>
     <lastmod>2009-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -637,12 +637,17 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2009_rifl/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2009_rifl/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2008_si/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2009_differenti/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/ita_2008_si/</loc>
     <lastmod>2008-08-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -669,13 +674,18 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/publication/ita_2008_trasmissioni/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/publication_types/7/</loc>
     <lastmod>2007-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2007_phd/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2007_phd/</loc>
     <lastmod>2007-11-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -717,12 +727,27 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2005_si/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2006_folkbio/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/ita_2006_aisc/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/ita_2005_si/</loc>
     <lastmod>2005-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/publication/2005_annali/</loc>
+    <loc>https://albertoacerbi.github.io/publication/ita_2005_folkanthro/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/publication/ita_2005_annali/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
   
