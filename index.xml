@@ -5,12 +5,48 @@
     <link>https://albertoacerbi.github.io/</link>
       <atom:link href="https://albertoacerbi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albertoacerbi.github.io/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
       <link>https://albertoacerbi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Cultural evolution and cultural attraction</title>
+      <link>https://albertoacerbi.github.io/project/4_attraction/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/4_attraction/</guid>
+      <description>&lt;p&gt;On a more theoretical side, I am interested in the relationship between cultural attraction theory and “standard” cultural evolution theory.  While I have &lt;a href=&#34;https://albertoacerbi.github.io/publication/2015_phil_bio/&#34; target=&#34;_blank&#34;&gt;argued&lt;/a&gt; that the two approaches are not necessarily in conflict, I believe that cultural attraction theory presents some important points that deserve further empirical investigation: among others, the influence of general cognitive factors on culture (from &lt;a href=&#34;https://albertoacerbi.github.io/publication/2017_ehb/&#34; target=&#34;_blank&#34;&gt;folktales&lt;/a&gt; to &lt;a href=&#34;https://albertoacerbi.github.io/publication/2019_pal_comm_a/&#34; target=&#34;_blank&#34;&gt;online misinformation&lt;/a&gt;), or the fact that, in some domains, the actual &lt;a href=&#34;https://albertoacerbi.github.io/publication/2018_jocc/&#34; target=&#34;_blank&#34;&gt;content&lt;/a&gt; of cultural traits might be more important than contextual or “social” factors to determine their success. I recently worked on a series of &lt;a href=&#34;https://albertoacerbi.github.io/publication/preprint_stability/&#34; target=&#34;_blank&#34;&gt;simulation models&lt;/a&gt; that can be considered an attempt to formalise cultural attraction theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural evolution in the digital age</title>
+      <link>https://albertoacerbi.github.io/project/3_ceda/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/3_ceda/</guid>
+      <description>&lt;p&gt;In the last years, I become interested in how cultural evolution can contribute to the study of cultural dynamics in the digital age, and, at the same time, how new digital media impact on human cultural evolution. You can find in my blog a few posts on this. &lt;a href=&#34;https://albertoacerbi.github.io/publication/2016_fhn/&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; a paper where I present some possible areas of interest and &lt;a href=&#34;https://albertoacerbi.github.io/publication/2019_pal_comm_a/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; one where I study online misinformation for a cognitive anthropology perspective. I recently finished a book manuscript on the topic, &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943&#34; target=&#34;_blank&#34;&gt;in press&lt;/a&gt; with Oxford University Press (scheduled to appear end 2019, but drop me a line if interested in the manuscript!)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual based models of cultural evolution</title>
+      <link>https://albertoacerbi.github.io/project/1_ibm/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/1_ibm/</guid>
+      <description>&lt;p&gt;I started my academic career as a modeller (in fact, as an artificial life/robotics researcher, &lt;a href=&#34;https://albertoacerbi.github.io/publication/2006_jasss/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; is my first ever publication) and I continue to believe that computational models are a fundamental tool to develop research in cultural evolution. On the one hand, models are excellent theory-generating machines: they allow you to formalise your thought experiments, and to explore their consequences, which is sometime impossible by intuition alone. On the other, models make your theories explicit and directly testable by other researchers. Recent topics include whether &lt;a href=&#34;https://albertoacerbi.github.io/publication/preprint_stability/&#34; target=&#34;_blank&#34;&gt;cultural stability can be obtained without copying or selction&lt;/a&gt; (yes), whether &lt;a href=&#34;https://albertoacerbi.github.io/publication/2016_sci_rep/&#34; target=&#34;_blank&#34;&gt;conformity can be detected from population-level effects&lt;/a&gt;  (not always), or how &lt;a href=&#34;https://albertoacerbi.github.io/publication/2016_jcp/&#34; target=&#34;_blank&#34;&gt;redundancy can contribute to cultural stabilization&lt;/a&gt;. I am also particularly interested in the opportunities offered by tools like Git or Rmarkdown to document step-by-step the development of your models, as I am currently doing &lt;a href=&#34;https://github.com/albertoacerbi/oranzees&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative analysis of large-scale cultural data</title>
+      <link>https://albertoacerbi.github.io/project/2_culturomics/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/project/2_culturomics/</guid>
+      <description>&lt;p&gt;I am interested in the analysis of large, naturally occurring, datasets to investigate (especially modern) human cultural dynamics. For example, I used data on dog registrations to analyse whether their popularity is due to individual considerations or to social influence (&lt;a href=&#34;https://albertoacerbi.github.io/publication/2013_plos_a/&#34; target=&#34;_blank&#34;&gt;the latter, it seems&lt;/a&gt;), data from Google Books and the Gutenberg project to analyse &lt;a href=&#34;https://albertoacerbi.github.io/publication/2017_cog_emo/&#34; target=&#34;_blank&#34;&gt;the change in the expression of emotions&lt;/a&gt; through the last centuries, data on baby names and last.fm playlists to detect whether the turnover in popularity of cultural traits can give us some indication of the &lt;a href=&#34;https://albertoacerbi.github.io/publication/2014_ehb/&#34; target=&#34;_blank&#34;&gt;learning biases involved&lt;/a&gt;, or data on folktales, to check whether their complexity is correlated with the size of the population were they are diffused (&lt;a href=&#34;https://albertoacerbi.github.io/publication/2017_ehb/&#34; target=&#34;_blank&#34;&gt;no&lt;/a&gt;). I &lt;a href=&#34;(https://albertoacerbi.github.io/publication/preprint_songlyrics/)&#34; target=&#34;_blank&#34;&gt;recently&lt;/a&gt; studied the cultural evolution of emotion words in a large (&amp;gt;150,000 songs) data set of English-language song lyrics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
@@ -169,187 +205,6 @@
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://albertoacerbi.github.io/publication/preprint_top25/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://albertoacerbi.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>

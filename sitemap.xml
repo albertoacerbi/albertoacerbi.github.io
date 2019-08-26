@@ -3,14 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albertoacerbi.github.io/authors/admin/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>https://albertoacerbi.github.io/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <loc>https://albertoacerbi.github.io/project/4_attraction/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/3_ceda/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/1_ibm/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/project/2_culturomics/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/authors/admin/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -215,17 +241,6 @@
     <loc>https://albertoacerbi.github.io/tags/conservation/</loc>
     <lastmod>2019-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
