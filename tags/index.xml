@@ -5,12 +5,36 @@
     <link>https://albertoacerbi.github.io/tags/</link>
       <atom:link href="https://albertoacerbi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://albertoacerbi.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://albertoacerbi.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>big questions</title>
+      <link>https://albertoacerbi.github.io/tags/big-questions/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/tags/big-questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital age</title>
+      <link>https://albertoacerbi.github.io/tags/digital-age/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/tags/digital-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>my research</title>
+      <link>https://albertoacerbi.github.io/tags/my-research/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/tags/my-research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cultural evolution</title>
@@ -41,6 +65,14 @@
       <link>https://albertoacerbi.github.io/tags/text-mining/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://albertoacerbi.github.io/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent</title>
+      <link>https://albertoacerbi.github.io/tags/recent/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/tags/recent/</guid>
       <description></description>
     </item>
     

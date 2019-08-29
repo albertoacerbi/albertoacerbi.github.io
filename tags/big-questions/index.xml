@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big questions | Alberto Acerbi</title>
+    <link>https://albertoacerbi.github.io/tags/big-questions/</link>
+      <atom:link href="https://albertoacerbi.github.io/tags/big-questions/index.xml" rel="self" type="application/rss+xml" />
+    <description>big questions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <title>big questions</title>
+      <link>https://albertoacerbi.github.io/tags/big-questions/</link>
+    </image>
+    
+    <item>
+      <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
+      <link>https://albertoacerbi.github.io/post/2019_wellcome/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_wellcome/</guid>
+      <description>&lt;p&gt;The Wellcome Trust has recently (yesterday) released the 2018 &lt;a href=&#34;https://wellcome.ac.uk/reports/wellcome-global-monitor/2018&#34; target=&#34;_blank&#34;&gt;Global Monitor&lt;/a&gt;, a 140,000 people survey on how ‘people around the world think and feel about science and major health challenges’. Among the many interesting pieces of information, not surprisingly, attitudes towards vaccinations are starting to be widely discussed in the &lt;a href=&#34;https://www.theguardian.com/society/2019/jun/19/survey-shows-crisis-of-confidence-in-vaccines-in-parts-of-europe&#34; target=&#34;_blank&#34;&gt;press&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first important thing to notice, as the Wellcome Trust correctly does, is that ‘worldwide, 79% of people agree that vaccines are safe and 84% agree that they are effective’ and ‘92% of parents worldwide said that their children have received a vaccine to prevent them from getting childhood diseases .’ Whatever we may think, the majority of people around the world rightly believe that vaccines are good. Of course, there is a minority of people, especially in western countries, that is less convinced of that. Citing again the Wellcome Trust, ‘In France, one in three people disagree that vaccines are safe, the highest percentage for any country worldwide’. The France figure is, however, one of few outliers, also for western countries, where the averages of people disagreeing that vaccines are safe are around 10%.&lt;/p&gt;
+
+&lt;p&gt;Still, that one out of ten persons in western countries could think as such is worrying. Not surprisingly, social media has been identified as one of the culprits of this situation, and I bet that, following the Wellcome Trust survey, the trend will continue (I already found one article &lt;a href=&#34;https://www.independent.co.uk/news/health/anti-vaxx-vaccination-myth-poll-europe-pro-nature-birth-a8964441.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). Out of curiosity, I correlated the Wellcome trust data with recent data on social media penetration/usage in Europe, and they are not correlated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./social_media.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I was on it, I also correlated the data with the importance of religion..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./religion.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;the trust in science&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./science.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;and the GDP pro capita&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./gdp.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Naturally, this is a very basic analysis. It could be for example that, within countries, people that are sceptical of vaccines use more social media than others. That anti-vaxx information spreads effectively in social media is not surprising. There are &lt;a href=&#34;https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(15)00197-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661315001977%3Fshowall%3Dtrue&#34; target=&#34;_blank&#34;&gt;many reasons&lt;/a&gt; why anti-vaccination beliefs are easy to spread (and, conversely, it could be more difficult with pro-vaccination beliefs). Information around vaccines is psychologically attractive, involving potentially disgust and counterintuitive concepts that, coupled with a possible negative bias, make fearmongering on vaccines a good topic for &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;online misinformation&lt;/a&gt;. All of this, however, is not a prerogative of digital social media (where correct, pro-vaccine, information &lt;a href=&#34;https://jamanetwork.com/journals/jama/fullarticle/2670250&#34; target=&#34;_blank&#34;&gt;also spreads effectively&lt;/a&gt;), and vaccine hesitancy is &lt;a href=&#34;http://sethmnookin.com/the-panic-virus/&#34; target=&#34;_blank&#34;&gt;as old as vaccines themselves&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In any case, each time you hear someone saying, or writing, that anti-vaccination beliefs are linked to social media you should be sceptical. At least: it is not obvious.&lt;/p&gt;
+
+&lt;p&gt;If you are interested, all the technical stuff (data, R script, what I coded exactly as “vaccine hesitancy”, “social media penetration”, etc.) are in &lt;a href=&#34;https://github.com/albertoacerbi/vaccines-wellcome&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; GitHub repository.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is cultural evolution “neoliberal”?</title>
+      <link>https://albertoacerbi.github.io/post/2019_neoliberal/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://albertoacerbi.github.io/post/2019_neoliberal/</guid>
+      <description>&lt;p&gt;I have been involved, over the weekend, in a small twitter debate on the old question of whether anthropology should use qualitative or quantitative methodologies. The debate was not particularly interesting by itself (I had many, probably too many, similar conversations starting when I was an undergraduate student) and the readers of this blog know, or suspect, my position, so I am not dwelling on it. There is, however, a marginal aspect that made me think a bit: I have the feeling that, when it is all said and done, the negative attitudes toward quantifications are linked to the idea that quantifying human culture is politically “neoliberal”, if not altogether “right-wing”.&lt;/p&gt;
+
+&lt;p&gt;I am sure that no critic of quantification in anthropology will accept this as their own position and they will express more cogent (at least from their point of view) arguments. It does not matter: I am happy to explore a straw man here. (A tweet that was stating it explicitly appeared at some point over the weekend, and it was “liked” by one of the persons involved in the debate, but that is just a side-note, a “like” on Twitter does not need to mean anything.)&lt;/p&gt;
+
+&lt;p&gt;Whereas I can grasp why some evolutionary approaches can be considered as supporting neoliberal social policies – even though I think the question is more nuanced and complicated – how can quantification by itself be? Is studying &lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0106565&#34; target=&#34;_blank&#34;&gt;how movies influence the popularity of dog breeds&lt;/a&gt; neoliberal? Is it &lt;em&gt;counting&lt;/em&gt; how many different &lt;a href=&#34;http://www.ehbonline.org/article/S1090-5138(16)30274-4/fulltext&#34; target=&#34;_blank&#34;&gt;folktales&lt;/a&gt; there are in different populations? Is cultural evolution, intended as a general project of applying scientific and quantitative methods to the study of culture, neoliberal?&lt;/p&gt;
+
+&lt;p&gt;Enough with rhetorical questions, but I would be interested if anybody knows any scholarly reference or developed argument that support this position (again, I know, it is a straw man). The only reason I can think of is that, in the last decades, researchers working on quantitative approaches to culture have been less active in political matters than researchers working on qualitative approaches, even though my impression is that the formers are politically leaning left as much as the rest of social scientists (at least the people that refer to the “cultural evolution” label).&lt;/p&gt;
+
+&lt;p&gt;I am really not interested in starting a debate, but perhaps there are reasons for considering quantification as such, and I’d be happy to exploit collective intelligence to know more (as said, possibly in the form of scholarly publications, etc.). Ok, I am going back to my R codes now.
+&lt;img src=&#34;./wall.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

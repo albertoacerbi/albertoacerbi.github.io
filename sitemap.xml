@@ -51,13 +51,37 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/tags/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/post/2019_wellcome/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/tags/big-questions/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/digital-age/</loc>
+    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/post/2019_ordeal_simulation/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/my-research/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -87,12 +111,6 @@
   <url>
     <loc>https://albertoacerbi.github.io/publication/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/tags/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -140,6 +158,23 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/media/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/cicap/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/tags/recent/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/publication_types/3/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -178,6 +213,11 @@
     <loc>https://albertoacerbi.github.io/tags/individual-based-models/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/cmo/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -341,16 +381,6 @@
   </url>
   
   <url>
-    <loc>https://albertoacerbi.github.io/post/2018_avoiding/</loc>
-    <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://albertoacerbi.github.io/post/2018_jce_update/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://albertoacerbi.github.io/authors/damian-ruck/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -432,6 +462,11 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/media/plato/</loc>
+    <lastmod>2015-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/tags/alife/robotics/</loc>
     <lastmod>2015-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -460,6 +495,16 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/media/nyt_movies_dogs/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/science_movies_dogs/</loc>
+    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/publication/2014_plos_a/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -479,6 +524,21 @@
   <url>
     <loc>https://albertoacerbi.github.io/publication/2014_ehb/</loc>
     <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/cnn_misery/</loc>
+    <lastmod>2014-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/radio3_misery/</loc>
+    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/guardian_misery/</loc>
+    <lastmod>2014-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -538,8 +598,28 @@
   </url>
   
   <url>
+    <loc>https://albertoacerbi.github.io/media/huffington_emotions/</loc>
+    <lastmod>2013-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/nature_emotions/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://albertoacerbi.github.io/publication/2013_plos_b/</loc>
     <lastmod>2013-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/repubblica_emotions/</loc>
+    <lastmod>2013-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://albertoacerbi.github.io/media/bbc_emotions/</loc>
+    <lastmod>2013-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
