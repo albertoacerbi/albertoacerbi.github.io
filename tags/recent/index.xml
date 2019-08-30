@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent | Alberto Acerbi</title>
+    <link>https://acerbialberto.com/tags/recent/</link>
+      <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <title>Recent</title>
+      <link>https://acerbialberto.com/tags/recent/</link>
+    </image>
+    
+    <item>
+      <title>Perché le fake news ci attraggono? Un contributo dall’antropologia cognitiva ed evoluzionistica</title>
+      <link>https://acerbialberto.com/media/cicap/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/cicap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dedicated Followers (After a Fashion)</title>
+      <link>https://acerbialberto.com/media/cmo/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/cmo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
