@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Alberto Acerbi</title>
-    <link>http://acerbialberto.com/publication_types/3/</link>
-      <atom:link href="http://acerbialberto.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/publication_types/3/</link>
+      <atom:link href="https://acerbialberto.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://acerbialberto.com/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>3</title>
-      <link>http://acerbialberto.com/publication_types/3/</link>
+      <link>https://acerbialberto.com/publication_types/3/</link>
     </image>
     
     <item>
       <title>Cultural stability without copying</title>
-      <link>http://acerbialberto.com/publication/preprint_stability/</link>
+      <link>https://acerbialberto.com/publication/preprint_stability/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/publication/preprint_stability/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>http://acerbialberto.com/publication/preprint_top25/</link>
+      <link>https://acerbialberto.com/publication/preprint_top25/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/publication/preprint_top25/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_top25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>http://acerbialberto.com/publication/preprint_songlyrics/</link>
+      <link>https://acerbialberto.com/publication/preprint_songlyrics/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/publication/preprint_songlyrics/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_songlyrics/</guid>
       <description></description>
     </item>
     

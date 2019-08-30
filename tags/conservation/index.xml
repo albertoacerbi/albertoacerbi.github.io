@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conservation | Alberto Acerbi</title>
-    <link>http://acerbialberto.com/tags/conservation/</link>
-      <atom:link href="http://acerbialberto.com/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/conservation/</link>
+      <atom:link href="https://acerbialberto.com/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
     <description>conservation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://acerbialberto.com/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>conservation</title>
-      <link>http://acerbialberto.com/tags/conservation/</link>
+      <link>https://acerbialberto.com/tags/conservation/</link>
     </image>
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>http://acerbialberto.com/publication/preprint_top25/</link>
+      <link>https://acerbialberto.com/publication/preprint_top25/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/publication/preprint_top25/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_top25/</guid>
       <description></description>
     </item>
     

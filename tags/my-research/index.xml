@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>my research | Alberto Acerbi</title>
-    <link>http://acerbialberto.com/tags/my-research/</link>
-      <atom:link href="http://acerbialberto.com/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/my-research/</link>
+      <atom:link href="https://acerbialberto.com/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
     <description>my research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://acerbialberto.com/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>my research</title>
-      <link>http://acerbialberto.com/tags/my-research/</link>
+      <link>https://acerbialberto.com/tags/my-research/</link>
     </image>
     
     <item>
       <title>The ordeal simulation hypothesis</title>
-      <link>http://acerbialberto.com/post/2019_ordeal_simulation/</link>
+      <link>https://acerbialberto.com/post/2019_ordeal_simulation/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/post/2019_ordeal_simulation/</guid>
+      <guid>https://acerbialberto.com/post/2019_ordeal_simulation/</guid>
       <description>&lt;p&gt;You have probably heard the adagio that “man bites dog”, and not “dog bites man”, makes for a good piece of news: unusual, exceptional, events are better stories than everyday occurrences. Hidden behind the surface, however, there is another message that seems so obvious we do not even think about it: both examples are negative events. “Dog wins the lottery” would probably be a good piece of news too, but it is not mentioned. That negative news – and possibly negative narratives in general – are more attractive than positive ones is a bit of a cliché, but it supported by much research.&lt;/p&gt;
 
 &lt;p&gt;An interesting case-study is false news. By definition, they do not need to describe real facts, so they can exploit our preferences in an almost unconstrained way. In a content analysis of a small sample of articles categorised as online misinformation, I found that &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;negative articles where around five times more numerous than positive articles&lt;/a&gt;. It is not just about news. English-language fiction became consistently more negative &lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528&#34; target=&#34;_blank&#34;&gt;in the last two centuries&lt;/a&gt;, and English-language song lyrics did the same &lt;a href=&#34;https://osf.io/preprints/socarxiv/3j6wx/&#34; target=&#34;_blank&#34;&gt;in the last fifty years&lt;/a&gt;.&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Morgue employee cremated by mistake while taking a nap</title>
-      <link>http://acerbialberto.com/post/2019_morgue/</link>
+      <link>https://acerbialberto.com/post/2019_morgue/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://acerbialberto.com/post/2019_morgue/</guid>
+      <guid>https://acerbialberto.com/post/2019_morgue/</guid>
       <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
 
 &lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34; target=&#34;_blank&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34; target=&#34;_blank&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;

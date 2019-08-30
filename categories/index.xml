@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Alberto Acerbi</title>
-    <link>http://acerbialberto.com/categories/</link>
-      <atom:link href="http://acerbialberto.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/categories/</link>
+      <atom:link href="https://acerbialberto.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://acerbialberto.com/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>http://acerbialberto.com/categories/</link>
+      <link>https://acerbialberto.com/categories/</link>
     </image>
     
   </channel>
