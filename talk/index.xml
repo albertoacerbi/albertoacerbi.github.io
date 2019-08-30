@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/talk/</link>
-      <atom:link href="https://albertoacerbi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/talk/</link>
+      <atom:link href="http://acerbialberto.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2019 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://albertoacerbi.github.io/talk/</link>
+      <link>http://acerbialberto.com/talk/</link>
     </image>
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
-      <link>https://albertoacerbi.github.io/talk/2019_brunel/</link>
+      <link>http://acerbialberto.com/talk/2019_brunel/</link>
       <pubDate>Wed, 22 May 2019 15:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/talk/2019_brunel/</guid>
+      <guid>http://acerbialberto.com/talk/2019_brunel/</guid>
       <description></description>
     </item>
     

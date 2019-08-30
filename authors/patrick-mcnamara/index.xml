@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick McNamara | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/authors/patrick-mcnamara/</link>
-      <atom:link href="https://albertoacerbi.github.io/authors/patrick-mcnamara/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/authors/patrick-mcnamara/</link>
+      <atom:link href="http://acerbialberto.com/authors/patrick-mcnamara/index.xml" rel="self" type="application/rss+xml" />
     <description>Patrick McNamara</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jun 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>Patrick McNamara</title>
-      <link>https://albertoacerbi.github.io/authors/patrick-mcnamara/</link>
+      <link>http://acerbialberto.com/authors/patrick-mcnamara/</link>
     </image>
     
     <item>
       <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
-      <link>https://albertoacerbi.github.io/publication/2008_bmc/</link>
+      <link>http://acerbialberto.com/publication/2008_bmc/</link>
       <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/2008_bmc/</guid>
+      <guid>http://acerbialberto.com/publication/2008_bmc/</guid>
       <description></description>
     </item>
     

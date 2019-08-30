@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grainne McCabe | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/authors/grainne-mccabe/</link>
-      <atom:link href="https://albertoacerbi.github.io/authors/grainne-mccabe/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/authors/grainne-mccabe/</link>
+      <atom:link href="http://acerbialberto.com/authors/grainne-mccabe/index.xml" rel="self" type="application/rss+xml" />
     <description>Grainne McCabe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>Grainne McCabe</title>
-      <link>https://albertoacerbi.github.io/authors/grainne-mccabe/</link>
+      <link>http://acerbialberto.com/authors/grainne-mccabe/</link>
     </image>
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>https://albertoacerbi.github.io/publication/preprint_top25/</link>
+      <link>http://acerbialberto.com/publication/preprint_top25/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/preprint_top25/</guid>
+      <guid>http://acerbialberto.com/publication/preprint_top25/</guid>
       <description></description>
     </item>
     

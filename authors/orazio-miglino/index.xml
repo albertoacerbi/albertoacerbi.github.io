@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orazio Miglino | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/authors/orazio-miglino/</link>
-      <atom:link href="https://albertoacerbi.github.io/authors/orazio-miglino/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/authors/orazio-miglino/</link>
+      <atom:link href="http://acerbialberto.com/authors/orazio-miglino/index.xml" rel="self" type="application/rss+xml" />
     <description>Orazio Miglino</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Sep 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>Orazio Miglino</title>
-      <link>https://albertoacerbi.github.io/authors/orazio-miglino/</link>
+      <link>http://acerbialberto.com/authors/orazio-miglino/</link>
     </image>
     
     <item>
       <title>Emergence of Leadership in a Group of Autonomous Robots</title>
-      <link>https://albertoacerbi.github.io/publication/cp_2012_leadership/</link>
+      <link>http://acerbialberto.com/publication/cp_2012_leadership/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/cp_2012_leadership/</guid>
+      <guid>http://acerbialberto.com/publication/cp_2012_leadership/</guid>
       <description></description>
     </item>
     

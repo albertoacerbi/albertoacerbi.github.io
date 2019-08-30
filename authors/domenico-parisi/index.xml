@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domenico Parisi | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/authors/domenico-parisi/</link>
-      <atom:link href="https://albertoacerbi.github.io/authors/domenico-parisi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/authors/domenico-parisi/</link>
+      <atom:link href="http://acerbialberto.com/authors/domenico-parisi/index.xml" rel="self" type="application/rss+xml" />
     <description>Domenico Parisi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Sep 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>Domenico Parisi</title>
-      <link>https://albertoacerbi.github.io/authors/domenico-parisi/</link>
+      <link>http://acerbialberto.com/authors/domenico-parisi/</link>
     </image>
     
     <item>
       <title>The evolution of pain</title>
-      <link>https://albertoacerbi.github.io/publication/cp_2007_pain/</link>
+      <link>http://acerbialberto.com/publication/cp_2007_pain/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/cp_2007_pain/</guid>
+      <guid>http://acerbialberto.com/publication/cp_2007_pain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural transmission between and within generations</title>
-      <link>https://albertoacerbi.github.io/publication/2006_jasss/</link>
+      <link>http://acerbialberto.com/publication/2006_jasss/</link>
       <pubDate>Tue, 31 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/2006_jasss/</guid>
+      <guid>http://acerbialberto.com/publication/2006_jasss/</guid>
       <description></description>
     </item>
     

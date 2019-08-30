@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sleep | Alberto Acerbi</title>
-    <link>https://albertoacerbi.github.io/tags/sleep/</link>
-      <atom:link href="https://albertoacerbi.github.io/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://acerbialberto.com/tags/sleep/</link>
+      <atom:link href="http://acerbialberto.com/tags/sleep/index.xml" rel="self" type="application/rss+xml" />
     <description>sleep</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://albertoacerbi.github.io/img/icon-192.png</url>
+      <url>http://acerbialberto.com/img/icon-192.png</url>
       <title>sleep</title>
-      <link>https://albertoacerbi.github.io/tags/sleep/</link>
+      <link>http://acerbialberto.com/tags/sleep/</link>
     </image>
     
     <item>
       <title>Predation and the phasing of sleep: an evolutionary individual-based model</title>
-      <link>https://albertoacerbi.github.io/publication/2011_an_behav/</link>
+      <link>http://acerbialberto.com/publication/2011_an_behav/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/2011_an_behav/</guid>
+      <guid>http://acerbialberto.com/publication/2011_an_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
-      <link>https://albertoacerbi.github.io/publication/2008_bmc/</link>
+      <link>http://acerbialberto.com/publication/2008_bmc/</link>
       <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://albertoacerbi.github.io/publication/2008_bmc/</guid>
+      <guid>http://acerbialberto.com/publication/2008_bmc/</guid>
       <description></description>
     </item>
     
