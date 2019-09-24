@@ -3,8 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/post/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/rstudio/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/post/2019_aws_rstudio/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/software/</loc>
+    <lastmod>2019-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,12 +60,6 @@
   
   <url>
     <loc>https://acerbialberto.com/tags/recent/</loc>
-    <lastmod>2019-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -55,22 +88,6 @@
   <url>
     <loc>https://acerbialberto.com/project/4_attraction/</loc>
     <lastmod>2019-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/post/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
