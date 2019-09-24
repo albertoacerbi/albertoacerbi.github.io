@@ -594,7 +594,7 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<p>Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes, as it happens to me now, running <a href="https://github.com/albertoacerbi/oranzees" target="_blank">this</a> individual-based model, you do not have this option. However, I just found out that launching your <a href="https://www.rstudio.com" target="_blank">RStudio</a> script on Amazon Web Service (<a href="https://aws.amazon.com" target="_blank">AWS</a>) is quite easy (and it is free).</p>
+<p>Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running <a href="https://github.com/albertoacerbi/oranzees" target="_blank">this</a> individual-based model - you do not have this option. However, I just found out that launching your <a href="https://www.rstudio.com" target="_blank">RStudio</a> script on Amazon Web Service (<a href="https://aws.amazon.com" target="_blank">AWS</a>) is quite easy (and it is free).</p>
 
 <p>As the information needed is scattered on the web, I put together a short tutorial. If you do not trust me, most material comes from <a href="http://www.louisaslett.com/RStudio_AMI/" target="_blank">here</a>, but it is not  explained step-by-step, some information are possibly not relevant for a non-expert (as myself) and, mostly, the AWS interface has been changed from when the page was written. So, follow this short instructions, and you can close your laptop and have your script running for you somewhere else!</p>
 
@@ -614,25 +614,25 @@
 
 <h5 id="3-choose-the-instance">(3) Choose the instance</h5>
 
-<p>Now we landed on the AWS page of the AMI we choose. The &ldquo;Free Tier&rdquo; instance is already selected, so we do not have to do nothing.</p>
+<p>Now we landed on the AWS page of the AMI we choose. The &ldquo;Free Tier&rdquo; instance is already selected, so we do not have to do anything.</p>
 
 <p><img src="./02.png" alt="png" /></p>
 
 <h5 id="4-configure-the-security">(4) Configure the security</h5>
 
-<p>To access to Rstudio in the cloud with our browser we need to configure the security in the right way thus, before launching the instance, we need to go on the tab 6 (&ldquo;Configure Security Group&rdquo;), and select &ldquo;HTTP&rdquo; from the drop-down menu.</p>
+<p>To access to Rstudio in the cloud with our browser we need to configure the security in the right way. Thus, before launching the instance, we need to go on the tab 6 (&ldquo;Configure Security Group&rdquo;), and select &ldquo;HTTP&rdquo; from the drop-down menu.</p>
 
 <p><img src="./03.png" alt="png" /></p>
 
 <h5 id="5-review-and-launch">(5) Review and launch</h5>
 
-<p>We click on &ldquo;Review and Launch&rdquo; and we land on this page. Check that the &ldquo;AMI details&rdquo; are correct and &ldquo;Launch&rdquo;.</p>
+<p>We click on &ldquo;Review and Launch&rdquo; and we land on this page. Check that the &ldquo;AMI details&rdquo; are correct and then click &ldquo;Launch&rdquo;.</p>
 
 <p><img src="./04.png" alt="png" /></p>
 
 <h5 id="6-select-the-key-pair">(6) Select the key pair</h5>
 
-<p>Before launching the instance, we are asked to select a key pair. From the drop-down menu we choose &ldquo;Proceed without a key pair&rdquo;, and click on the check below.</p>
+<p>Before launching the instance, we are asked to select a key pair. From the drop-down menu we choose &ldquo;Proceed without a key pair&rdquo;, and check the box below. Now we can click &ldquo;Launch Instances&rdquo;.</p>
 
 <p><img src="./05.png" alt="png" /></p>
 
@@ -656,7 +656,7 @@
 
 <h5 id="10-virtual-rstudio">(10) Virtual RStudio</h5>
 
-<p>If all went well, we should see the familiar screen below. There is a <strong>Welcome.R</strong> script. There are two things we should do (which are well explained in the script). First, is advisable to change our password, from the &ldquo;Instance ID&rdquo; to something else of our choice. To do this, we first load the package included (<code>library(&quot;RStudioAMI&quot;)</code>), and use the function <code>passwd()</code>, which asks for old and new password. The second thing is that we can link our Dropbox so that we can load directly our script, using the function <code>linkDropbox()</code>.</p>
+<p>If all went well, we should see the familiar screen below. There is a <strong>Welcome.R</strong> script. There are two things we should do (which are well explained in the script). First, it is advisable to change our password, from the &ldquo;Instance ID&rdquo; to something else of our choice. To do this, we first load the package included (<code>library(&quot;RStudioAMI&quot;)</code>), and use the function <code>passwd()</code>, which asks for old and new password. The second thing is that we can link our Dropbox so that we can load directly our script, using the function <code>linkDropbox()</code>.</p>
 
 <p><img src="./09.png" alt="png" /></p>
 
@@ -666,7 +666,7 @@
 
 <p><img src="./10.png" alt="png" /></p>
 
-<h5 id="12-excluding-folder-from-dropbox-sync">(12) Excluding folder from Dropbox sync</h5>
+<h5 id="12-excluding-folders-from-dropbox-sync">(12) Excluding folders from Dropbox sync</h5>
 
 <p>At this point, a &ldquo;Dropbox&rdquo; folder appears in the &ldquo;Files&rdquo; tab of RStudio. We do not want to sync <em>all</em> our Dropbox folder in the cloud. When our Dropbox folders start to appear in RStudio, we can use the function <code>excludeSyncDropbox(&quot;*&quot;)</code> to exclude all files to be synced.</p>
 
@@ -680,7 +680,7 @@
 
 <h5 id="14-going-back-the-script">(14) Going back the script</h5>
 
-<p>When the script runs, we can close our browser, and just forget about it. To go back to our instance, we go again on the AWS webpage, and we login to our account, and we click the EC2 service.</p>
+<p>When the script runs, we can close our browser, and just forget about it. To go back to our instance, we go again on the AWS webpage, we login to our account, and we click the EC2 service.</p>
 
 <p><img src="./13.png" alt="png" /></p>
 
