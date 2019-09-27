@@ -31,7 +31,7 @@
 
 &lt;h5 id=&#34;2-launch-the-ami&#34;&gt;(2) Launch the AMI&lt;/h5&gt;
 
-&lt;p&gt;Now we want to run our script in the Amazon cloud. Ideally, we would like to run it on a (virtual) computer with RStudio installed. Luckily, someone already did this. Go to &lt;a href=&#34;(http://www.louisaslett.com/RStudio_AMI/)&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; webpage and choose one of the &lt;em&gt;AMI&lt;/em&gt; on the right of the page, according to the geographic location (in my case: EU West, London).&lt;/p&gt;
+&lt;p&gt;Now we want to run our script in the Amazon cloud. Ideally, we would like to run it on a (virtual) computer with RStudio installed. Luckily, someone already did this. Go to &lt;a href=&#34;http://www.louisaslett.com/RStudio_AMI/&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; webpage and choose one of the &lt;em&gt;AMI&lt;/em&gt; on the right of the page, according to the geographic location (in my case: EU West, London).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Machine_Image&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is the Wikipedia page about AMI (Amazon Machine Image) if you want to know more, but you do not need to.&lt;/p&gt;
 
