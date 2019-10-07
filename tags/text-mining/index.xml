@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/tags/text-mining/</link>
       <atom:link href="https://acerbialberto.com/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>text mining</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>text mining</title>
       <link>https://acerbialberto.com/tags/text-mining/</link>
     </image>
+    
+    <item>
+      <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
+      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
@@ -28,14 +36,6 @@
       <link>https://acerbialberto.com/publication/preprint_top25/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_top25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/preprint_songlyrics/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_songlyrics/</guid>
       <description></description>
     </item>
     

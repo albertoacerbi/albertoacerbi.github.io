@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/authors/admin/</link>
       <atom:link href="https://acerbialberto.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
       <link>https://acerbialberto.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
+      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RStudio on Amazon Web Services</title>
@@ -295,14 +303,6 @@
       <link>https://acerbialberto.com/publication/2019_plos/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_plos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/preprint_songlyrics/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_songlyrics/</guid>
       <description></description>
     </item>
     
@@ -756,7 +756,7 @@
     <item>
       <title></title>
       <link>https://acerbialberto.com/authors/admin/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a cognitive/evolutionary anthropologist with a particular interest in computational science, and this is my blog and professional website. The main question that drives my research is: is it possible to find some general factors determining why some cultural traits succeed and others do not? In the cultural arena things climb towards success in a haphazard manner, but some overall regularities may be discovered. To answer this question I use a naturalistic, quantitative, approach (yes, I think anthropology should be a science) with different methodologies, especially individual-based models and quantitative analysis of large-scale data.&lt;/p&gt;
 </description>

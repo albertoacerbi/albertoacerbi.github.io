@@ -5,12 +5,44 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>cultural evolution</title>
+      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emotions</title>
+      <link>https://acerbialberto.com/tags/emotions/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text mining</title>
+      <link>https://acerbialberto.com/tags/text-mining/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transmission biases</title>
+      <link>https://acerbialberto.com/tags/transmission-biases/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/transmission-biases/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RStudio</title>
@@ -61,14 +93,6 @@
     </item>
     
     <item>
-      <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>evolutionary psychology</title>
       <link>https://acerbialberto.com/tags/evolutionary-psychology/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
@@ -81,14 +105,6 @@
       <link>https://acerbialberto.com/tags/fiction/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text mining</title>
-      <link>https://acerbialberto.com/tags/text-mining/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/text-mining/</guid>
       <description></description>
     </item>
     
@@ -129,22 +145,6 @@
       <link>https://acerbialberto.com/tags/conservation/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transmission biases</title>
-      <link>https://acerbialberto.com/tags/transmission-biases/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/transmission-biases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emotions</title>
-      <link>https://acerbialberto.com/tags/emotions/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/emotions/</guid>
       <description></description>
     </item>
     

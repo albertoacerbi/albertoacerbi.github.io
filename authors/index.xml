@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/authors/</link>
       <atom:link href="https://acerbialberto.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,26 @@
     <item>
       <title></title>
       <link>https://acerbialberto.com/authors/admin/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a cognitive/evolutionary anthropologist with a particular interest in computational science, and this is my blog and professional website. The main question that drives my research is: is it possible to find some general factors determining why some cultural traits succeed and others do not? In the cultural arena things climb towards success in a haphazard manner, but some overall regularities may be discovered. To answer this question I use a naturalistic, quantitative, approach (yes, I think anthropology should be a science) with different methodologies, especially individual-based models and quantitative analysis of large-scale data.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alex Mesoudi</title>
+      <link>https://acerbialberto.com/authors/alex-mesoudi/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/alex-mesoudi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charlotte Brand</title>
+      <link>https://acerbialberto.com/authors/charlotte-brand/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/charlotte-brand/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -114,22 +130,6 @@
       <link>https://acerbialberto.com/authors/thomas-j.-h.-morgan/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/thomas-j.-h.-morgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alex Mesoudi</title>
-      <link>https://acerbialberto.com/authors/alex-mesoudi/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/alex-mesoudi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charlotte Brand</title>
-      <link>https://acerbialberto.com/authors/charlotte-brand/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/charlotte-brand/</guid>
       <description></description>
     </item>
     
