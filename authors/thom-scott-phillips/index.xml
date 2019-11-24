@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thom Scott-Phillips | Alberto Acerbi</title>
-    <link>/authors/thom-scott-phillips/</link>
-      <atom:link href="/authors/thom-scott-phillips/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/thom-scott-phillips/</link>
+      <atom:link href="https://acerbialberto.com/authors/thom-scott-phillips/index.xml" rel="self" type="application/rss+xml" />
     <description>Thom Scott-Phillips</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Thom Scott-Phillips</title>
-      <link>/authors/thom-scott-phillips/</link>
+      <link>https://acerbialberto.com/authors/thom-scott-phillips/</link>
     </image>
     
     <item>
       <title>Cultural stability without copying</title>
-      <link>/publication/preprint_stability/</link>
+      <link>https://acerbialberto.com/publication/preprint_stability/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_stability/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_stability/</guid>
       <description></description>
     </item>
     

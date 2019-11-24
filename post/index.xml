@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Alberto Acerbi</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/post/</link>
+      <atom:link href="https://acerbialberto.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://acerbialberto.com/post/</link>
     </image>
     
     <item>
       <title>Sichuan food and the transience of traditions</title>
-      <link>/post/2019_sichuan/</link>
+      <link>https://acerbialberto.com/post/2019_sichuan/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_sichuan/</guid>
+      <guid>https://acerbialberto.com/post/2019_sichuan/</guid>
       <description>&lt;p&gt;One of my secret passion (or not-so-secret, if you know me a bit) is cooking. Last weekend was devoted to the new edition of Fuchsia Dunlop&amp;rsquo;s &lt;a href=&#34;https://www.amazon.co.uk/Food-Sichuan-Fuchsia-Dunlop/dp/1324004835&#34; target=&#34;_blank&#34;&gt;The Food of Sichuan&lt;/a&gt;, widely considered as one of the best western-accessible resource on the topic. If you want to know, I cooked &amp;lsquo;Strange Flavour&amp;rsquo; Bang Bang Chicken and Fish-Fragrant Aubergines. (Both will need much improvement&amp;mdash;for example I ended up burning the peanuts while deep-frying them&amp;hellip;&amp;mdash; so if I ever happen to offer to cook you Sichuan food, ask for my only piece of resistance so far, the classic Mapo Tofu.)&lt;/p&gt;
 
 &lt;p&gt;The book has a fairly good historical introduction, where a few things caught my eye. Sure, the cuisine of Sichuan is renowned for its variety, and for the ability to combine several ingredients to create distinctive flavour combinations, but at the end of the day many of us will appreciate it for the signature &amp;ldquo;hot-and-numbing&amp;rdquo; taste given by the combination of Sichuan pepper (in the picture below) and abundant serving of chillies.&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>RStudio on Amazon Web Services</title>
-      <link>/post/2019_aws_rstudio/</link>
+      <link>https://acerbialberto.com/post/2019_aws_rstudio/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_aws_rstudio/</guid>
+      <guid>https://acerbialberto.com/post/2019_aws_rstudio/</guid>
       <description>
 
 &lt;p&gt;Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running &lt;a href=&#34;https://github.com/albertoacerbi/oranzees&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; individual-based model - you do not have this option. However, I just found out that launching your &lt;a href=&#34;https://www.rstudio.com&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; script on Amazon Web Service (&lt;a href=&#34;https://aws.amazon.com&#34; target=&#34;_blank&#34;&gt;AWS&lt;/a&gt;) is quite easy (and it is free).&lt;/p&gt;
@@ -166,9 +166,9 @@
     
     <item>
       <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
-      <link>/post/2019_wellcome/</link>
+      <link>https://acerbialberto.com/post/2019_wellcome/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_wellcome/</guid>
+      <guid>https://acerbialberto.com/post/2019_wellcome/</guid>
       <description>&lt;p&gt;The Wellcome Trust has recently (yesterday) released the 2018 &lt;a href=&#34;https://wellcome.ac.uk/reports/wellcome-global-monitor/2018&#34; target=&#34;_blank&#34;&gt;Global Monitor&lt;/a&gt;, a 140,000 people survey on how ‘people around the world think and feel about science and major health challenges’. Among the many interesting pieces of information, not surprisingly, attitudes towards vaccinations are starting to be widely discussed in the &lt;a href=&#34;https://www.theguardian.com/society/2019/jun/19/survey-shows-crisis-of-confidence-in-vaccines-in-parts-of-europe&#34; target=&#34;_blank&#34;&gt;press&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The first important thing to notice, as the Wellcome Trust correctly does, is that ‘worldwide, 79% of people agree that vaccines are safe and 84% agree that they are effective’ and ‘92% of parents worldwide said that their children have received a vaccine to prevent them from getting childhood diseases .’ Whatever we may think, the majority of people around the world rightly believe that vaccines are good. Of course, there is a minority of people, especially in western countries, that is less convinced of that. Citing again the Wellcome Trust, ‘In France, one in three people disagree that vaccines are safe, the highest percentage for any country worldwide’. The France figure is, however, one of few outliers, also for western countries, where the averages of people disagreeing that vaccines are safe are around 10%.&lt;/p&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>The ordeal simulation hypothesis</title>
-      <link>/post/2019_ordeal_simulation/</link>
+      <link>https://acerbialberto.com/post/2019_ordeal_simulation/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_ordeal_simulation/</guid>
+      <guid>https://acerbialberto.com/post/2019_ordeal_simulation/</guid>
       <description>&lt;p&gt;You have probably heard the adagio that “man bites dog”, and not “dog bites man”, makes for a good piece of news: unusual, exceptional, events are better stories than everyday occurrences. Hidden behind the surface, however, there is another message that seems so obvious we do not even think about it: both examples are negative events. “Dog wins the lottery” would probably be a good piece of news too, but it is not mentioned. That negative news – and possibly negative narratives in general – are more attractive than positive ones is a bit of a cliché, but it supported by much research.&lt;/p&gt;
 
 &lt;p&gt;An interesting case-study is false news. By definition, they do not need to describe real facts, so they can exploit our preferences in an almost unconstrained way. In a content analysis of a small sample of articles categorised as online misinformation, I found that &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;negative articles where around five times more numerous than positive articles&lt;/a&gt;. It is not just about news. English-language fiction became consistently more negative &lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528&#34; target=&#34;_blank&#34;&gt;in the last two centuries&lt;/a&gt;, and English-language song lyrics did the same &lt;a href=&#34;https://osf.io/preprints/socarxiv/3j6wx/&#34; target=&#34;_blank&#34;&gt;in the last fifty years&lt;/a&gt;.&lt;/p&gt;
@@ -232,9 +232,9 @@
     
     <item>
       <title>Is cultural evolution “neoliberal”?</title>
-      <link>/post/2019_neoliberal/</link>
+      <link>https://acerbialberto.com/post/2019_neoliberal/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_neoliberal/</guid>
+      <guid>https://acerbialberto.com/post/2019_neoliberal/</guid>
       <description>&lt;p&gt;I have been involved, over the weekend, in a small twitter debate on the old question of whether anthropology should use qualitative or quantitative methodologies. The debate was not particularly interesting by itself (I had many, probably too many, similar conversations starting when I was an undergraduate student) and the readers of this blog know, or suspect, my position, so I am not dwelling on it. There is, however, a marginal aspect that made me think a bit: I have the feeling that, when it is all said and done, the negative attitudes toward quantifications are linked to the idea that quantifying human culture is politically “neoliberal”, if not altogether “right-wing”.&lt;/p&gt;
 
 &lt;p&gt;I am sure that no critic of quantification in anthropology will accept this as their own position and they will express more cogent (at least from their point of view) arguments. It does not matter: I am happy to explore a straw man here. (A tweet that was stating it explicitly appeared at some point over the weekend, and it was “liked” by one of the persons involved in the debate, but that is just a side-note, a “like” on Twitter does not need to mean anything.)&lt;/p&gt;
@@ -250,9 +250,9 @@
     
     <item>
       <title>Morgue employee cremated by mistake while taking a nap</title>
-      <link>/post/2019_morgue/</link>
+      <link>https://acerbialberto.com/post/2019_morgue/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_morgue/</guid>
+      <guid>https://acerbialberto.com/post/2019_morgue/</guid>
       <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
 
 &lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34; target=&#34;_blank&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34; target=&#34;_blank&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;

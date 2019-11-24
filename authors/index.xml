@@ -2,358 +2,358 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alberto Acerbi</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/</link>
+      <atom:link href="https://acerbialberto.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://acerbialberto.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://acerbialberto.com/authors/admin/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a cognitive/evolutionary anthropologist with a particular interest in computational science, and this is my blog and professional website. The main question that drives my research is: is it possible to find some general factors determining why some cultural traits succeed and others do not? In the cultural arena things climb towards success in a haphazard manner, but some overall regularities may be discovered. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach (yes, I think anthropology should be a science) with different methodologies, especially individual-based models and quantitative analysis of large-scale data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alex Mesoudi</title>
-      <link>/authors/alex-mesoudi/</link>
+      <link>https://acerbialberto.com/authors/alex-mesoudi/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/alex-mesoudi/</guid>
+      <guid>https://acerbialberto.com/authors/alex-mesoudi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charlotte Brand</title>
-      <link>/authors/charlotte-brand/</link>
+      <link>https://acerbialberto.com/authors/charlotte-brand/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/charlotte-brand/</guid>
+      <guid>https://acerbialberto.com/authors/charlotte-brand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oleg Sobchuk</title>
-      <link>/authors/oleg-sobchuk/</link>
+      <link>https://acerbialberto.com/authors/oleg-sobchuk/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/oleg-sobchuk/</guid>
+      <guid>https://acerbialberto.com/authors/oleg-sobchuk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olivier Morin</title>
-      <link>/authors/olivier-morin/</link>
+      <link>https://acerbialberto.com/authors/olivier-morin/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/olivier-morin/</guid>
+      <guid>https://acerbialberto.com/authors/olivier-morin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helena Miton</title>
-      <link>/authors/helena-miton/</link>
+      <link>https://acerbialberto.com/authors/helena-miton/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/helena-miton/</guid>
+      <guid>https://acerbialberto.com/authors/helena-miton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathieu Charbonneau</title>
-      <link>/authors/mathieu-charbonneau/</link>
+      <link>https://acerbialberto.com/authors/mathieu-charbonneau/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mathieu-charbonneau/</guid>
+      <guid>https://acerbialberto.com/authors/mathieu-charbonneau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thom Scott-Phillips</title>
-      <link>/authors/thom-scott-phillips/</link>
+      <link>https://acerbialberto.com/authors/thom-scott-phillips/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thom-scott-phillips/</guid>
+      <guid>https://acerbialberto.com/authors/thom-scott-phillips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amanda Webber</title>
-      <link>/authors/amanda-webber/</link>
+      <link>https://acerbialberto.com/authors/amanda-webber/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/amanda-webber/</guid>
+      <guid>https://acerbialberto.com/authors/amanda-webber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christoph Schwitzer</title>
-      <link>/authors/christoph-schwitzer/</link>
+      <link>https://acerbialberto.com/authors/christoph-schwitzer/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/christoph-schwitzer/</guid>
+      <guid>https://acerbialberto.com/authors/christoph-schwitzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daphne Kerhoas</title>
-      <link>/authors/daphne-kerhoas/</link>
+      <link>https://acerbialberto.com/authors/daphne-kerhoas/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/daphne-kerhoas/</guid>
+      <guid>https://acerbialberto.com/authors/daphne-kerhoas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grainne McCabe</title>
-      <link>/authors/grainne-mccabe/</link>
+      <link>https://acerbialberto.com/authors/grainne-mccabe/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/grainne-mccabe/</guid>
+      <guid>https://acerbialberto.com/authors/grainne-mccabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Russell Mittermeier</title>
-      <link>/authors/russell-mittermeier/</link>
+      <link>https://acerbialberto.com/authors/russell-mittermeier/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/russell-mittermeier/</guid>
+      <guid>https://acerbialberto.com/authors/russell-mittermeier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edwin J. C. van Leeuwen</title>
-      <link>/authors/edwin-j.-c.-van-leeuwen/</link>
+      <link>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/edwin-j.-c.-van-leeuwen/</guid>
+      <guid>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thomas J. H. Morgan</title>
-      <link>/authors/thomas-j.-h.-morgan/</link>
+      <link>https://acerbialberto.com/authors/thomas-j.-h.-morgan/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-j.-h.-morgan/</guid>
+      <guid>https://acerbialberto.com/authors/thomas-j.-h.-morgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jamshid J. Tehrani</title>
-      <link>/authors/jamshid-j.-tehrani/</link>
+      <link>https://acerbialberto.com/authors/jamshid-j.-tehrani/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/jamshid-j.-tehrani/</guid>
+      <guid>https://acerbialberto.com/authors/jamshid-j.-tehrani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claudio Tennie</title>
-      <link>/authors/claudio-tennie/</link>
+      <link>https://acerbialberto.com/authors/claudio-tennie/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/claudio-tennie/</guid>
+      <guid>https://acerbialberto.com/authors/claudio-tennie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel B. M. Haun</title>
-      <link>/authors/daniel-b.-m.-haun/</link>
+      <link>https://acerbialberto.com/authors/daniel-b.-m.-haun/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-b.-m.-haun/</guid>
+      <guid>https://acerbialberto.com/authors/daniel-b.-m.-haun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pier Luigi Sacco</title>
-      <link>/authors/pier-luigi-sacco/</link>
+      <link>https://acerbialberto.com/authors/pier-luigi-sacco/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/pier-luigi-sacco/</guid>
+      <guid>https://acerbialberto.com/authors/pier-luigi-sacco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Damian Ruck</title>
-      <link>/authors/damian-ruck/</link>
+      <link>https://acerbialberto.com/authors/damian-ruck/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/damian-ruck/</guid>
+      <guid>https://acerbialberto.com/authors/damian-ruck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel J. Hruschka</title>
-      <link>/authors/daniel-j.-hruschka/</link>
+      <link>https://acerbialberto.com/authors/daniel-j.-hruschka/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-j.-hruschka/</guid>
+      <guid>https://acerbialberto.com/authors/daniel-j.-hruschka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philip Garnett</title>
-      <link>/authors/philip-garnett/</link>
+      <link>https://acerbialberto.com/authors/philip-garnett/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/philip-garnett/</guid>
+      <guid>https://acerbialberto.com/authors/philip-garnett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Alexander Bentley</title>
-      <link>/authors/r.-alexander-bentley/</link>
+      <link>https://acerbialberto.com/authors/r.-alexander-bentley/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-alexander-bentley/</guid>
+      <guid>https://acerbialberto.com/authors/r.-alexander-bentley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeremy Kendal</title>
-      <link>/authors/jeremy-kendal/</link>
+      <link>https://acerbialberto.com/authors/jeremy-kendal/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/jeremy-kendal/</guid>
+      <guid>https://acerbialberto.com/authors/jeremy-kendal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rachel L. Kendal</title>
-      <link>/authors/rachel-l.-kendal/</link>
+      <link>https://acerbialberto.com/authors/rachel-l.-kendal/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/rachel-l.-kendal/</guid>
+      <guid>https://acerbialberto.com/authors/rachel-l.-kendal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Davide Marocco</title>
-      <link>/authors/davide-marocco/</link>
+      <link>https://acerbialberto.com/authors/davide-marocco/</link>
       <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/davide-marocco/</guid>
+      <guid>https://acerbialberto.com/authors/davide-marocco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francesco Pugliese</title>
-      <link>/authors/francesco-pugliese/</link>
+      <link>https://acerbialberto.com/authors/francesco-pugliese/</link>
       <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/francesco-pugliese/</guid>
+      <guid>https://acerbialberto.com/authors/francesco-pugliese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harold Herzog</title>
-      <link>/authors/harold-herzog/</link>
+      <link>https://acerbialberto.com/authors/harold-herzog/</link>
       <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/harold-herzog/</guid>
+      <guid>https://acerbialberto.com/authors/harold-herzog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefano Ghirlanda</title>
-      <link>/authors/stefano-ghirlanda/</link>
+      <link>https://acerbialberto.com/authors/stefano-ghirlanda/</link>
       <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/stefano-ghirlanda/</guid>
+      <guid>https://acerbialberto.com/authors/stefano-ghirlanda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Ormerod</title>
-      <link>/authors/paul-ormerod/</link>
+      <link>https://acerbialberto.com/authors/paul-ormerod/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-ormerod/</guid>
+      <guid>https://acerbialberto.com/authors/paul-ormerod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vasileios Lampos</title>
-      <link>/authors/vasileios-lampos/</link>
+      <link>https://acerbialberto.com/authors/vasileios-lampos/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/vasileios-lampos/</guid>
+      <guid>https://acerbialberto.com/authors/vasileios-lampos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magnus Enquist</title>
-      <link>/authors/magnus-enquist/</link>
+      <link>https://acerbialberto.com/authors/magnus-enquist/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/magnus-enquist/</guid>
+      <guid>https://acerbialberto.com/authors/magnus-enquist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>James A. Serpell</title>
-      <link>/authors/james-a.-serpell/</link>
+      <link>https://acerbialberto.com/authors/james-a.-serpell/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/james-a.-serpell/</guid>
+      <guid>https://acerbialberto.com/authors/james-a.-serpell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orazio Miglino</title>
-      <link>/authors/orazio-miglino/</link>
+      <link>https://acerbialberto.com/authors/orazio-miglino/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/orazio-miglino/</guid>
+      <guid>https://acerbialberto.com/authors/orazio-miglino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pierre O. Jacquet</title>
-      <link>/authors/pierre-o.-jacquet/</link>
+      <link>https://acerbialberto.com/authors/pierre-o.-jacquet/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/pierre-o.-jacquet/</guid>
+      <guid>https://acerbialberto.com/authors/pierre-o.-jacquet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charles L. Nunn</title>
-      <link>/authors/charles-l.-nunn/</link>
+      <link>https://acerbialberto.com/authors/charles-l.-nunn/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/charles-l.-nunn/</guid>
+      <guid>https://acerbialberto.com/authors/charles-l.-nunn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mayuko Makamaru</title>
-      <link>/authors/mayuko-makamaru/</link>
+      <link>https://acerbialberto.com/authors/mayuko-makamaru/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/mayuko-makamaru/</guid>
+      <guid>https://acerbialberto.com/authors/mayuko-makamaru/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alessandro Lutri</title>
-      <link>/authors/alessandro-lutri/</link>
+      <link>https://acerbialberto.com/authors/alessandro-lutri/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/alessandro-lutri/</guid>
+      <guid>https://acerbialberto.com/authors/alessandro-lutri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sabrina Tonutti</title>
-      <link>/authors/sabrina-tonutti/</link>
+      <link>https://acerbialberto.com/authors/sabrina-tonutti/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/sabrina-tonutti/</guid>
+      <guid>https://acerbialberto.com/authors/sabrina-tonutti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Vogt</title>
-      <link>/authors/paul-vogt/</link>
+      <link>https://acerbialberto.com/authors/paul-vogt/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-vogt/</guid>
+      <guid>https://acerbialberto.com/authors/paul-vogt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrick McNamara</title>
-      <link>/authors/patrick-mcnamara/</link>
+      <link>https://acerbialberto.com/authors/patrick-mcnamara/</link>
       <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/patrick-mcnamara/</guid>
+      <guid>https://acerbialberto.com/authors/patrick-mcnamara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domenico Parisi</title>
-      <link>/authors/domenico-parisi/</link>
+      <link>https://acerbialberto.com/authors/domenico-parisi/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/domenico-parisi/</guid>
+      <guid>https://acerbialberto.com/authors/domenico-parisi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefano Nolfi</title>
-      <link>/authors/stefano-nolfi/</link>
+      <link>https://acerbialberto.com/authors/stefano-nolfi/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/stefano-nolfi/</guid>
+      <guid>https://acerbialberto.com/authors/stefano-nolfi/</guid>
       <description></description>
     </item>
     

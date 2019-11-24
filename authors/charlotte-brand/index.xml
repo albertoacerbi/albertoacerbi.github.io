@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charlotte Brand | Alberto Acerbi</title>
-    <link>/authors/charlotte-brand/</link>
-      <atom:link href="/authors/charlotte-brand/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/charlotte-brand/</link>
+      <atom:link href="https://acerbialberto.com/authors/charlotte-brand/index.xml" rel="self" type="application/rss+xml" />
     <description>Charlotte Brand</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Charlotte Brand</title>
-      <link>/authors/charlotte-brand/</link>
+      <link>https://acerbialberto.com/authors/charlotte-brand/</link>
     </image>
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>/publication/2019_songlyrics/</link>
+      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_songlyrics/</guid>
+      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
       <description></description>
     </item>
     

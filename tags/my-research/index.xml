@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>my research | Alberto Acerbi</title>
-    <link>/tags/my-research/</link>
-      <atom:link href="/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/my-research/</link>
+      <atom:link href="https://acerbialberto.com/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
     <description>my research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>my research</title>
-      <link>/tags/my-research/</link>
+      <link>https://acerbialberto.com/tags/my-research/</link>
     </image>
     
     <item>
       <title>Sichuan food and the transience of traditions</title>
-      <link>/post/2019_sichuan/</link>
+      <link>https://acerbialberto.com/post/2019_sichuan/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_sichuan/</guid>
+      <guid>https://acerbialberto.com/post/2019_sichuan/</guid>
       <description>&lt;p&gt;One of my secret passion (or not-so-secret, if you know me a bit) is cooking. Last weekend was devoted to the new edition of Fuchsia Dunlop&amp;rsquo;s &lt;a href=&#34;https://www.amazon.co.uk/Food-Sichuan-Fuchsia-Dunlop/dp/1324004835&#34; target=&#34;_blank&#34;&gt;The Food of Sichuan&lt;/a&gt;, widely considered as one of the best western-accessible resource on the topic. If you want to know, I cooked &amp;lsquo;Strange Flavour&amp;rsquo; Bang Bang Chicken and Fish-Fragrant Aubergines. (Both will need much improvement&amp;mdash;for example I ended up burning the peanuts while deep-frying them&amp;hellip;&amp;mdash; so if I ever happen to offer to cook you Sichuan food, ask for my only piece of resistance so far, the classic Mapo Tofu.)&lt;/p&gt;
 
 &lt;p&gt;The book has a fairly good historical introduction, where a few things caught my eye. Sure, the cuisine of Sichuan is renowned for its variety, and for the ability to combine several ingredients to create distinctive flavour combinations, but at the end of the day many of us will appreciate it for the signature &amp;ldquo;hot-and-numbing&amp;rdquo; taste given by the combination of Sichuan pepper (in the picture below) and abundant serving of chillies.&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>The ordeal simulation hypothesis</title>
-      <link>/post/2019_ordeal_simulation/</link>
+      <link>https://acerbialberto.com/post/2019_ordeal_simulation/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_ordeal_simulation/</guid>
+      <guid>https://acerbialberto.com/post/2019_ordeal_simulation/</guid>
       <description>&lt;p&gt;You have probably heard the adagio that “man bites dog”, and not “dog bites man”, makes for a good piece of news: unusual, exceptional, events are better stories than everyday occurrences. Hidden behind the surface, however, there is another message that seems so obvious we do not even think about it: both examples are negative events. “Dog wins the lottery” would probably be a good piece of news too, but it is not mentioned. That negative news – and possibly negative narratives in general – are more attractive than positive ones is a bit of a cliché, but it supported by much research.&lt;/p&gt;
 
 &lt;p&gt;An interesting case-study is false news. By definition, they do not need to describe real facts, so they can exploit our preferences in an almost unconstrained way. In a content analysis of a small sample of articles categorised as online misinformation, I found that &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34; target=&#34;_blank&#34;&gt;negative articles where around five times more numerous than positive articles&lt;/a&gt;. It is not just about news. English-language fiction became consistently more negative &lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528&#34; target=&#34;_blank&#34;&gt;in the last two centuries&lt;/a&gt;, and English-language song lyrics did the same &lt;a href=&#34;https://osf.io/preprints/socarxiv/3j6wx/&#34; target=&#34;_blank&#34;&gt;in the last fifty years&lt;/a&gt;.&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Morgue employee cremated by mistake while taking a nap</title>
-      <link>/post/2019_morgue/</link>
+      <link>https://acerbialberto.com/post/2019_morgue/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_morgue/</guid>
+      <guid>https://acerbialberto.com/post/2019_morgue/</guid>
       <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
 
 &lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34; target=&#34;_blank&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34; target=&#34;_blank&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;
