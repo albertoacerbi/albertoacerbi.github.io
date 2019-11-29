@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/publication/</link>
       <atom:link href="https://acerbialberto.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://acerbialberto.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Cultural evolution in the digital age</title>
+      <link>https://acerbialberto.com/publication/2019_oup/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>

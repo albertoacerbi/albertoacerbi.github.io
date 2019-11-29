@@ -20,7 +20,71 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/5/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/2019_oup/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/misinformation/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,12 +95,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/alex-mesoudi/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -53,29 +111,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/emotions/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -83,12 +118,6 @@
   
   <url>
     <loc>https://acerbialberto.com/tags/text-mining/</loc>
-    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -265,12 +294,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -289,18 +312,6 @@
   <url>
     <loc>https://acerbialberto.com/publication/2019_pal_comm_a/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/misinformation/</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -733,12 +744,6 @@
   <url>
     <loc>https://acerbialberto.com/publication/2010_cur_anthr/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication_types/5/</loc>
-    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
