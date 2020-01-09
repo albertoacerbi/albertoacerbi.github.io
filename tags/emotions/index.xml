@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emotions | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/emotions/</link>
-      <atom:link href="https://acerbialberto.com/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/emotions/</link>
+      <atom:link href="/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
     <description>emotions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>emotions</title>
-      <link>https://acerbialberto.com/tags/emotions/</link>
+      <link>/tags/emotions/</link>
     </image>
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
+      <link>/publication/2019_songlyrics/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
+      <guid>/publication/2019_songlyrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
-      <link>https://acerbialberto.com/publication/2017_cog_emo/</link>
+      <link>/publication/2017_cog_emo/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2017_cog_emo/</guid>
+      <guid>/publication/2017_cog_emo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books average previous decade of economic misery</title>
-      <link>https://acerbialberto.com/publication/2014_plos_b/</link>
+      <link>/publication/2014_plos_b/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2014_plos_b/</guid>
+      <guid>/publication/2014_plos_b/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
@@ -53,17 +53,17 @@
     
     <item>
       <title>Robustness of emotion extraction from 20th century English books</title>
-      <link>https://acerbialberto.com/publication/cp_2013_emotion/</link>
+      <link>/publication/cp_2013_emotion/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2013_emotion/</guid>
+      <guid>/publication/cp_2013_emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The expression of emotions in 20th century books</title>
-      <link>https://acerbialberto.com/publication/2013_plos_b/</link>
+      <link>/publication/2013_plos_b/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2013_plos_b/</guid>
+      <guid>/publication/2013_plos_b/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;I wrote a &lt;a href=&#34;http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html&#34; target=&#34;_blank&#34;&gt;popular summary&lt;/a&gt; of the paper for the &lt;em&gt;Huffington Post&lt;/em&gt; (US edition). Other media coverage includes:&lt;/p&gt;
