@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessandro Lutri | Alberto Acerbi</title>
-    <link>/authors/alessandro-lutri/</link>
-      <atom:link href="/authors/alessandro-lutri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/alessandro-lutri/</link>
+      <atom:link href="https://acerbialberto.com/authors/alessandro-lutri/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandro Lutri</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alessandro Lutri</title>
-      <link>/authors/alessandro-lutri/</link>
+      <link>https://acerbialberto.com/authors/alessandro-lutri/</link>
     </image>
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>/publication/ita_2009_umano/</link>
+      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2009_umano/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     

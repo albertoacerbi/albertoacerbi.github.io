@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Alberto Acerbi</title>
-    <link>/publication_types/5/</link>
-      <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/publication_types/5/</link>
+      <atom:link href="https://acerbialberto.com/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>5</title>
-      <link>/publication_types/5/</link>
+      <link>https://acerbialberto.com/publication_types/5/</link>
     </image>
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>/publication/2019_oup/</link>
+      <link>https://acerbialberto.com/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_oup/</guid>
+      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>/publication/ita_2009_umano/</link>
+      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2009_umano/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     

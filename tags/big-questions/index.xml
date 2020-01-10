@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big questions | Alberto Acerbi</title>
-    <link>/tags/big-questions/</link>
-      <atom:link href="/tags/big-questions/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/big-questions/</link>
+      <atom:link href="https://acerbialberto.com/tags/big-questions/index.xml" rel="self" type="application/rss+xml" />
     <description>big questions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>big questions</title>
-      <link>/tags/big-questions/</link>
+      <link>https://acerbialberto.com/tags/big-questions/</link>
     </image>
     
     <item>
+      <title>A few thoughts on cultural attraction</title>
+      <link>https://acerbialberto.com/post/2020_cultural_attraction/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/post/2020_cultural_attraction/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As I am finishing the work on the submission of a modelling paper about cultural attraction theory (the preprint, quite different from the current version, is &lt;a href=&#34;https://osf.io/vjcq3/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;), I thought I could go back after a while to a darling of this blog. Writing down these few musings is mostly useful for me, but perhaps they can be interesting for the people that already know the diatribe - the post is hardly a crowd-pleaser.&lt;/p&gt;
+
+&lt;p&gt;First, my general position is more or less stable on what I write five (!) years ago together with Alex Mesoudi (&lt;a href=&#34;https://link.springer.com/article/10.1007/s10539-015-9490-2&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, even if I have a different opinion on many specific points) and, more recently, in the first half of the &amp;ldquo;Transmitting and sharing&amp;rdquo; chapter of my &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34;&gt;book&lt;/a&gt;. The points carried forward by cultural attraction theory are valuable and overlooked in much cultural evolution research, so it is important to pay attention to them. Convergent transformation can, as much as faithful copying, bring about cultural stability. Explaining the diffusion of a trait with &lt;em&gt;culture&lt;/em&gt; - a tendency to copy others faithfully - is to assume what requires itself an explanation. We copy the majority, the successful, the elders: until we do not. Individual and social learning are not two different processes, and, yes, I now think that culture &amp;ldquo;is a property, not a thing&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;On the other side, hi-fi copying is important in some domains, and there is a limit to what convergent transformations can achieve. Cultural transmission does allow for the diffusion of &lt;em&gt;new&lt;/em&gt; information that can not be reconstructed. Cultural attraction people are correct, technically, when they say that high-fidelity transmission is a special case of attraction, with reconstruction equal to zero, or something analogous. However, I believe that the advantages linked to the generality of a theory depend on what we are trying to explain.&lt;/p&gt;
+
+&lt;p&gt;My position is a bit annoying as I guess I end up to slightly irritating both camps, but, despite what you heard on Twitter, academics are a bunch of nice people, and I tend to be able to work with both the factions.&lt;/p&gt;
+
+&lt;p&gt;Second, I became more and more convinced that the main reason for the disagreement resides in the fact that different people ask different &amp;ldquo;deep&amp;rdquo; questions about culture. Thom Scott-Phillips says something similar &lt;a href=&#34;https://thomscottphillips.files.wordpress.com/2016/05/scott-phillips-2016-review-of-lewens.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; (at the end of section 2). Many cultural evolutionists are interested to explain what is so special in humans, and the answer is, correctly: culture, as they define it. Many cultural attractionists (?), instead, are interested to explain why some cultural traits are succesfull, given the state of the world and of its inhabitants. Again, I tend to share the latter interest but, of course, both questions are legitimate.&lt;/p&gt;
+
+&lt;p&gt;A similar way to put it is that many cultural attractionists are humanists (as in researchers working in the humanities) or social scientists that become frustrated with non-scientific explanations of culture, and pushed interdisciplinarity towards hard sciences. Many cultural evolutionists are instead natural scientists that &amp;ldquo;discovered&amp;rdquo; that culture is important to explain human and, up to a point, non-human behaviour, and pushed  interdisciplinarity the other way around. This does not need to be literally true - people actually following the exact career path - but it seems to me it catches an interesting difference.&lt;/p&gt;
+
+&lt;p&gt;Third, and perhaps most controversial, cultural attraction theory stresses (recently with more emphasis) that factors of attraction are multifaceted and, in particular, not only cognitive. Again, for the internal consistency of the theory, this is perfectly right. Personally, I met cultural attraction theory (which was called, at the time, &amp;ldquo;epidemiology of representations&amp;rdquo;) reading Dan Sperber&amp;rsquo;s &lt;a href=&#34;https://www.amazon.co.uk/Explaining-Culture-Naturalistic-Dan-Sperber/dp/0631200452&#34; target=&#34;_blank&#34;&gt;Explaining Culture&lt;/a&gt;, and this changed my scientific life (and, as a consequence, if I look at it from today&amp;rsquo;s perspective, my life tout-court). While the book is the classic source for the &amp;ldquo;factors of attraction can be psychological and ecological&amp;rdquo; motto, it is also home of chapters on culture and mental (massive) modularity, anthropology and psychology, etc. For me, at least, there was a clear message that pan-human cognitive similarities constrain the forms that cultures can take, and contribute to explaining them.&lt;/p&gt;
+
+&lt;p&gt;Independently on how these cognitive similarities are implemented and on how they arise, I still believe that cultural attraction theory is more &lt;em&gt;interesting&lt;/em&gt; if this message is true, and I would not shy away from that. For reconstruction and convergent transformation to provide satisfying explanations, they should be reconducted to something else, whatever this will be. Of course, the importance of these constraints is variable and domain-dependent, so that in some cases we should prefer reconstruction-based explanations, and in others preservative-transmission-based explanations, but that is, I believe, a stimulating empirical problem for cultural evolutionists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sichuan food and the transience of traditions</title>
-      <link>/post/2019_sichuan/</link>
+      <link>https://acerbialberto.com/post/2019_sichuan/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_sichuan/</guid>
+      <guid>https://acerbialberto.com/post/2019_sichuan/</guid>
       <description>&lt;p&gt;One of my secret passion (or not-so-secret, if you know me a bit) is cooking. Last weekend was devoted to the new edition of Fuchsia Dunlop&amp;rsquo;s &lt;a href=&#34;https://www.amazon.co.uk/Food-Sichuan-Fuchsia-Dunlop/dp/1324004835&#34; target=&#34;_blank&#34;&gt;The Food of Sichuan&lt;/a&gt;, widely considered as one of the best western-accessible resource on the topic. If you want to know, I cooked &amp;lsquo;Strange Flavour&amp;rsquo; Bang Bang Chicken and Fish-Fragrant Aubergines. (Both will need much improvement&amp;mdash;for example I ended up burning the peanuts while deep-frying them&amp;hellip;&amp;mdash; so if I ever happen to offer to cook you Sichuan food, ask for my only piece of resistance so far, the classic Mapo Tofu.)&lt;/p&gt;
 
 &lt;p&gt;The book has a fairly good historical introduction, where a few things caught my eye. Sure, the cuisine of Sichuan is renowned for its variety, and for the ability to combine several ingredients to create distinctive flavour combinations, but at the end of the day many of us will appreciate it for the signature &amp;ldquo;hot-and-numbing&amp;rdquo; taste given by the combination of Sichuan pepper (in the picture below) and abundant serving of chillies.&lt;/p&gt;
@@ -39,9 +64,9 @@
     
     <item>
       <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
-      <link>/post/2019_wellcome/</link>
+      <link>https://acerbialberto.com/post/2019_wellcome/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_wellcome/</guid>
+      <guid>https://acerbialberto.com/post/2019_wellcome/</guid>
       <description>&lt;p&gt;The Wellcome Trust has recently (yesterday) released the 2018 &lt;a href=&#34;https://wellcome.ac.uk/reports/wellcome-global-monitor/2018&#34; target=&#34;_blank&#34;&gt;Global Monitor&lt;/a&gt;, a 140,000 people survey on how ‘people around the world think and feel about science and major health challenges’. Among the many interesting pieces of information, not surprisingly, attitudes towards vaccinations are starting to be widely discussed in the &lt;a href=&#34;https://www.theguardian.com/society/2019/jun/19/survey-shows-crisis-of-confidence-in-vaccines-in-parts-of-europe&#34; target=&#34;_blank&#34;&gt;press&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The first important thing to notice, as the Wellcome Trust correctly does, is that ‘worldwide, 79% of people agree that vaccines are safe and 84% agree that they are effective’ and ‘92% of parents worldwide said that their children have received a vaccine to prevent them from getting childhood diseases .’ Whatever we may think, the majority of people around the world rightly believe that vaccines are good. Of course, there is a minority of people, especially in western countries, that is less convinced of that. Citing again the Wellcome Trust, ‘In France, one in three people disagree that vaccines are safe, the highest percentage for any country worldwide’. The France figure is, however, one of few outliers, also for western countries, where the averages of people disagreeing that vaccines are safe are around 10%.&lt;/p&gt;
@@ -72,9 +97,9 @@
     
     <item>
       <title>Is cultural evolution “neoliberal”?</title>
-      <link>/post/2019_neoliberal/</link>
+      <link>https://acerbialberto.com/post/2019_neoliberal/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019_neoliberal/</guid>
+      <guid>https://acerbialberto.com/post/2019_neoliberal/</guid>
       <description>&lt;p&gt;I have been involved, over the weekend, in a small twitter debate on the old question of whether anthropology should use qualitative or quantitative methodologies. The debate was not particularly interesting by itself (I had many, probably too many, similar conversations starting when I was an undergraduate student) and the readers of this blog know, or suspect, my position, so I am not dwelling on it. There is, however, a marginal aspect that made me think a bit: I have the feeling that, when it is all said and done, the negative attitudes toward quantifications are linked to the idea that quantifying human culture is politically “neoliberal”, if not altogether “right-wing”.&lt;/p&gt;
 
 &lt;p&gt;I am sure that no critic of quantification in anthropology will accept this as their own position and they will express more cogent (at least from their point of view) arguments. It does not matter: I am happy to explore a straw man here. (A tweet that was stating it explicitly appeared at some point over the weekend, and it was “liked” by one of the persons involved in the debate, but that is just a side-note, a “like” on Twitter does not need to mean anything.)&lt;/p&gt;
