@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/publication/</link>
       <atom:link href="https://acerbialberto.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://acerbialberto.com/publication/</link>
     </image>
+    
+    <item>
+      <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
+      <link>https://acerbialberto.com/publication/2020_jnc/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2020_jnc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cultural evolution in the digital age</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
+      <link>https://acerbialberto.com/publication/2019_ehs/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
+      <guid>https://acerbialberto.com/publication/2019_ehs/</guid>
       <description></description>
     </item>
     
@@ -58,14 +66,6 @@
 
 &lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>https://acerbialberto.com/publication/preprint_top25/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_top25/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/tags/text-mining/</link>
       <atom:link href="https://acerbialberto.com/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>text mining</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>text mining</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
+      <link>https://acerbialberto.com/publication/2020_jnc/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2020_jnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/2019_songlyrics/</link>
+      <link>https://acerbialberto.com/publication/2019_ehs/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_songlyrics/</guid>
+      <guid>https://acerbialberto.com/publication/2019_ehs/</guid>
       <description></description>
     </item>
     
@@ -29,14 +37,6 @@
 
 &lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_ordeal_simulation/&#34; target=&#34;_blank&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>https://acerbialberto.com/publication/preprint_top25/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_top25/</guid>
-      <description></description>
     </item>
     
     <item>
