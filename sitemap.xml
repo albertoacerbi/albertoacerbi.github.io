@@ -1,6 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/recent/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/aeon_emotions/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
@@ -10,49 +35,46 @@
   <url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/amanda-webber/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/christoph-schwitzer/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/conservation/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/daphne-kerhoas/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/grainne-mccabe/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -63,13 +85,11 @@
   <url>
     <loc>https://acerbialberto.com/authors/russell-mittermeier/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/</loc>
+    <loc>https://acerbialberto.com/tags/text-mining/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -78,43 +98,23 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/conservation/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/text-mining/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/post/2020_cultural_attraction/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/post/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/big-questions/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/my-research/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/post/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,21 +133,18 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/media/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/recent/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/publication_types/5/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -156,39 +153,23 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/misinformation/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/alex-mesoudi/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/charlotte-brand/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -199,7 +180,6 @@
   <url>
     <loc>https://acerbialberto.com/tags/emotions/</loc>
     <lastmod>2019-11-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -210,7 +190,6 @@
   <url>
     <loc>https://acerbialberto.com/tags/rstudio/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -221,7 +200,6 @@
   <url>
     <loc>https://acerbialberto.com/tags/software/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -237,7 +215,6 @@
   <url>
     <loc>https://acerbialberto.com/project/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -256,14 +233,13 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/post/2019_wellcome/</loc>
+    <loc>https://acerbialberto.com/tags/digital-age/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/digital-age/</loc>
+    <loc>https://acerbialberto.com/post/2019_wellcome/</loc>
     <lastmod>2019-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -272,32 +248,28 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/oleg-sobchuk/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/olivier-morin/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/2019_pal_comm_b/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/evolutionary-psychology/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/fiction/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/oleg-sobchuk/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/olivier-morin/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/2019_pal_comm_b/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -318,7 +290,6 @@
   <url>
     <loc>https://acerbialberto.com/publication_types/3/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -329,25 +300,21 @@
   <url>
     <loc>https://acerbialberto.com/authors/helena-miton/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/mathieu-charbonneau/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/thom-scott-phillips/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/mathieu-charbonneau/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/thom-scott-phillips/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -373,25 +340,21 @@
   <url>
     <loc>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/thomas-j.-h.-morgan/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/0/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/dataset/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -405,27 +368,23 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/jamshid-j.-tehrani/</loc>
+    <loc>https://acerbialberto.com/tags/experiment/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/experiment/</loc>
+    <loc>https://acerbialberto.com/authors/jamshid-j.-tehrani/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/claudio-tennie/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/daniel-b.-m.-haun/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -441,31 +400,26 @@
   <url>
     <loc>https://acerbialberto.com/authors/pier-luigi-sacco/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/damian-ruck/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/daniel-j.-hruschka/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/philip-garnett/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/r.-alexander-bentley/</loc>
     <lastmod>2017-11-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -481,7 +435,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/jeremy-kendal/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -507,7 +460,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/rachel-l.-kendal/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -533,13 +485,11 @@
   <url>
     <loc>https://acerbialberto.com/tags/alife/robotics/</loc>
     <lastmod>2015-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/davide-marocco/</loc>
     <lastmod>2015-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -550,7 +500,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/francesco-pugliese/</loc>
     <lastmod>2015-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -576,13 +525,11 @@
   <url>
     <loc>https://acerbialberto.com/authors/harold-herzog/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/stefano-ghirlanda/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -613,25 +560,21 @@
   <url>
     <loc>https://acerbialberto.com/authors/paul-ormerod/</loc>
     <lastmod>2014-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/vasileios-lampos/</loc>
     <lastmod>2014-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/6/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/magnus-enquist/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -642,7 +585,6 @@
   <url>
     <loc>https://acerbialberto.com/publication_types/1/</loc>
     <lastmod>2013-10-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -658,7 +600,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/james-a.-serpell/</loc>
     <lastmod>2013-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -699,7 +640,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/orazio-miglino/</loc>
     <lastmod>2012-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -710,7 +650,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/pierre-o.-jacquet/</loc>
     <lastmod>2012-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -726,7 +665,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/charles-l.-nunn/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -742,13 +680,11 @@
   <url>
     <loc>https://acerbialberto.com/tags/sleep/</loc>
     <lastmod>2011-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/authors/mayuko-makamaru/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -759,24 +695,21 @@
   <url>
     <loc>https://acerbialberto.com/authors/alessandro-lutri/</loc>
     <lastmod>2009-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/sabrina-tonutti/</loc>
-    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/ita_2009_umano/</loc>
-    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/tags/in-italian/</loc>
     <lastmod>2009-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/sabrina-tonutti/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/ita_2009_umano/</loc>
+    <lastmod>2009-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -807,7 +740,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/paul-vogt/</loc>
     <lastmod>2008-06-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -818,7 +750,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/patrick-mcnamara/</loc>
     <lastmod>2008-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -834,7 +765,6 @@
   <url>
     <loc>https://acerbialberto.com/publication_types/7/</loc>
     <lastmod>2007-11-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -845,7 +775,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/domenico-parisi/</loc>
     <lastmod>2007-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -856,7 +785,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/stefano-nolfi/</loc>
     <lastmod>2007-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -906,7 +834,6 @@
   
   <url>
     <loc>https://acerbialberto.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
