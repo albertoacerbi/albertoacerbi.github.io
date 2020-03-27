@@ -3,8 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/3/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2020-02-25T17:00:00+00:00</lastmod>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/preprint_oranzees/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/claudio-tennie/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/william-daniel-snyder/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
+    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,12 +99,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/media/lepoint_book/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -52,11 +109,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -64,12 +116,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/amanda-webber/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,17 +136,6 @@
     <loc>https://acerbialberto.com/authors/grainne-mccabe/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -177,12 +212,6 @@
   
   <url>
     <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -336,12 +365,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/publication_types/3/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/publication/preprint_stability/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -360,12 +383,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/thom-scott-phillips/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -433,12 +450,6 @@
   <url>
     <loc>https://acerbialberto.com/tags/experiment/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/claudio-tennie/</loc>
-    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

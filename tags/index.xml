@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>cultural evolution</title>
+      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>individual based models</title>
+      <link>https://acerbialberto.com/tags/individual-based-models/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent</title>
@@ -65,14 +81,6 @@
       <link>https://acerbialberto.com/tags/cultural-attraction/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/cultural-attraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
-      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
       <description></description>
     </item>
     
@@ -137,14 +145,6 @@
       <link>https://acerbialberto.com/tags/fiction/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>individual based models</title>
-      <link>https://acerbialberto.com/tags/individual-based-models/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
       <description></description>
     </item>
     
