@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>my research</title>
+      <link>https://acerbialberto.com/tags/my-research/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/my-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pop culture</title>
+      <link>https://acerbialberto.com/tags/pop-culture/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/pop-culture/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cultural evolution</title>
@@ -65,14 +81,6 @@
       <link>https://acerbialberto.com/tags/big-questions/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/big-questions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>my research</title>
-      <link>https://acerbialberto.com/tags/my-research/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/my-research/</guid>
       <description></description>
     </item>
     
