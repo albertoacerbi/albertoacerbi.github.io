@@ -5,12 +5,55 @@
     <link>https://acerbialberto.com/authors/admin/</link>
       <atom:link href="https://acerbialberto.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
       <link>https://acerbialberto.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Sentiment analysis of song lyrics by genre</title>
+      <link>https://acerbialberto.com/post/2020_mxm_genres/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/post/2020_mxm_genres/</guid>
+      <description>&lt;p&gt;In a recent &lt;a href=&#34;https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-of-emotional-expression-in-50-years-of-song-lyrics/E6E64C02BDB0480DB13B8B6BB7DFF598/core-reader&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; with &lt;a href=&#34;https://lottybrand.wordpress.com&#34; target=&#34;_blank&#34;&gt;Lotty Brand&lt;/a&gt; and &lt;a href=&#34;http://alexmesoudi.com&#34; target=&#34;_blank&#34;&gt;Alex Mesoudi&lt;/a&gt;, we documented how the lyrics of popular songs have become sadder in the last few decades. The the proportion of words with positive emotional content have decreased and, on the contrary, the proportion of words with negative emotional content have increased, on average, from the 1960s to now. (If you are a reader of this blog you probably already know about all that - if not, see &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34; target=&#34;_blank&#34;&gt;this aeon piece&lt;/a&gt; for more about the research).&lt;/p&gt;
+
+&lt;p&gt;Several people have suggested that this could be mainly due to the fact that new - sadder or angrier - genres (for example &lt;a href=&#34;https://marginalrevolution.com/marginalrevolution/2020/02/pop-songs-are-getting-sadder-and-angrier.html&#34; target=&#34;_blank&#34;&gt;hip-hop&lt;/a&gt;) have replaced the genres dominant fifty years ago. This is a sensible hypothesis. In one of the two datasets we used for the main analysis (indicated in the paper as &amp;ldquo;mxm&amp;rdquo; dataset), derived from the lyrics in the website &lt;a href=&#34;https://www.musixmatch.com&#34; target=&#34;_blank&#34;&gt;musixmatch.com&lt;/a&gt;, songs are also tagged with their genre, so it was relatively straightforward to explore the contribution of each genre to the general trend. The R code and the outputs are available in a &lt;a href=&#34;https://github.com/albertoacerbi/mxm_genres_analysis&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;First of all, here the general trends for the &amp;ldquo;mxm&amp;rdquo; dataset. (If you are interested, we explain in the aeon piece linked above what the facts that these numbers are small means for the importance of the trends, and what it means that the proportion of negative emotion-words is anyway always lower than the proportion of positive emotion-words.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./mxm_all.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Going to the genre analysis, there are 168 possible genre tags in the dataset, on a total of 159,015 songs used in the analysis, but the most common 20 genres account for the 99% of all songs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./genres.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are clear difference in the emotional tone of lyrics in different genres, and they correspond to the general intuition: among the &lt;em&gt;sad&lt;/em&gt; genres there are indeed recently emerged ones, such as &amp;ldquo;Heavy Metal&amp;rdquo;&amp;ldquo;, &amp;ldquo;Punk&amp;rdquo;, &amp;ldquo;Hip Hop/Rap&amp;rdquo;, &amp;ldquo;Indie Rock&amp;rdquo;, or &amp;ldquo;Alternative&amp;rdquo;. (&amp;ldquo;Holiday&amp;rdquo;, the more positive and less negative genre, is basically the Spotify Christmas playlist of your dreams - or nightmares perhaps.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./overall_emo_genres.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can also look at the prevalence of genres through years. Genres like &amp;ldquo;Alternative&amp;rdquo; and &amp;ldquo;Heavy metal&amp;rdquo; did indeed grew in popularity, whereas they were completely absent in the 1960s. On the contrary, positively-connotated genres like &amp;ldquo;R&amp;amp;B/Soul&amp;rdquo; and &amp;ldquo;Christian &amp;amp; Gospel&amp;rdquo; show a strong decrease. Notice &amp;ldquo;Hip Hop/Rap&amp;rdquo; does not appear to grow too much in this dataset, which suggest that is not the cause of the increase of negative emotion in lyrics (&lt;em&gt;in this dataset&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This suggest that there is some truth in the idea that the overall increase in sadness is due to the emergence of new, sadder, genres. Genres like &amp;ldquo;Alternative&amp;rdquo;, for example, did not show any trend, but their &amp;ldquo;baseline&amp;rdquo;, so to speak, corresponds well to the current levels of negative/positive emotions overall.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./mxm_Alternative.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Heavy Metal&amp;rdquo;, consistently with the stereotype, is indeed, on average, a sad genre - as I said on Twitter, &amp;ldquo;unsurprising sentiment analysis results are good sentiment analysis results&amp;rdquo;). In fact, in 2010, the proportion of words expressing negative emotions was &lt;em&gt;higher&lt;/em&gt; than the proportion of words expressing positive emotions, going beyond the overall results (and showing that the &lt;a href=&#34;https://www.pnas.org/content/112/8/2389&#34; target=&#34;_blank&#34;&gt;Polyanna principle&lt;/a&gt; does not hold everywhere&amp;hellip;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./mxm_Heavy_Metal.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, we can see that also &amp;ldquo;Rock&amp;rdquo; and Pop&amp;rdquo;, the two most popular genres in the 1960s and still accounting for more than 30% of the total number of songs in 2010, show clear trends going in the overall direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./mxm_Rock.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./mxm_Pop.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This suggests that the overall trend is not only imputable to the introduction of new genres, but that also &amp;ldquo;classic&amp;rdquo; genres have become sadder. In the same &lt;a href=&#34;https://github.com/albertoacerbi/mxm_genres_analysis&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;, you can find the correspondent plots for all the 20 genres analysed.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sentiment analysis of Child Ballads&#39; lyrics</title>
@@ -860,7 +903,7 @@ It looks my hypothesis was wrong. The proportion of words associated to emotions
     <item>
       <title></title>
       <link>https://acerbialberto.com/authors/admin/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a cognitive/evolutionary anthropologist with a particular interest in computational science, and this is my blog and professional website. The main question that drives my research is: is it possible to find some general factors determining why some cultural traits succeed and others do not? In the cultural arena things climb towards success in a haphazard manner, but some overall regularities may be discovered. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach (yes, I think anthropology should be a science) with different methodologies, especially individual-based models and quantitative analysis of large-scale data.&lt;/p&gt;
 
