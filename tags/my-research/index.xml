@@ -21,11 +21,11 @@
 
 &lt;p&gt;Several people have suggested that this could be mainly due to the fact that new - sadder or angrier - genres (for example &lt;a href=&#34;https://marginalrevolution.com/marginalrevolution/2020/02/pop-songs-are-getting-sadder-and-angrier.html&#34; target=&#34;_blank&#34;&gt;hip-hop&lt;/a&gt;) have replaced the genres dominant fifty years ago. This is a sensible hypothesis. In one of the two datasets we used for the main analysis (indicated in the paper as &amp;ldquo;mxm&amp;rdquo; dataset), derived from the lyrics in the website &lt;a href=&#34;https://www.musixmatch.com&#34; target=&#34;_blank&#34;&gt;musixmatch.com&lt;/a&gt;, songs are also tagged with their genre, so it was relatively straightforward to explore the contribution of each genre to the general trend. The R code and the outputs are available in a &lt;a href=&#34;https://github.com/albertoacerbi/mxm_genres_analysis&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;First of all, here the general trends for the &amp;ldquo;mxm&amp;rdquo; dataset. (If you are interested, we explain in the aeon piece linked above what the facts that these numbers are small means for the importance of the trends, and what it means that the proportion of negative emotion-words is anyway always lower than the proportion of positive emotion-words.)&lt;/p&gt;
+&lt;p&gt;First of all, here the general trends for the &amp;ldquo;mxm&amp;rdquo; dataset. (If you are interested, we explain in the aeon piece linked above what the facts that these numbers are small and that the proportion of negative emotion-words is anyway always lower than the proportion of positive emotion-words mean for the importance of the trends.)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./mxm_all.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Going to the genre analysis, there are 168 possible genre tags in the dataset, on a total of 159,015 songs used in the analysis, but the most common 20 genres account for the 99% of all songs.&lt;/p&gt;
+&lt;p&gt;Going to the genre analysis, there are 168 possible genre tags in the dataset, on a total of 159,015 songs, but the most common 20 genres account for 99% of all songs.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./genres.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
 
@@ -33,7 +33,7 @@
 
 &lt;p&gt;&lt;img src=&#34;./overall_emo_genres.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We can also look at the prevalence of genres through years. Genres like &amp;ldquo;Alternative&amp;rdquo; and &amp;ldquo;Heavy Metal&amp;rdquo; did indeed grew in popularity, whereas they were completely absent in the 1960s. On the contrary, positively-connotated genres like &amp;ldquo;R&amp;amp;B/Soul&amp;rdquo; and &amp;ldquo;Christian &amp;amp; Gospel&amp;rdquo; show a strong decrease. Notice &amp;ldquo;Hip Hop/Rap&amp;rdquo; does not appear to grow too much in this dataset, which suggest that is not the cause of the increase of negative emotion in lyrics (&lt;em&gt;in this dataset&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;We can also look at the prevalence of genres through years. Genres like &amp;ldquo;Alternative&amp;rdquo; and &amp;ldquo;Heavy Metal&amp;rdquo; did indeed grew in popularity, whereas they were completely absent in the 1960s. On the contrary, positively-connotated genres like &amp;ldquo;R&amp;amp;B/Soul&amp;rdquo; and &amp;ldquo;Christian &amp;amp; Gospel&amp;rdquo; show a strong decrease. Notice &amp;ldquo;Hip Hop/Rap&amp;rdquo; does not appear as growing too much in this dataset, which implies that is not the cause of the increase of negative emotion in lyrics (&lt;em&gt;in this dataset&lt;/em&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
 
