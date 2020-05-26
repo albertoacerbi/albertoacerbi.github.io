@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fiction | Alberto Acerbi</title>
-    <link>/tags/fiction/</link>
-      <atom:link href="/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/fiction/</link>
+      <atom:link href="https://acerbialberto.com/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
     <description>fiction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>fiction</title>
-      <link>/tags/fiction/</link>
+      <link>https://acerbialberto.com/tags/fiction/</link>
     </image>
     
     <item>
       <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
-      <link>/publication/2019_pal_comm_b/</link>
+      <link>https://acerbialberto.com/publication/2019_pal_comm_b/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_pal_comm_b/</guid>
+      <guid>https://acerbialberto.com/publication/2019_pal_comm_b/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Role of Neutral evolution in word turnover during centuries of English word popularity</title>
-      <link>/publication/2017_complex_sys/</link>
+      <link>https://acerbialberto.com/publication/2017_complex_sys/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_complex_sys/</guid>
+      <guid>https://acerbialberto.com/publication/2017_complex_sys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural complexity and demography: the case of folktales</title>
-      <link>/publication/2017_ehb/</link>
+      <link>https://acerbialberto.com/publication/2017_ehb/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_ehb/</guid>
+      <guid>https://acerbialberto.com/publication/2017_ehb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
-      <link>/publication/2017_cog_emo/</link>
+      <link>https://acerbialberto.com/publication/2017_cog_emo/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_cog_emo/</guid>
+      <guid>https://acerbialberto.com/publication/2017_cog_emo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books average previous decade of economic misery</title>
-      <link>/publication/2014_plos_b/</link>
+      <link>https://acerbialberto.com/publication/2014_plos_b/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_plos_b/</guid>
+      <guid>https://acerbialberto.com/publication/2014_plos_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -75,17 +75,17 @@
     
     <item>
       <title>Robustness of emotion extraction from 20th century English books</title>
-      <link>/publication/cp_2013_emotion/</link>
+      <link>https://acerbialberto.com/publication/cp_2013_emotion/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2013_emotion/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2013_emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The expression of emotions in 20th century books</title>
-      <link>/publication/2013_plos_b/</link>
+      <link>https://acerbialberto.com/publication/2013_plos_b/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_plos_b/</guid>
+      <guid>https://acerbialberto.com/publication/2013_plos_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a &lt;a href=&#34;http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html&#34;&gt;popular summary&lt;/a&gt; of the paper for the &lt;em&gt;Huffington Post&lt;/em&gt; (US edition). Other media coverage includes:&lt;/p&gt;
 &lt;ul&gt;

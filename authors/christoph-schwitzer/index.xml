@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christoph Schwitzer | Alberto Acerbi</title>
-    <link>/authors/christoph-schwitzer/</link>
-      <atom:link href="/authors/christoph-schwitzer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/christoph-schwitzer/</link>
+      <atom:link href="https://acerbialberto.com/authors/christoph-schwitzer/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Schwitzer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Christoph Schwitzer</title>
-      <link>/authors/christoph-schwitzer/</link>
+      <link>https://acerbialberto.com/authors/christoph-schwitzer/</link>
     </image>
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-      <link>/publication/2020_jnc/</link>
+      <link>https://acerbialberto.com/publication/2020_jnc/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_jnc/</guid>
+      <guid>https://acerbialberto.com/publication/2020_jnc/</guid>
       <description></description>
     </item>
     
