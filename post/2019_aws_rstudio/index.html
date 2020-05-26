@@ -31,7 +31,7 @@
   <meta name="description" content="Running your R scripts in the cloud is as simple as that (and free).">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://acerbialberto.com/post/2019_aws_rstudio/">
+  <link rel="alternate" hreflang="en-us" href="/post/2019_aws_rstudio/">
 
   
 
@@ -84,7 +84,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.967ba84b1b91d0fc5b9f54455e148fb6.css">
+  <link rel="stylesheet" href="/css/academic.min.ad36b65d74429b29cbe0ccbcb2f7ddc2.css">
 
   
 
@@ -112,7 +112,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://acerbialberto.com/post/2019_aws_rstudio/">
+  <link rel="canonical" href="/post/2019_aws_rstudio/">
 
   
   
@@ -127,10 +127,10 @@
   <meta property="twitter:creator" content="@acerbialberto">
   
   <meta property="og:site_name" content="Alberto Acerbi">
-  <meta property="og:url" content="https://acerbialberto.com/post/2019_aws_rstudio/">
+  <meta property="og:url" content="/post/2019_aws_rstudio/">
   <meta property="og:title" content="RStudio on Amazon Web Services | Alberto Acerbi">
-  <meta property="og:description" content="Running your R scripts in the cloud is as simple as that (and free)."><meta property="og:image" content="https://acerbialberto.com/post/2019_aws_rstudio/featured.png">
-  <meta property="twitter:image" content="https://acerbialberto.com/post/2019_aws_rstudio/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Running your R scripts in the cloud is as simple as that (and free)."><meta property="og:image" content="/post/2019_aws_rstudio/featured.png">
+  <meta property="twitter:image" content="/post/2019_aws_rstudio/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-09-24T00:00:00&#43;00:00">
@@ -519,7 +519,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://acerbialberto.com/post/2019_aws_rstudio/&amp;text=RStudio%20on%20Amazon%20Web%20Services" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/2019_aws_rstudio/&amp;text=RStudio%20on%20Amazon%20Web%20Services" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -532,7 +532,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://acerbialberto.com/post/2019_aws_rstudio/&amp;t=RStudio%20on%20Amazon%20Web%20Services" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/2019_aws_rstudio/&amp;t=RStudio%20on%20Amazon%20Web%20Services" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -545,7 +545,7 @@
       
       
       <li>
-        <a href="mailto:?subject=RStudio%20on%20Amazon%20Web%20Services&amp;body=https://acerbialberto.com/post/2019_aws_rstudio/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=RStudio%20on%20Amazon%20Web%20Services&amp;body=/post/2019_aws_rstudio/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -558,7 +558,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=RStudio%20on%20Amazon%20Web%20Services%20https://acerbialberto.com/post/2019_aws_rstudio/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=RStudio%20on%20Amazon%20Web%20Services%20/post/2019_aws_rstudio/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -594,124 +594,73 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<p>Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running <a href="https://github.com/albertoacerbi/oranzees" target="_blank">this</a> individual-based model - you do not have this option. However, I just found out that launching your <a href="https://www.rstudio.com" target="_blank">RStudio</a> script on Amazon Web Service (<a href="https://aws.amazon.com" target="_blank">AWS</a>) is quite easy (and it is free).</p>
-
-<p>As the information needed is scattered on the web, I put together a short tutorial. If you do not trust me, most material comes from <a href="http://www.louisaslett.com/RStudio_AMI/" target="_blank">here</a>, but it is not  explained step-by-step, some information are possibly not relevant for a non-expert (as myself) and, mostly, the AWS interface has been changed from when the page was written. So, follow this short instructions, and you can close your laptop and have your script running for you somewhere else!</p>
-
+      <p>Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running <a href="https://github.com/albertoacerbi/oranzees">this</a> individual-based model - you do not have this option. However, I just found out that launching your <a href="https://www.rstudio.com">RStudio</a> script on Amazon Web Service (<a href="https://aws.amazon.com">AWS</a>) is quite easy (and it is free).</p>
+<p>As the information needed is scattered on the web, I put together a short tutorial. If you do not trust me, most material comes from <a href="http://www.louisaslett.com/RStudio_AMI/">here</a>, but it is not  explained step-by-step, some information are possibly not relevant for a non-expert (as myself) and, mostly, the AWS interface has been changed from when the page was written. So, follow this short instructions, and you can close your laptop and have your script running for you somewhere else!</p>
 <h2 id="step-by-step-tutorial">Step-by-step tutorial</h2>
-
 <h5 id="1-create-an-aws-account">(1) Create an AWS account</h5>
-
-<p>First of all, we need an AWS account. Amazon Web Service &ldquo;provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered pay-as-you-go basis&rdquo;. However, some products - including the one we will use - are free. Let&rsquo;s go to <a href="https://aws.amazon.com/" target="_blank">the AWS webpage</a> and create the account. It asks us some personal data, including the address and, annoyingly, a credit card number, in case we use products that are not free, or exceed the usage limits. (In any case, Amazon probably already knows our credit card number.)</p>
-
+<p>First of all, we need an AWS account. Amazon Web Service &ldquo;provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered pay-as-you-go basis&rdquo;. However, some products - including the one we will use - are free. Let&rsquo;s go to <a href="https://aws.amazon.com/">the AWS webpage</a> and create the account. It asks us some personal data, including the address and, annoyingly, a credit card number, in case we use products that are not free, or exceed the usage limits. (In any case, Amazon probably already knows our credit card number.)</p>
 <h5 id="2-launch-the-ami">(2) Launch the AMI</h5>
-
-<p>Now we want to run our script in the Amazon cloud. Ideally, we would like to run it on a (virtual) computer with RStudio installed. Luckily, someone already did this. Go to <a href="http://www.louisaslett.com/RStudio_AMI/" target="_blank">this</a> webpage and choose one of the <em>AMI</em> on the right of the page, according to the geographic location (in my case: EU West, London).</p>
-
-<p><a href="https://en.wikipedia.org/wiki/Amazon_Machine_Image" target="_blank">Here</a> is the Wikipedia page about AMI (Amazon Machine Image) if you want to know more, but you do not need to.</p>
-
-<p><img src="./01.png" alt="png" /></p>
-
+<p>Now we want to run our script in the Amazon cloud. Ideally, we would like to run it on a (virtual) computer with RStudio installed. Luckily, someone already did this. Go to <a href="http://www.louisaslett.com/RStudio_AMI/">this</a> webpage and choose one of the <em>AMI</em> on the right of the page, according to the geographic location (in my case: EU West, London).</p>
+<p><a href="https://en.wikipedia.org/wiki/Amazon_Machine_Image">Here</a> is the Wikipedia page about AMI (Amazon Machine Image) if you want to know more, but you do not need to.</p>
+<p><img src="./01.png" alt="png"></p>
 <h5 id="3-choose-the-instance">(3) Choose the instance</h5>
-
 <p>Now we landed on the AWS page of the AMI we choose. The &ldquo;Free Tier&rdquo; instance is already selected, so we do not have to do anything.</p>
-
-<p><img src="./02.png" alt="png" /></p>
-
+<p><img src="./02.png" alt="png"></p>
 <h5 id="4-configure-the-security">(4) Configure the security</h5>
-
 <p>To access to Rstudio in the cloud with our browser we need to configure the security in the right way. Thus, before launching the instance, we need to go on the tab 6 (&ldquo;Configure Security Group&rdquo;), and select &ldquo;HTTP&rdquo; from the drop-down menu.</p>
-
-<p><img src="./03.png" alt="png" /></p>
-
+<p><img src="./03.png" alt="png"></p>
 <h5 id="5-review-and-launch">(5) Review and launch</h5>
-
 <p>We click on &ldquo;Review and Launch&rdquo; and we land on this page. Check that the &ldquo;AMI details&rdquo; are correct and then click &ldquo;Launch&rdquo;.</p>
-
-<p><img src="./04.png" alt="png" /></p>
-
+<p><img src="./04.png" alt="png"></p>
 <h5 id="6-select-the-key-pair">(6) Select the key pair</h5>
-
 <p>Before launching the instance, we are asked to select a key pair. From the drop-down menu we choose &ldquo;Proceed without a key pair&rdquo;, and check the box below. Now we can click &ldquo;Launch Instances&rdquo;.</p>
-
-<p><img src="./05.png" alt="png" /></p>
-
+<p><img src="./05.png" alt="png"></p>
 <h5 id="7-the-instance-is-launched">(7) The instance is launched!</h5>
-
 <p>All good. Click on the ID of the instance (it will be different from the one shown here), to access it.</p>
-
-<p><img src="./06.png" alt="png" /></p>
-
+<p><img src="./06.png" alt="png"></p>
 <h5 id="8-connecting-to-rstudio">(8) Connecting to RStudio</h5>
-
 <p>Here is the console of our instance. After some time, the &ldquo;Instance State&rdquo; will be on &ldquo;running&rdquo;. We need to copy the Public DNS, and paste it in the address bar of another page our browser to access our instance of RStudio.</p>
-
-<p><img src="./07.png" alt="png" /></p>
-
+<p><img src="./07.png" alt="png"></p>
 <h5 id="9-starting-rstudio">(9) Starting RStudio</h5>
-
 <p>After a while this page should appear (if not, we need to wait a bit an retry, it may need a few minutes). The username is &ldquo;rstudio&rdquo;, and the password is our &ldquo;Instance ID&rdquo; (see the previous screenshot, on the left side of the Public DNS).</p>
-
-<p><img src="./08.png" alt="png" /></p>
-
+<p><img src="./08.png" alt="png"></p>
 <h5 id="10-virtual-rstudio">(10) Virtual RStudio</h5>
-
 <p>If all went well, we should see the familiar screen below. There is a <strong>Welcome.R</strong> script. There are two things we should do (which are well explained in the script). First, it is advisable to change our password, from the &ldquo;Instance ID&rdquo; to something else of our choice. To do this, we first load the package included (<code>library(&quot;RStudioAMI&quot;)</code>), and use the function <code>passwd()</code>, which asks for old and new password. The second thing is that we can link our Dropbox so that we can load directly our script, using the function <code>linkDropbox()</code>.</p>
-
-<p><img src="./09.png" alt="png" /></p>
-
+<p><img src="./09.png" alt="png"></p>
 <h5 id="11-authorising-dropbox">(11) Authorising Dropbox</h5>
-
-<p>After few seconds, a message on the RStudio console (&ldquo;Please visit the following URL in your browser now to link the server to your Dropbox account:&ldquo;) will prompt us to authorise the cloud computer to connect to our Dropbox, landing on this page. We need to click on &ldquo;Connect&rdquo;. (We will also receive a mail from Dropbox asking to confirm.)</p>
-
-<p><img src="./10.png" alt="png" /></p>
-
+<p>After few seconds, a message on the RStudio console (&ldquo;Please visit the following URL in your browser now to link the server to your Dropbox account:&quot;) will prompt us to authorise the cloud computer to connect to our Dropbox, landing on this page. We need to click on &ldquo;Connect&rdquo;. (We will also receive a mail from Dropbox asking to confirm.)</p>
+<p><img src="./10.png" alt="png"></p>
 <h5 id="12-excluding-folders-from-dropbox-sync">(12) Excluding folders from Dropbox sync</h5>
-
 <p>At this point, a &ldquo;Dropbox&rdquo; folder appears in the &ldquo;Files&rdquo; tab of RStudio. We do not want to sync <em>all</em> our Dropbox folder in the cloud. When our Dropbox folders start to appear in RStudio, we can use the function <code>excludeSyncDropbox(&quot;*&quot;)</code> to exclude all files to be synced.</p>
-
-<p><img src="./11.png" alt="png" /></p>
-
+<p><img src="./11.png" alt="png"></p>
 <h5 id="13-syncing-what-we-need">(13) Syncing what we need</h5>
-
 <p>Imagine the script we need to run is called <strong>scriptThatRunsForHours.R</strong>. A good idea is to create a folder in our dropbox - let&rsquo;s call it &ldquo;AWS_RStudio&rdquo; and put the script in that folder. Now we can ask to synchronise only this folder, using the function <code>includeSyncDropbox(&quot;AWS_RStudio&quot;)</code>. Now we can open our script as we would do in our local RStudio and do whatever we need to do with it, including running it.</p>
-
-<p><img src="./12.png" alt="png" /></p>
-
+<p><img src="./12.png" alt="png"></p>
 <h5 id="14-going-back-the-script">(14) Going back the script</h5>
-
 <p>When the script runs, we can close our browser, and just forget about it. To go back to our instance, we go again on the AWS webpage, we login to our account, and we click the EC2 service.</p>
-
-<p><img src="./13.png" alt="png" /></p>
-
+<p><img src="./13.png" alt="png"></p>
 <p>We should have one instance running. Clicking on it, we are back to the instance console (see point 8), from where, following again points 8 and 9, we go again on our virtual RStudio.</p>
-
-<p><img src="./14.png" alt="png" /></p>
-
+<p><img src="./14.png" alt="png"></p>
 <h5 id="15-terminate-the-instance">(15) Terminate the instance</h5>
-
 <p>When the script is finished, and if we do not have anything else to run, from the instance console we can &ldquo;terminate&rdquo; the instance, as shown below. All done!</p>
-
-<p><img src="./15.png" alt="png" /></p>
-
+<p><img src="./15.png" alt="png"></p>
 <h2 id="limitations">Limitations</h2>
-
 <p>This quick tutorial is intended as a very basic shortcut to run RStudio on AWS. The pros are that it works, that it should have you run a R script in a handful of minutes and that it does not require any technical knowledge. On the other hand, there are some obvious limitations (all suggestions are more than welcome!):</p>
-
 <ul>
-<li><p>I have not been able to write output files on my local computer. While the modifications of the scripts I made in the instance are saved on my Dropbox, the output files, produced with <code>write_csv(&quot;myLongScriptOutput.csv&quot;)</code> are not. They appear in the &ldquo;Files&rdquo; tab in the virtual RStudio and I manually export them from there to my computer (&ldquo;More&gt;Export&rdquo;). This is not very elegant.</p></li>
-
-<li><p>The virtual RStudio comes with some packages pre-installed. In particular, the &ldquo;tidyverse&rdquo; package, which is the only one I needed, is there. I did not try to install any other package, so I do not know whether this will work straightforwardly or not.</p></li>
-
-<li><p>The most annoying aspect is that my script runs <em>slower</em> in the cloud that on my laptop! (Around twice slower.) This is probably due to the fact that I am using a &ldquo;Free Tier&rdquo; instance, so I would need to pay for more computational power. So, this is a viable option if you are not exactly in a rush, unless someone finds a solution to this.</p></li>
-
-<li><p>Finally, I just scratched the surface of what one can do (again the goal was to provide a fast and easy solution). I do not have idea of how the majority of the options present in the instance console work, and I did not mention few for which I have some idea. (For example, how to monitor your script, or how to pair your instance with a ssh key so to access it directly from terminal, see point 6).</p></li>
+<li>
+<p>I have not been able to write output files on my local computer. While the modifications of the scripts I made in the instance are saved on my Dropbox, the output files, produced with <code>write_csv(&quot;myLongScriptOutput.csv&quot;)</code> are not. They appear in the &ldquo;Files&rdquo; tab in the virtual RStudio and I manually export them from there to my computer (&ldquo;More&gt;Export&rdquo;). This is not very elegant.</p>
+</li>
+<li>
+<p>The virtual RStudio comes with some packages pre-installed. In particular, the &ldquo;tidyverse&rdquo; package, which is the only one I needed, is there. I did not try to install any other package, so I do not know whether this will work straightforwardly or not.</p>
+</li>
+<li>
+<p>The most annoying aspect is that my script runs <em>slower</em> in the cloud that on my laptop! (Around twice slower.) This is probably due to the fact that I am using a &ldquo;Free Tier&rdquo; instance, so I would need to pay for more computational power. So, this is a viable option if you are not exactly in a rush, unless someone finds a solution to this.</p>
+</li>
+<li>
+<p>Finally, I just scratched the surface of what one can do (again the goal was to provide a fast and easy solution). I do not have idea of how the majority of the options present in the instance console work, and I did not mention few for which I have some idea. (For example, how to monitor your script, or how to pair your instance with a ssh key so to access it directly from terminal, see point 6).</p>
+</li>
 </ul>
-
-<hr />
-
+<hr>
 <p>As usual, comments and feedback welcome, and happy to know about better solutions!</p>
 
     </div>
@@ -764,7 +713,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://acerbialberto.com/">Alberto Acerbi</a></h5>
+      <h5 class="card-title" itemprop="name"><a href="/">Alberto Acerbi</a></h5>
       
       <p class="card-text" itemprop="description">Cultural Evolution / Cognitive Anthropology / Individual-based modelling / Computational Social Science / Digital Media</p>
       <ul class="network-icon" aria-hidden="true">
@@ -1010,7 +959,7 @@
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
 
     
 
@@ -1022,6 +971,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+        
+  </p>
   
 
   <p class="powered-by">

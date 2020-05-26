@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre O. Jacquet | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/pierre-o.-jacquet/</link>
-      <atom:link href="https://acerbialberto.com/authors/pierre-o.-jacquet/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/pierre-o.-jacquet/</link>
+      <atom:link href="/authors/pierre-o.-jacquet/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre O. Jacquet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Pierre O. Jacquet</title>
-      <link>https://acerbialberto.com/authors/pierre-o.-jacquet/</link>
+      <link>/authors/pierre-o.-jacquet/</link>
     </image>
     
     <item>
       <title>Behavioral constraints and the evolution of faithful social learning</title>
-      <link>https://acerbialberto.com/publication/2012_cur_zoo/</link>
+      <link>/publication/2012_cur_zoo/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2012_cur_zoo/</guid>
+      <guid>/publication/2012_cur_zoo/</guid>
       <description></description>
     </item>
     

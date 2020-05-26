@@ -2,38 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/publication_types/5/</link>
-      <atom:link href="https://acerbialberto.com/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/5/</link>
+      <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>5</title>
-      <link>https://acerbialberto.com/publication_types/5/</link>
+      <link>/publication_types/5/</link>
     </image>
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>https://acerbialberto.com/publication/2019_oup/</link>
+      <link>/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
-      <description>&lt;hr /&gt;
-
+      <guid>/publication/2019_oup/</guid>
+      <description>&lt;hr&gt;
 &lt;p&gt;Media coverage:&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/&#34; target=&#34;_blank&#34;&gt;Sturen algoritmen ons gedrag? Dat valt best mee&lt;/a&gt;, &lt;em&gt;Trouw&lt;/em&gt; (The Netherlands)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#&#34; target=&#34;_blank&#34;&gt;Tout ce que vous pensiez savoir d&amp;rsquo;Internet est (sans doute) faux&lt;/a&gt;, &lt;em&gt;Le Point&lt;/em&gt; (France)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/&#34;&gt;Sturen algoritmen ons gedrag? Dat valt best mee&lt;/a&gt;, &lt;em&gt;Trouw&lt;/em&gt; (The Netherlands)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#&#34;&gt;Tout ce que vous pensiez savoir d&amp;rsquo;Internet est (sans doute) faux&lt;/a&gt;, &lt;em&gt;Le Point&lt;/em&gt; (France)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
+      <link>/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
+      <guid>/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     
