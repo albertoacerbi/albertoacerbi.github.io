@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>big questions</title>
-      <link>https://acerbialberto.com/tags/big-questions/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/big-questions/</guid>
+      <title>digital age</title>
+      <link>https://acerbialberto.com/tags/digital-age/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-age/</guid>
       <description></description>
     </item>
     
     <item>
       <title>my research</title>
       <link>https://acerbialberto.com/tags/my-research/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/my-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big questions</title>
+      <link>https://acerbialberto.com/tags/big-questions/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/big-questions/</guid>
       <description></description>
     </item>
     
@@ -129,14 +137,6 @@
       <link>https://acerbialberto.com/tags/software/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital age</title>
-      <link>https://acerbialberto.com/tags/digital-age/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-age/</guid>
       <description></description>
     </item>
     
