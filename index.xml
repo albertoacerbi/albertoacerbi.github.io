@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/</link>
       <atom:link href="https://acerbialberto.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
       <link>https://acerbialberto.com/</link>
     </image>
+    
+    <item>
+      <title>Media</title>
+      <link>https://acerbialberto.com/media/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
@@ -33,14 +41,6 @@
       <link>https://acerbialberto.com/publication/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>https://acerbialberto.com/media/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/</guid>
       <description></description>
     </item>
     
