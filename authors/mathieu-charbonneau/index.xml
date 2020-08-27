@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathieu Charbonneau | Alberto Acerbi</title>
-    <link>/authors/mathieu-charbonneau/</link>
-      <atom:link href="/authors/mathieu-charbonneau/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/mathieu-charbonneau/</link>
+      <atom:link href="https://acerbialberto.com/authors/mathieu-charbonneau/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathieu Charbonneau</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Mathieu Charbonneau</title>
-      <link>/authors/mathieu-charbonneau/</link>
+      <link>https://acerbialberto.com/authors/mathieu-charbonneau/</link>
     </image>
     
     <item>
       <title>Cultural stability without copying</title>
-      <link>/publication/preprint_stability/</link>
+      <link>https://acerbialberto.com/publication/preprint_stability/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_stability/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_stability/</guid>
       <description></description>
     </item>
     
