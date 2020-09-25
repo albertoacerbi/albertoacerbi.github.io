@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Recent</title>
+      <link>https://acerbialberto.com/tags/recent/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/recent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>data</title>
@@ -25,14 +33,6 @@
       <link>https://acerbialberto.com/tags/software/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent</title>
-      <link>https://acerbialberto.com/tags/recent/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/recent/</guid>
       <description></description>
     </item>
     
