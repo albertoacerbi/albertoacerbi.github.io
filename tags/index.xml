@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>cultural evolution</title>
+      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital media</title>
+      <link>https://acerbialberto.com/tags/digital-media/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-media/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>academic publishing</title>
@@ -77,14 +93,6 @@
     </item>
     
     <item>
-      <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
-      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>individual based models</title>
       <link>https://acerbialberto.com/tags/individual-based-models/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
@@ -97,14 +105,6 @@
       <link>https://acerbialberto.com/tags/conservation/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital media</title>
-      <link>https://acerbialberto.com/tags/digital-media/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-media/</guid>
       <description></description>
     </item>
     

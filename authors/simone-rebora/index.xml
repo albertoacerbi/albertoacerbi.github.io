@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Rebora | Alberto Acerbi</title>
+    <link>https://acerbialberto.com/authors/simone-rebora/</link>
+      <atom:link href="https://acerbialberto.com/authors/simone-rebora/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simone Rebora</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <title>Simone Rebora</title>
+      <link>https://acerbialberto.com/authors/simone-rebora/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Accumulation and Improvement in Online Fan Fiction</title>
+      <link>https://acerbialberto.com/publication/cp_2020_chr/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/cp_2020_chr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

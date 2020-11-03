@@ -3,8 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/6/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2020-10-20T15:00:00+00:00</lastmod>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/cp_2020_chr/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/federico-pianzola/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/simone-rebora/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +73,7 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/academic-publishing/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +89,6 @@
   
   <url>
     <loc>https://acerbialberto.com/post/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,22 +188,7 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -214,11 +239,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/daphne-kerhoas/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -655,11 +675,6 @@
   <url>
     <loc>https://acerbialberto.com/authors/vasileios-lampos/</loc>
     <lastmod>2014-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication_types/6/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

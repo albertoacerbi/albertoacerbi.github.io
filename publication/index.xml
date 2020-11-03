@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/publication/</link>
       <atom:link href="https://acerbialberto.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://acerbialberto.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Cultural Accumulation and Improvement in Online Fan Fiction</title>
+      <link>https://acerbialberto.com/publication/cp_2020_chr/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/cp_2020_chr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ape cultures do not require behavior copying</title>
