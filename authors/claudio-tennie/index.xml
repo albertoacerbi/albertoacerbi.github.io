@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudio Tennie | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/claudio-tennie/</link>
-      <atom:link href="https://acerbialberto.com/authors/claudio-tennie/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/claudio-tennie/</link>
+      <atom:link href="/authors/claudio-tennie/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudio Tennie</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Claudio Tennie</title>
-      <link>https://acerbialberto.com/authors/claudio-tennie/</link>
+      <link>/authors/claudio-tennie/</link>
     </image>
     
     <item>
       <title>Ape cultures do not require behavior copying</title>
-      <link>https://acerbialberto.com/publication/preprint_oranzees/</link>
+      <link>/publication/preprint_oranzees/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_oranzees/</guid>
+      <guid>/publication/preprint_oranzees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reply to ‘Sigmoidal Acquisition Curves are Good Indicators of Conformist Transmission’</title>
-      <link>https://acerbialberto.com/publication/2018_sci_rep/</link>
+      <link>/publication/2018_sci_rep/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2018_sci_rep/</guid>
+      <guid>/publication/2018_sci_rep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A reappreciation of “conformity”</title>
-      <link>https://acerbialberto.com/publication/2016_an_behav/</link>
+      <link>/publication/2016_an_behav/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_an_behav/</guid>
+      <guid>/publication/2016_an_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conformity cannot be identified based on population-level signatures</title>
-      <link>https://acerbialberto.com/publication/2016_sci_rep/</link>
+      <link>/publication/2016_sci_rep/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_sci_rep/</guid>
+      <guid>/publication/2016_sci_rep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans</title>
-      <link>https://acerbialberto.com/publication/2016_rsos/</link>
+      <link>/publication/2016_rsos/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_rsos/</guid>
+      <guid>/publication/2016_rsos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of redundant information in cultural transmission and cultural stabilization</title>
-      <link>https://acerbialberto.com/publication/2016_jcp/</link>
+      <link>/publication/2016_jcp/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_jcp/</guid>
+      <guid>/publication/2016_jcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioral constraints and the evolution of faithful social learning</title>
-      <link>https://acerbialberto.com/publication/2012_cur_zoo/</link>
+      <link>/publication/2012_cur_zoo/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2012_cur_zoo/</guid>
+      <guid>/publication/2012_cur_zoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling imitation and emulation in constrained search spaces</title>
-      <link>https://acerbialberto.com/publication/2011_learn_behav/</link>
+      <link>/publication/2011_learn_behav/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2011_learn_behav/</guid>
+      <guid>/publication/2011_learn_behav/</guid>
       <description></description>
     </item>
     

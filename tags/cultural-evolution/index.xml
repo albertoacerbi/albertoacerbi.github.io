@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cultural evolution | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/cultural-evolution/</link>
-      <atom:link href="https://acerbialberto.com/tags/cultural-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cultural-evolution/</link>
+      <atom:link href="/tags/cultural-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>cultural evolution</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <link>/tags/cultural-evolution/</link>
     </image>
     
     <item>
+      <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
+      <link>/publication/preprint_ibmcultevo/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_ibmcultevo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cultural Accumulation and Improvement in Online Fan Fiction</title>
-      <link>https://acerbialberto.com/publication/cp_2020_chr/</link>
+      <link>/publication/cp_2020_chr/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2020_chr/</guid>
+      <guid>/publication/cp_2020_chr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ape cultures do not require behavior copying</title>
-      <link>https://acerbialberto.com/publication/preprint_oranzees/</link>
+      <link>/publication/preprint_oranzees/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_oranzees/</guid>
+      <guid>/publication/preprint_oranzees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>https://acerbialberto.com/publication/2019_oup/</link>
+      <link>/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
+      <guid>/publication/2019_oup/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Book Club at &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/&#34;&gt;cognitionandculture.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;International Cognition and Culture Institute&lt;/em&gt; has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.&lt;/p&gt;
@@ -78,9 +86,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>https://acerbialberto.com/publication/2019_ehs/</link>
+      <link>/publication/2019_ehs/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_ehs/</guid>
+      <guid>/publication/2019_ehs/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Together with Lotty Brand, we wrote a piece for &lt;em&gt;aeon&lt;/em&gt; about the paper: &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;Why are pop songs getting sadder than they used to be?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The piece was then widely covered by popular and scientific media, including for example &lt;a href=&#34;https://www.thetimes.co.uk/edition/news/heaven-knows-pops-miserable-now-777dzqw7x&#34;&gt;The Times&lt;/a&gt; (UK), &lt;a href=&#34;https://www.standaard.be/cnt/dmf20200226_04866569&#34;&gt;De Standaard&lt;/a&gt; (Belgium), or &lt;a href=&#34;https://www.information.dk/kultur/2020/02/popsange-soergeligere-soergeligere-viser-ny-undersoegelse&#34;&gt;Dagbaldet Information&lt;/a&gt; (Danemark)&lt;/p&gt;
@@ -96,11 +104,11 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
-      <link>https://acerbialberto.com/publication/2019_pal_comm_b/</link>
+      <link>/publication/2019_pal_comm_b/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_pal_comm_b/</guid>
+      <guid>/publication/2019_pal_comm_b/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -113,19 +121,19 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural stability without copying</title>
-      <link>https://acerbialberto.com/publication/preprint_stability/</link>
+      <link>/publication/preprint_stability/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_stability/</guid>
+      <guid>/publication/preprint_stability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
-      <link>https://acerbialberto.com/publication/2019_pal_comm_a/</link>
+      <link>/publication/2019_pal_comm_a/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_pal_comm_a/</guid>
+      <guid>/publication/2019_pal_comm_a/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
 &lt;p&gt;Another popular &lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-les-vraies-raisons-du-succes-des-infox-09-09-2019-2334367_3590.php&#34;&gt;article&lt;/a&gt; (in French).&lt;/p&gt;
 
@@ -140,9 +148,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Copy-the-majority of instances or individuals? Two approaches to the majority and their consequences for conformist decision-making</title>
-      <link>https://acerbialberto.com/publication/2019_plos/</link>
+      <link>/publication/2019_plos/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2019_plos/</guid>
+      <guid>/publication/2019_plos/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -155,49 +163,49 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Did Einstein really say that? Testing content versus context in the cultural selection of quotations</title>
-      <link>https://acerbialberto.com/publication/2018_jocc/</link>
+      <link>/publication/2018_jocc/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2018_jocc/</guid>
+      <guid>/publication/2018_jocc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reply to ‘Sigmoidal Acquisition Curves are Good Indicators of Conformist Transmission’</title>
-      <link>https://acerbialberto.com/publication/2018_sci_rep/</link>
+      <link>/publication/2018_sci_rep/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2018_sci_rep/</guid>
+      <guid>/publication/2018_sci_rep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Folk-economic beliefs as “evidential fiction”: Putting the economic public discourse back on track</title>
-      <link>https://acerbialberto.com/publication/2018_bbs/</link>
+      <link>/publication/2018_bbs/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2018_bbs/</guid>
+      <guid>/publication/2018_bbs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Neutral evolution in word turnover during centuries of English word popularity</title>
-      <link>https://acerbialberto.com/publication/2017_complex_sys/</link>
+      <link>/publication/2017_complex_sys/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2017_complex_sys/</guid>
+      <guid>/publication/2017_complex_sys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural complexity and demography: the case of folktales</title>
-      <link>https://acerbialberto.com/publication/2017_ehb/</link>
+      <link>/publication/2017_ehb/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2017_ehb/</guid>
+      <guid>/publication/2017_ehb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
-      <link>https://acerbialberto.com/publication/2017_cog_emo/</link>
+      <link>/publication/2017_cog_emo/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2017_cog_emo/</guid>
+      <guid>/publication/2017_cog_emo/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -210,17 +218,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Review of Tim Lewens, Cultural Evolution: Conceptual Challenges</title>
-      <link>https://acerbialberto.com/publication/2017_phil_sci/</link>
+      <link>/publication/2017_phil_sci/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2017_phil_sci/</guid>
+      <guid>/publication/2017_phil_sci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A cultural evolution approach to digital media</title>
-      <link>https://acerbialberto.com/publication/2016_fhn/</link>
+      <link>/publication/2016_fhn/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_fhn/</guid>
+      <guid>/publication/2016_fhn/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -233,41 +241,41 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>A reappreciation of “conformity”</title>
-      <link>https://acerbialberto.com/publication/2016_an_behav/</link>
+      <link>/publication/2016_an_behav/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_an_behav/</guid>
+      <guid>/publication/2016_an_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conformity cannot be identified based on population-level signatures</title>
-      <link>https://acerbialberto.com/publication/2016_sci_rep/</link>
+      <link>/publication/2016_sci_rep/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_sci_rep/</guid>
+      <guid>/publication/2016_sci_rep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans</title>
-      <link>https://acerbialberto.com/publication/2016_rsos/</link>
+      <link>/publication/2016_rsos/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_rsos/</guid>
+      <guid>/publication/2016_rsos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of redundant information in cultural transmission and cultural stabilization</title>
-      <link>https://acerbialberto.com/publication/2016_jcp/</link>
+      <link>/publication/2016_jcp/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2016_jcp/</guid>
+      <guid>/publication/2016_jcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If we are all cultural Darwinians what’s the fuss about? Clarifying recent disagreements in the field of cultural evolution</title>
-      <link>https://acerbialberto.com/publication/2015_phil_bio/</link>
+      <link>/publication/2015_phil_bio/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2015_phil_bio/</guid>
+      <guid>/publication/2015_phil_bio/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Philosopher Massimo Pigliucci discussed this article in [The Trouble with Cultural Evolution] (&lt;a href=&#34;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&#34;&gt;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&lt;/a&gt; &lt;em&gt;Footnotes to Plato&lt;/em&gt;.&lt;/p&gt;
 
@@ -282,9 +290,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Dog Movies Stars and Dog Breed Popularity: A Case Study in Media Influence on Choice</title>
-      <link>https://acerbialberto.com/publication/2014_plos_a/</link>
+      <link>/publication/2014_plos_a/</link>
       <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2014_plos_a/</guid>
+      <guid>/publication/2014_plos_a/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -313,17 +321,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Biases in cultural transmission shape the turnover of popular traits</title>
-      <link>https://acerbialberto.com/publication/2014_ehb/</link>
+      <link>/publication/2014_ehb/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2014_ehb/</guid>
+      <guid>/publication/2014_ehb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books average previous decade of economic misery</title>
-      <link>https://acerbialberto.com/publication/2014_plos_b/</link>
+      <link>/publication/2014_plos_b/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2014_plos_b/</guid>
+      <guid>/publication/2014_plos_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -355,33 +363,33 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Regulatory traits: Cultural Influences on Cultural Evolution</title>
-      <link>https://acerbialberto.com/publication/cp_2014_regulatory/</link>
+      <link>/publication/cp_2014_regulatory/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2014_regulatory/</guid>
+      <guid>/publication/cp_2014_regulatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustness of emotion extraction from 20th century English books</title>
-      <link>https://acerbialberto.com/publication/cp_2013_emotion/</link>
+      <link>/publication/cp_2013_emotion/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2013_emotion/</guid>
+      <guid>/publication/cp_2013_emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fashion vs. Function in Cultural Evolution: The Case of Dog Breed Popularity</title>
-      <link>https://acerbialberto.com/publication/2013_plos_a/</link>
+      <link>/publication/2013_plos_a/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2013_plos_a/</guid>
+      <guid>/publication/2013_plos_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The expression of emotions in 20th century books</title>
-      <link>https://acerbialberto.com/publication/2013_plos_b/</link>
+      <link>/publication/2013_plos_b/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2013_plos_b/</guid>
+      <guid>/publication/2013_plos_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a &lt;a href=&#34;http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html&#34;&gt;popular summary&lt;/a&gt; of the paper for the &lt;em&gt;Huffington Post&lt;/em&gt; (US edition). Other media coverage includes:&lt;/p&gt;
 &lt;ul&gt;
@@ -410,105 +418,105 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Old and Young Individuals’ Role in Cultural Change</title>
-      <link>https://acerbialberto.com/publication/2012_jasss/</link>
+      <link>/publication/2012_jasss/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2012_jasss/</guid>
+      <guid>/publication/2012_jasss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioral constraints and the evolution of faithful social learning</title>
-      <link>https://acerbialberto.com/publication/2012_cur_zoo/</link>
+      <link>/publication/2012_cur_zoo/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2012_cur_zoo/</guid>
+      <guid>/publication/2012_cur_zoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Logic of Fashion Cycles</title>
-      <link>https://acerbialberto.com/publication/2012_plos/</link>
+      <link>/publication/2012_plos/</link>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2012_plos/</guid>
+      <guid>/publication/2012_plos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regulatory Traits in Cultural Evolution</title>
-      <link>https://acerbialberto.com/publication/cp_2012_regulatory/</link>
+      <link>/publication/cp_2012_regulatory/</link>
       <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2012_regulatory/</guid>
+      <guid>/publication/cp_2012_regulatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling imitation and emulation in constrained search spaces</title>
-      <link>https://acerbialberto.com/publication/2011_learn_behav/</link>
+      <link>/publication/2011_learn_behav/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2011_learn_behav/</guid>
+      <guid>/publication/2011_learn_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Sometimes Evitable Route to Conservatism and Persuasiveness. A Reply to Xue and Costopoulos</title>
-      <link>https://acerbialberto.com/publication/2010_cur_anthr/</link>
+      <link>/publication/2010_cur_anthr/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2010_cur_anthr/</guid>
+      <guid>/publication/2010_cur_anthr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
+      <link>/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
+      <guid>/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution and individual development of openness and conservatism</title>
-      <link>https://acerbialberto.com/publication/2009_pnas/</link>
+      <link>/publication/2009_pnas/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2009_pnas/</guid>
+      <guid>/publication/2009_pnas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orienting learning by exploiting sociality: an evolutionary robotics simulations</title>
-      <link>https://acerbialberto.com/publication/cp_2009_orienting/</link>
+      <link>/publication/cp_2009_orienting/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2009_orienting/</guid>
+      <guid>/publication/cp_2009_orienting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelli evoluzionistici della cultura</title>
-      <link>https://acerbialberto.com/publication/ita_2009_rifl/</link>
+      <link>/publication/ita_2009_rifl/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2009_rifl/</guid>
+      <guid>/publication/ita_2009_rifl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naturalmente differenti. Spiegazioni naturalistiche e variabilità culturale</title>
-      <link>https://acerbialberto.com/publication/ita_2009_differenti/</link>
+      <link>/publication/ita_2009_differenti/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2009_differenti/</guid>
+      <guid>/publication/ita_2009_differenti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trasmissione sociale di comportamenti in una popolazione di robot autonomi</title>
-      <link>https://acerbialberto.com/publication/ita_2008_si/</link>
+      <link>/publication/ita_2008_si/</link>
       <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2008_si/</guid>
+      <guid>/publication/ita_2008_si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social learning in embodied agents</title>
-      <link>https://acerbialberto.com/publication/2008_conn_sci/</link>
+      <link>/publication/2008_conn_sci/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2008_conn_sci/</guid>
+      <guid>/publication/2008_conn_sci/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I edited, together with Davide Marocco and Paul Vogt, a double special issue of the journal &lt;em&gt;Connection Science&lt;/em&gt; on the topic &amp;ldquo;Social Learning in Embodied Agents&amp;rdquo;. This is our editorial.&lt;/p&gt;
 </description>
@@ -516,89 +524,89 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Le trasmissioni della cultura</title>
-      <link>https://acerbialberto.com/publication/ita_2008_trasmissioni/</link>
+      <link>/publication/ita_2008_trasmissioni/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2008_trasmissioni/</guid>
+      <guid>/publication/ita_2008_trasmissioni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La natura della cultura. Modelli simulativi dell&#39;apprendimento sociale</title>
-      <link>https://acerbialberto.com/publication/ita_2007_phd/</link>
+      <link>/publication/ita_2007_phd/</link>
       <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2007_phd/</guid>
+      <guid>/publication/ita_2007_phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
-      <link>https://acerbialberto.com/publication/cp_2007_social/</link>
+      <link>/publication/cp_2007_social/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2007_social/</guid>
+      <guid>/publication/cp_2007_social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
-      <link>https://acerbialberto.com/publication/cp_2007_embodied/</link>
+      <link>/publication/cp_2007_embodied/</link>
       <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2007_embodied/</guid>
+      <guid>/publication/cp_2007_embodied/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptation and Social Facilitation in a Population of Autonomous Robots</title>
-      <link>https://acerbialberto.com/publication/cp_2007_adaptation/</link>
+      <link>/publication/cp_2007_adaptation/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/cp_2007_adaptation/</guid>
+      <guid>/publication/cp_2007_adaptation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural transmission between and within generations</title>
-      <link>https://acerbialberto.com/publication/2006_jasss/</link>
+      <link>/publication/2006_jasss/</link>
       <pubDate>Tue, 31 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2006_jasss/</guid>
+      <guid>/publication/2006_jasss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antropologia cognitiva e modularità della mente: il caso della folkbiology</title>
-      <link>https://acerbialberto.com/publication/ita_2006_folkbio/</link>
+      <link>/publication/ita_2006_folkbio/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2006_folkbio/</guid>
+      <guid>/publication/ita_2006_folkbio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trasmissibilità culturale di tratti discreti e continui</title>
-      <link>https://acerbialberto.com/publication/ita_2006_aisc/</link>
+      <link>/publication/ita_2006_aisc/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2006_aisc/</guid>
+      <guid>/publication/ita_2006_aisc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antropologia cognitiva: uno stato dell&#39;arte</title>
-      <link>https://acerbialberto.com/publication/ita_2005_si/</link>
+      <link>/publication/ita_2005_si/</link>
       <pubDate>Sat, 03 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2005_si/</guid>
+      <guid>/publication/ita_2005_si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esiste una folkanthropology? E, se esiste, a chi interessa?</title>
-      <link>https://acerbialberto.com/publication/ita_2005_folkanthro/</link>
+      <link>/publication/ita_2005_folkanthro/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2005_folkanthro/</guid>
+      <guid>/publication/ita_2005_folkanthro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La mente nella cultura: cognizione ed analisi dei fatti culturali</title>
-      <link>https://acerbialberto.com/publication/ita_2005_annali/</link>
+      <link>/publication/ita_2005_annali/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2005_annali/</guid>
+      <guid>/publication/ita_2005_annali/</guid>
       <description></description>
     </item>
     
