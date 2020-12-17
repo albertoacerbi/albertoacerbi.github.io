@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Smolla | Alberto Acerbi</title>
-    <link>/authors/marco-smolla/</link>
-      <atom:link href="/authors/marco-smolla/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/marco-smolla/</link>
+      <atom:link href="https://acerbialberto.com/authors/marco-smolla/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Smolla</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Marco Smolla</title>
-      <link>/authors/marco-smolla/</link>
+      <link>https://acerbialberto.com/authors/marco-smolla/</link>
     </image>
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-      <link>/publication/preprint_ibmcultevo/</link>
+      <link>https://acerbialberto.com/publication/preprint_ibmcultevo/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_ibmcultevo/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_ibmcultevo/</guid>
       <description></description>
     </item>
     

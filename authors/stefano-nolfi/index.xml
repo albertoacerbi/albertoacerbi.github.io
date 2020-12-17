@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefano Nolfi | Alberto Acerbi</title>
-    <link>/authors/stefano-nolfi/</link>
-      <atom:link href="/authors/stefano-nolfi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/stefano-nolfi/</link>
+      <atom:link href="https://acerbialberto.com/authors/stefano-nolfi/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefano Nolfi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Sep 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Stefano Nolfi</title>
-      <link>/authors/stefano-nolfi/</link>
+      <link>https://acerbialberto.com/authors/stefano-nolfi/</link>
     </image>
     
     <item>
       <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
-      <link>/publication/cp_2007_social/</link>
+      <link>https://acerbialberto.com/publication/cp_2007_social/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2007_social/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2007_social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
-      <link>/publication/cp_2007_embodied/</link>
+      <link>https://acerbialberto.com/publication/cp_2007_embodied/</link>
       <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2007_embodied/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2007_embodied/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trasmissibilità culturale di tratti discreti e continui</title>
-      <link>/publication/ita_2006_aisc/</link>
+      <link>https://acerbialberto.com/publication/ita_2006_aisc/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2006_aisc/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2006_aisc/</guid>
       <description></description>
     </item>
     

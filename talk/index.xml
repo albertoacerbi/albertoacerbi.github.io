@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Alberto Acerbi</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/talk/</link>
+      <atom:link href="https://acerbialberto.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://acerbialberto.com/talk/</link>
     </image>
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>/talk/2020_plymouth/</link>
+      <link>https://acerbialberto.com/talk/2020_plymouth/</link>
       <pubDate>Wed, 25 Nov 2020 16:00:00 +0000</pubDate>
-      <guid>/talk/2020_plymouth/</guid>
+      <guid>https://acerbialberto.com/talk/2020_plymouth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>/talk/2020_ucl/</link>
+      <link>https://acerbialberto.com/talk/2020_ucl/</link>
       <pubDate>Tue, 20 Oct 2020 15:00:00 +0000</pubDate>
-      <guid>/talk/2020_ucl/</guid>
+      <guid>https://acerbialberto.com/talk/2020_ucl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution on the web</title>
-      <link>/talk/2020_websci/</link>
+      <link>https://acerbialberto.com/talk/2020_websci/</link>
       <pubDate>Tue, 07 Jul 2020 14:00:00 +0000</pubDate>
-      <guid>/talk/2020_websci/</guid>
+      <guid>https://acerbialberto.com/talk/2020_websci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digital age: the long view</title>
-      <link>/talk/2020_oii/</link>
+      <link>https://acerbialberto.com/talk/2020_oii/</link>
       <pubDate>Tue, 25 Feb 2020 17:00:00 +0000</pubDate>
-      <guid>/talk/2020_oii/</guid>
+      <guid>https://acerbialberto.com/talk/2020_oii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The culture that wasn&#39;t?</title>
-      <link>/talk/2019_stockholm/</link>
+      <link>https://acerbialberto.com/talk/2019_stockholm/</link>
       <pubDate>Tue, 17 Dec 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/2019_stockholm/</guid>
+      <guid>https://acerbialberto.com/talk/2019_stockholm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
-      <link>/talk/2019_brunel/</link>
+      <link>https://acerbialberto.com/talk/2019_brunel/</link>
       <pubDate>Wed, 22 May 2019 15:00:00 +0000</pubDate>
-      <guid>/talk/2019_brunel/</guid>
+      <guid>https://acerbialberto.com/talk/2019_brunel/</guid>
       <description></description>
     </item>
     

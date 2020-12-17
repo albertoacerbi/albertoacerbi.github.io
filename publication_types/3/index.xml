@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Alberto Acerbi</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/publication_types/3/</link>
+      <atom:link href="https://acerbialberto.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://acerbialberto.com/publication_types/3/</link>
     </image>
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-      <link>/publication/preprint_ibmcultevo/</link>
+      <link>https://acerbialberto.com/publication/preprint_ibmcultevo/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_ibmcultevo/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_ibmcultevo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ape cultures do not require behavior copying</title>
-      <link>/publication/preprint_oranzees/</link>
+      <link>https://acerbialberto.com/publication/preprint_oranzees/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_oranzees/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_oranzees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural stability without copying</title>
-      <link>/publication/preprint_stability/</link>
+      <link>https://acerbialberto.com/publication/preprint_stability/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_stability/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_stability/</guid>
       <description></description>
     </item>
     

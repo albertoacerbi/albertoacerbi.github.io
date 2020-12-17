@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent | Alberto Acerbi</title>
-    <link>/tags/recent/</link>
-      <atom:link href="/tags/recent/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/recent/</link>
+      <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent</title>
-      <link>/tags/recent/</link>
+      <link>https://acerbialberto.com/tags/recent/</link>
     </image>
     
     <item>
       <title>The Dissenter - Cultural Evolution in the Digital Age</title>
-      <link>/media/dissenter/</link>
+      <link>https://acerbialberto.com/media/dissenter/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/media/dissenter/</guid>
+      <guid>https://acerbialberto.com/media/dissenter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural Evolution in the Digital Age interview</title>
-      <link>/media/cultured_scene_ceda/</link>
+      <link>https://acerbialberto.com/media/cultured_scene_ceda/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/media/cultured_scene_ceda/</guid>
+      <guid>https://acerbialberto.com/media/cultured_scene_ceda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heaven knows pop’s miserable now</title>
-      <link>/media/the_times_sad_songs/</link>
+      <link>https://acerbialberto.com/media/the_times_sad_songs/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/media/the_times_sad_songs/</guid>
+      <guid>https://acerbialberto.com/media/the_times_sad_songs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tout ce que vous pensiez savoir d&#39;Internet est (sans doute) faux</title>
-      <link>/media/lepoint_book/</link>
+      <link>https://acerbialberto.com/media/lepoint_book/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/media/lepoint_book/</guid>
+      <guid>https://acerbialberto.com/media/lepoint_book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why are pop songs getting sadder than they used to be?</title>
-      <link>/media/aeon_emotions/</link>
+      <link>https://acerbialberto.com/media/aeon_emotions/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/media/aeon_emotions/</guid>
+      <guid>https://acerbialberto.com/media/aeon_emotions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How digital&#39;s defining culture</title>
-      <link>/media/brunel_ceda/</link>
+      <link>https://acerbialberto.com/media/brunel_ceda/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/media/brunel_ceda/</guid>
+      <guid>https://acerbialberto.com/media/brunel_ceda/</guid>
       <description></description>
     </item>
     

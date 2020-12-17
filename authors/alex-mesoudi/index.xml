@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Mesoudi | Alberto Acerbi</title>
-    <link>/authors/alex-mesoudi/</link>
-      <atom:link href="/authors/alex-mesoudi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/alex-mesoudi/</link>
+      <atom:link href="https://acerbialberto.com/authors/alex-mesoudi/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Mesoudi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alex Mesoudi</title>
-      <link>/authors/alex-mesoudi/</link>
+      <link>https://acerbialberto.com/authors/alex-mesoudi/</link>
     </image>
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-      <link>/publication/preprint_ibmcultevo/</link>
+      <link>https://acerbialberto.com/publication/preprint_ibmcultevo/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_ibmcultevo/</guid>
+      <guid>https://acerbialberto.com/publication/preprint_ibmcultevo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-      <link>/publication/2019_ehs/</link>
+      <link>https://acerbialberto.com/publication/2019_ehs/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_ehs/</guid>
+      <guid>https://acerbialberto.com/publication/2019_ehs/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Together with Lotty Brand, we wrote a piece for &lt;em&gt;aeon&lt;/em&gt; about the paper: &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;Why are pop songs getting sadder than they used to be?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The piece was then widely covered by popular and scientific media, including for example &lt;a href=&#34;https://www.thetimes.co.uk/edition/news/heaven-knows-pops-miserable-now-777dzqw7x&#34;&gt;The Times&lt;/a&gt; (UK), &lt;a href=&#34;https://www.standaard.be/cnt/dmf20200226_04866569&#34;&gt;De Standaard&lt;/a&gt; (Belgium), or &lt;a href=&#34;https://www.information.dk/kultur/2020/02/popsange-soergeligere-soergeligere-viser-ny-undersoegelse&#34;&gt;Dagbaldet Information&lt;/a&gt; (Danemark)&lt;/p&gt;
@@ -40,17 +40,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans</title>
-      <link>/publication/2016_rsos/</link>
+      <link>https://acerbialberto.com/publication/2016_rsos/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_rsos/</guid>
+      <guid>https://acerbialberto.com/publication/2016_rsos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If we are all cultural Darwinians what’s the fuss about? Clarifying recent disagreements in the field of cultural evolution</title>
-      <link>/publication/2015_phil_bio/</link>
+      <link>https://acerbialberto.com/publication/2015_phil_bio/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_phil_bio/</guid>
+      <guid>https://acerbialberto.com/publication/2015_phil_bio/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Philosopher Massimo Pigliucci discussed this article in [The Trouble with Cultural Evolution] (&lt;a href=&#34;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&#34;&gt;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&lt;/a&gt; &lt;em&gt;Footnotes to Plato&lt;/em&gt;.&lt;/p&gt;
 
