@@ -5,12 +5,44 @@
     <link>https://acerbialberto.com/tags/my-research/</link>
       <atom:link href="https://acerbialberto.com/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
     <description>my research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>my research</title>
       <link>https://acerbialberto.com/tags/my-research/</link>
     </image>
+    
+    <item>
+      <title>Individual-based model of cultural evolution. A step-by-step guide using R</title>
+      <link>https://acerbialberto.com/post/2020_ibm_cultevo/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/post/2020_ibm_cultevo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the past, I have been asked by a few people where they could start if they wanted to learn how to do individual-based models (IBMs) of cultural evolution. I never had a good answer, so, together with &lt;a href=&#34;https://marcosmolla.com&#34;&gt;Marco Smolla&lt;/a&gt;, we discussed it would have been interesting to develop some material, in a form of a long tutorial, or a book (at that time, conferences were still in person&amp;hellip;). While doing some research, I quickly found that &lt;a href=&#34;https://marcosmolla.com&#34;&gt;Alex Mesoudi&lt;/a&gt; had already put together some basic R Markdown IBMs with the same goal, so we happily joined forces.&lt;/p&gt;
+&lt;p&gt;The result is &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/&#34;&gt;Individual-based model of cultural evolution. A step-by-step guide using R&lt;/a&gt;. The &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/introduction.html&#34;&gt;Introduction&lt;/a&gt; quickly explains the whys, whats, and hows of the book, and I would suggest to start from there if you are intersted. Some main points here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The book is intended for people with a basic R knowledge that want to learn cultural evolution IBMs &lt;em&gt;by doing&lt;/em&gt;. We cut most of the theoretical complexities of modelling (some references can be found in the Introduction) and focused on reproducing existent models, explaining the code almost line-by-line. In sum, this is not a book you want to read on the couch in front of the fire, but on your desk in front of an RStudio window.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We choose to use R (and, with some licence, the &lt;a href=&#34;https://www.tidyverse.org&#34;&gt;tidyverse&lt;/a&gt;) not because is the best programming language for IBMs, but because is probably the most diffuse at the moment among researchers in cultural evolution. The idea is that, if one already knows R, the additional cost of learning IBMs is relatively limited, as opposed to starting from scratch with a new programming language. (And, anyway, I am too old to learn Julia.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The book builds in complexity, both from the programming and the conceptual point of view. We start with IBMs versions of the &amp;ldquo;classic&amp;rdquo; cultural evolution analytical models, assuming that most of the readers will be at least familiar with their verbal descriptions, and we then move to more recent, or less standard, topics. They include Roger&amp;rsquo;s paradox and its solutions, how to model the effects of demography and migrations, social networks, the importance of convergent transformations, etc. A full table of content is &lt;a href=&#34;https://github.com/albertoacerbi/IBM-cultevo/blob/main/README.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We tried to be generally consistent with programming style, conventions, etc. (see again the Introduction), but we also use, especially in the later chapters, different programming techniques so that readers can see how things can be done differently. This should expand the programming knowledge - or simply be confusing. Feedback is welcome.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Given the code-heavy nature of the book, the best way to use it is from the Bookdown-generated html version, available &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/&#34;&gt;here&lt;/a&gt;, where the code can be easily copied-and-pasted. The R Markdown files that build the book can be find &lt;a href=&#34;https://github.com/albertoacerbi/IBM-cultevo&#34;&gt;here&lt;/a&gt;, if you prefer to work directly on those. There is also a pdf version &lt;a href=&#34;https://osf.io/32v6a/&#34;&gt;here&lt;/a&gt; but, as said above, the html version is advised. Also, some of the code did not render well in the pdf, so you may need both in any case.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finally, the html version of the book is, and will always be, open access. We have a doi that can be used to cite it, and we are discussing some options to also have a &amp;ldquo;proper&amp;rdquo; publisher for a physical, paper-based, version, but nothing has been planned yet. In fact, if someone has any advice, they are welcome.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So: happy modelling, and remember the book is a first complete draft, but still a draft, so we expect to change and improve bits and pieces in a collaborative effort!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cultural evolution in the digital age book club</title>
