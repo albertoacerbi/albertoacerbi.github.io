@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/talk/</link>
       <atom:link href="https://acerbialberto.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://acerbialberto.com/talk/</link>
     </image>
+    
+    <item>
+      <title>From storytelling to Facebook. Content biases are stronger when retelling a story than when sharing it.</title>
+      <link>https://acerbialberto.com/talk/2021_ehbea/</link>
+      <pubDate>Thu, 25 Mar 2021 12:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/talk/2021_ehbea/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cultural evolution in the digital age</title>
