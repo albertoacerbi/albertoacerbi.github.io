@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/authors/</link>
       <atom:link href="https://acerbialberto.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,139 @@
     <item>
       <title></title>
       <link>https://acerbialberto.com/authors/admin/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a cognitive/evolutionary psychologist and anthropologist with a particular interest in computational science, and this is my blog (not much updated lately&amp;hellip;) and professional website. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach with different methodologies, especially individual-based models and quantitative analysis of large-scale data.&lt;/p&gt;
 &lt;p&gt;I recently wrote a book for Oxford University Press: &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;Cultural evolution in the digital age&lt;/a&gt;, and an open access manual: &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/&#34;&gt;Individual-based models of cultural evolution. A step-by-step guide using R&lt;/a&gt;. You can find &lt;a href=&#34;https://www.brunel.ac.uk/people/alberto-acerbi&#34;&gt;here&lt;/a&gt; my institutional webpage.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Christine A. Caldwell</title>
+      <link>https://acerbialberto.com/authors/christine-a.-caldwell/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/christine-a.-caldwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edwin J. C. van Leeuwen</title>
+      <link>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elliot Aguilar</title>
+      <link>https://acerbialberto.com/authors/elliot-aguilar/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/elliot-aguilar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fredrik Jansson</title>
+      <link>https://acerbialberto.com/authors/fredrik-jansson/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/fredrik-jansson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillaume Isabel</title>
+      <link>https://acerbialberto.com/authors/guillaume-isabel/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/guillaume-isabel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krist Vaesen</title>
+      <link>https://acerbialberto.com/authors/krist-vaesen/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/krist-vaesen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucas Molleman</title>
+      <link>https://acerbialberto.com/authors/lucas-molleman/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/lucas-molleman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnus Enquist</title>
+      <link>https://acerbialberto.com/authors/magnus-enquist/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/magnus-enquist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manvir Singh</title>
+      <link>https://acerbialberto.com/authors/manvir-singh/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/manvir-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxime Derex</title>
+      <link>https://acerbialberto.com/authors/maxime-derex/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/maxime-derex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monica Tamariz</title>
+      <link>https://acerbialberto.com/authors/monica-tamariz/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/monica-tamariz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier Morin</title>
+      <link>https://acerbialberto.com/authors/olivier-morin/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/olivier-morin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Olivier Jacquet</title>
+      <link>https://acerbialberto.com/authors/pierre-olivier-jacquet/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/pierre-olivier-jacquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieter van den Berg</title>
+      <link>https://acerbialberto.com/authors/pieter-van-den-berg/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/pieter-van-den-berg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thom Scott-Phillips</title>
+      <link>https://acerbialberto.com/authors/thom-scott-phillips/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/thom-scott-phillips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Étienne Danchin</title>
+      <link>https://acerbialberto.com/authors/etienne-danchin/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/etienne-danchin/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -127,14 +255,6 @@
     </item>
     
     <item>
-      <title>Olivier Morin</title>
-      <link>https://acerbialberto.com/authors/olivier-morin/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/olivier-morin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Helena Miton</title>
       <link>https://acerbialberto.com/authors/helena-miton/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
@@ -147,22 +267,6 @@
       <link>https://acerbialberto.com/authors/mathieu-charbonneau/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/mathieu-charbonneau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thom Scott-Phillips</title>
-      <link>https://acerbialberto.com/authors/thom-scott-phillips/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/thom-scott-phillips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edwin J. C. van Leeuwen</title>
-      <link>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/edwin-j.-c.-van-leeuwen/</guid>
       <description></description>
     </item>
     
@@ -291,14 +395,6 @@
       <link>https://acerbialberto.com/authors/vasileios-lampos/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/vasileios-lampos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Magnus Enquist</title>
-      <link>https://acerbialberto.com/authors/magnus-enquist/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/magnus-enquist/</guid>
       <description></description>
     </item>
     
