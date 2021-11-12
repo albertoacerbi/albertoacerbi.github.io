@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sabrina Tonutti | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/sabrina-tonutti/</link>
-      <atom:link href="https://acerbialberto.com/authors/sabrina-tonutti/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/sabrina-tonutti/</link>
+      <atom:link href="/authors/sabrina-tonutti/index.xml" rel="self" type="application/rss+xml" />
     <description>Sabrina Tonutti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Sabrina Tonutti</title>
-      <link>https://acerbialberto.com/authors/sabrina-tonutti/</link>
+      <link>/authors/sabrina-tonutti/</link>
     </image>
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
+      <link>/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
+      <guid>/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     

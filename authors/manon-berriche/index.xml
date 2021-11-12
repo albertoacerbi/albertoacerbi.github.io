@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manon Berriche | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/manon-berriche/</link>
-      <atom:link href="https://acerbialberto.com/authors/manon-berriche/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/manon-berriche/</link>
+      <atom:link href="/authors/manon-berriche/index.xml" rel="self" type="application/rss+xml" />
     <description>Manon Berriche</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Manon Berriche</title>
-      <link>https://acerbialberto.com/authors/manon-berriche/</link>
+      <link>/authors/manon-berriche/</link>
     </image>
     
     <item>
-      <title>Cultural stability without copying</title>
-      <link>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</link>
+      <title>Misinformation on Misinformation: Conceptual and Methodological Challenges</title>
+      <link>/publication/preprint_misinfo_on_misinfo/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</guid>
+      <guid>/publication/preprint_misinfo_on_misinfo/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;

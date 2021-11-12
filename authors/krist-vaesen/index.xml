@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krist Vaesen | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/krist-vaesen/</link>
-      <atom:link href="https://acerbialberto.com/authors/krist-vaesen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/krist-vaesen/</link>
+      <atom:link href="/authors/krist-vaesen/index.xml" rel="self" type="application/rss+xml" />
     <description>Krist Vaesen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Krist Vaesen</title>
-      <link>https://acerbialberto.com/authors/krist-vaesen/</link>
+      <link>/authors/krist-vaesen/</link>
     </image>
     
     <item>
       <title>Social information use and social information waste</title>
-      <link>https://acerbialberto.com/publication/2021_ptrsb_antisocial/</link>
+      <link>/publication/2021_ptrsb_antisocial/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2021_ptrsb_antisocial/</guid>
+      <guid>/publication/2021_ptrsb_antisocial/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;

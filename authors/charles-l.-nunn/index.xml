@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charles L. Nunn | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/authors/charles-l.-nunn/</link>
-      <atom:link href="https://acerbialberto.com/authors/charles-l.-nunn/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/charles-l.-nunn/</link>
+      <atom:link href="/authors/charles-l.-nunn/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles L. Nunn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Charles L. Nunn</title>
-      <link>https://acerbialberto.com/authors/charles-l.-nunn/</link>
+      <link>/authors/charles-l.-nunn/</link>
     </image>
     
     <item>
       <title>Modeling imitation and emulation in constrained search spaces</title>
-      <link>https://acerbialberto.com/publication/2011_learn_behav/</link>
+      <link>/publication/2011_learn_behav/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2011_learn_behav/</guid>
+      <guid>/publication/2011_learn_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predation and the phasing of sleep: an evolutionary individual-based model</title>
-      <link>https://acerbialberto.com/publication/2011_an_behav/</link>
+      <link>/publication/2011_an_behav/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2011_an_behav/</guid>
+      <guid>/publication/2011_an_behav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
-      <link>https://acerbialberto.com/publication/2008_bmc/</link>
+      <link>/publication/2008_bmc/</link>
       <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/2008_bmc/</guid>
+      <guid>/publication/2008_bmc/</guid>
       <description></description>
     </item>
     

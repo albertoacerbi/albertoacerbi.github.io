@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital age | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/digital-age/</link>
-      <atom:link href="https://acerbialberto.com/tags/digital-age/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/digital-age/</link>
+      <atom:link href="/tags/digital-age/index.xml" rel="self" type="application/rss+xml" />
     <description>digital age</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>digital age</title>
-      <link>https://acerbialberto.com/tags/digital-age/</link>
+      <link>/tags/digital-age/</link>
     </image>
     
     <item>
       <title>Won&#39;t somebody please think of the children!</title>
-      <link>https://acerbialberto.com/post/2021_facebook/</link>
+      <link>/post/2021_facebook/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2021_facebook/</guid>
+      <guid>/post/2021_facebook/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;With unsurprising regularity, new &amp;ldquo;scandals&amp;rdquo; or &amp;ldquo;shocking&amp;rdquo; information about social media appear in the press, and, of course, in social media themselves. Lately, Facebook seems to be the main target. (Incidentally, why Facebook? My hunch is that academics and journalists, which are the main producers and consumers of this information, tend to not be Facebook users, so it feels less dissonant to think it is the real baddy. If only &lt;em&gt;the others&lt;/em&gt; would understand it! &amp;hellip;Anyway, this is not very important for the rest of the post.)&lt;/p&gt;
 &lt;p&gt;First, around one month ago, the Washington Post &lt;a href=&#34;https://twitter.com/washingtonpost/status/1433749542474747910&#34;&gt;reported&lt;/a&gt; that &amp;ldquo;Misinformation on Facebook got six times more clicks than factual news during the 2020 election&amp;rdquo;. The news was, of course, a hit. However, the &amp;ldquo;six times&amp;rdquo; figure seems at odds with much recent literature that shows that, when considered together with the total information present, the amount of misinformation circulating in social media &lt;a href=&#34;https://www.science.org/doi/abs/10.1126/science.aau2706&#34;&gt;is&lt;/a&gt; &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aay3539&#34;&gt;actually&lt;/a&gt; &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aau4586&#34;&gt;modest&lt;/a&gt;, something like the 5% of the total information (often less). For this reason, it would have been interesting to know how the &amp;ldquo;clicks&amp;rdquo; were actually calculated or what was exactly considered as &amp;ldquo;misinformation&amp;rdquo;. Unfortunately the study to which the Washington Post referred to was not out at the moment, and it is still, after one month, not available (not even in form of preprint, which is now relatively standard practice).&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>From storytelling to Facebook. Content biases when retelling or sharing a story</title>
-      <link>https://acerbialberto.com/publication/preprint_chains/</link>
+      <link>/publication/preprint_chains/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_chains/</guid>
+      <guid>/publication/preprint_chains/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -59,9 +59,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Covid misinformation on mainstream Italian media</title>
-      <link>https://acerbialberto.com/post/2020_covid_misinfo/</link>
+      <link>/post/2020_covid_misinfo/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_covid_misinfo/</guid>
+      <guid>/post/2020_covid_misinfo/</guid>
       <description>&lt;p&gt;You may have heard the we live in a post-truth era, that we are facing an infodemic or, even, a &lt;a href=&#34;https://science.sciencemag.org/content/370/6523/1395&#34;&gt;syndemic&lt;/a&gt;, the combination of &lt;em&gt;two&lt;/em&gt; epidemics, meaning that covid &amp;ldquo;emerged in an information ecosystem that helps misinformation and lies spread faster than scientific evidence, weakening our ability to respond to new threats&amp;rdquo;. Not only this is not true but, I believe, is also a dangerous narrative that makes us focus on the wrong problems instead of the real ones. Anyway, this is not a topic I can elaborate on here (hey, I wrote a &lt;a href=&#34;https://acerbialberto.com/publication/2019_oup/&#34;&gt;book&lt;/a&gt; - partly - about that!).&lt;/p&gt;
 &lt;p&gt;But, of course, &lt;em&gt;some&lt;/em&gt; misinformation does spread. Another aspect of these stale criticism is that, naturally, the culprit is social media. Luckily, many real experts of media have long recognised the contribution, or in fact the prominent role, that mainstream, traditional, media have in the current spread of misinformation. &lt;a href=&#34;https://twitter.com/rasmus_kleis&#34;&gt;Rasmus Kleis Nielsen&lt;/a&gt;, director of Reuters Institute at Oxford University, reports on Twitter several examples of mainstream media, or prominent political figures, spreading or originating false or misleading information: &lt;a href=&#34;https://twitter.com/search?q=Misinformation%20often%20comes%20from%20the%20top&amp;amp;src=typed_query&#34;&gt;Misinformation often comes from the top&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As an Italian living in UK, with part of my family living in Italy, I have been irritated by how the major Italian newspaper (for number of readers), &lt;a href=&#34;https://www.repubblica.it&#34;&gt;La Repubblica&lt;/a&gt;, covered the last days of news from UK. But I noticed the disservice before, so hang with me.&lt;/p&gt;
@@ -82,9 +82,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Learning from failures</title>
-      <link>https://acerbialberto.com/post/2020_jce/</link>
+      <link>/post/2020_jce/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_jce/</guid>
+      <guid>/post/2020_jce/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;During the Second World War, aeroplanes coming back after battles showed a peculiar pattern of damage: they were mostly hit on the wings and on the centre of the fuselage (see the figure above, which is not a representation of any real data, but makes the point). Based on this, the military reckoned they needed to add additional protections on these parts. Statisticians suggested instead that protections were needed on the cockpit and on the back of the fuselage - the parts &lt;em&gt;less&lt;/em&gt; hit. And they were right! The point is that those aeroplanes were the returning ones: aeroplanes presenting that pattern of damage were actually able to come back succesfully after battle. It was the aiprlanes hit in the other areas that were lost.&lt;/p&gt;
 &lt;p&gt;Whether the story is true or not, it is a vivid representation of survivorship bias (as well as &lt;a href=&#34;https://xkcd.com/1827/&#34;&gt;this excellent xkcd&lt;/a&gt;). Each time someone is giving advice based on how they succeed, it is good to remember that one is generalising from a biased sample. In many fields, in addition, success is partly (or mostly, see again the xkcd comic), based on luck or on reasons that can be hardly linked to the success itself, which is a good moment to mention success in academia. The big professor that was interested in X from school? The brilliant researcher that takes a walk every morning? The 12-papers-a-year postdoc that meditate? The 10 rules for juggling academic job and family? (I swear I am not referring to any real example here. Really.)&lt;/p&gt;
@@ -119,9 +119,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>A Twitter kick-starter</title>
-      <link>https://acerbialberto.com/post/2020_twitter/</link>
+      <link>/post/2020_twitter/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_twitter/</guid>
+      <guid>/post/2020_twitter/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have been told of NGOs job applications that require to include the candidate&amp;rsquo;s Twitter profile. Even when not that explicit, a curated Twitter account is increasingly important for the academic and academic-adjacent job market, if only for networking. As I am active on Twitter from October 2012, I had the occasion to give some advice on how to start on the social media (for example to my wife!). As it seems they worked, I have been suggested to put them in a blog post, so here it is.&lt;/p&gt;
 &lt;p&gt;First of all, a few notes. This post is not about the technical basics (how to open an account, how to tweet, how to retweet, etc.), I consider you are good with those, or you can easily find this information somewhere else. Second, it is not about becoming a twitter star with thousands of followers, but about having a decent profile for your career development. The bits of advice are pretty general and they should work for an average user. Of course, there are plenty of exceptions and, to become a Twitter star, what counts is probably being &lt;em&gt;already&lt;/em&gt; a star, the actual content you share and, mostly, luck. But, again, this is not our goal. Finally, all this is focused on academic or closely linked profiles, that are the only ones for which I have a bit of experience.&lt;/p&gt;
@@ -171,9 +171,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution in the digital age book club</title>
-      <link>https://acerbialberto.com/post/2020_ceda_book_club/</link>
+      <link>/post/2020_ceda_book_club/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_ceda_book_club/</guid>
+      <guid>/post/2020_ceda_book_club/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Just a short post to advertise and bookmark the book club that &lt;a href=&#34;http://cognitionandculture.net&#34;&gt;cognitionandculture.net&lt;/a&gt; organised around &lt;em&gt;Cultural evolution in the digital age&lt;/em&gt; (&lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/cultural-evolution-in-the-digital-age-book-club/&#34;&gt;here&lt;/a&gt;). Every now and then, the people at the International Cognition &amp;amp; Culture Institute (ICCI) choose a book of culture-and-cognition interest and invite the author to write a short précis and various experts on the topic to write commentaries (see some previous examples &lt;a href=&#34;http://cognitionandculture.net/ebooks&#34;&gt;here&lt;/a&gt;).  All is followed by an open online discussion: for &lt;em&gt;Cultural evolution in the digital age&lt;/em&gt; it starts today and will last until the 12th of July.&lt;/p&gt;
 &lt;p&gt;The commentaries, by &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/are-humans-wary-learners/&#34;&gt;Alex Mesoudi&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/what-is-the-recipe/&#34;&gt;Sacha Altay&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/cultural-transmission-reinvention-and-progress/&#34;&gt;Olivier Morin&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/consuming-vs-sharing-information-online/&#34;&gt;Hugo Mercier&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/the-participatory-age/&#34;&gt;Mathieu Charbonneau&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/the-mystery-of-production/&#34;&gt;Pascal Boyer&lt;/a&gt;, and &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/truth-is-not-always-the-point/&#34;&gt;Tiffany Morisseau&lt;/a&gt; are extremely insightful, and they should appeal to anybody interested in cultural evolution and especially in its application to contemporary online dynamics.&lt;/p&gt;
@@ -183,9 +183,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Vaccine hesitancy is not correlated with social media penetration at country-level in Europe</title>
-      <link>https://acerbialberto.com/post/2019_wellcome/</link>
+      <link>/post/2019_wellcome/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_wellcome/</guid>
+      <guid>/post/2019_wellcome/</guid>
       <description>&lt;p&gt;The Wellcome Trust has recently (yesterday) released the 2018 &lt;a href=&#34;https://wellcome.ac.uk/reports/wellcome-global-monitor/2018&#34;&gt;Global Monitor&lt;/a&gt;, a 140,000 people survey on how ‘people around the world think and feel about science and major health challenges’. Among the many interesting pieces of information, not surprisingly, attitudes towards vaccinations are starting to be widely discussed in the &lt;a href=&#34;https://www.theguardian.com/society/2019/jun/19/survey-shows-crisis-of-confidence-in-vaccines-in-parts-of-europe&#34;&gt;press&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The first important thing to notice, as the Wellcome Trust correctly does, is that ‘worldwide, 79% of people agree that vaccines are safe and 84% agree that they are effective’ and ‘92% of parents worldwide said that their children have received a vaccine to prevent them from getting childhood diseases .’ Whatever we may think, the majority of people around the world rightly believe that vaccines are good. Of course, there is a minority of people, especially in western countries, that is less convinced of that. Citing again the Wellcome Trust, ‘In France, one in three people disagree that vaccines are safe, the highest percentage for any country worldwide’. The France figure is, however, one of few outliers, also for western countries, where the averages of people disagreeing that vaccines are safe are around 10%.&lt;/p&gt;
 &lt;p&gt;Still, that one out of ten persons in western countries could think as such is worrying. Not surprisingly, social media has been identified as one of the culprits of this situation, and I bet that, following the Wellcome Trust survey, the trend will continue (I already found one article &lt;a href=&#34;https://www.independent.co.uk/news/health/anti-vaxx-vaccination-myth-poll-europe-pro-nature-birth-a8964441.html&#34;&gt;here&lt;/a&gt;). Out of curiosity, I correlated the Wellcome trust data with recent data on social media penetration/usage in Europe, and they are not correlated.&lt;/p&gt;
@@ -204,9 +204,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Morgue employee cremated by mistake while taking a nap</title>
-      <link>https://acerbialberto.com/post/2019_morgue/</link>
+      <link>/post/2019_morgue/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_morgue/</guid>
+      <guid>/post/2019_morgue/</guid>
       <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
 &lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;
 &lt;p&gt;Many other works, however, had painted a more nuanced image, showing that the production and the consumption of misinformation is &lt;a href=&#34;http://science.sciencemag.org/content/363/6425/374?fbclid=IwAR0ThyrRJk7feelo0SdkBr6obs3NIwjJgZt_E4QCCHYkfAva7Eo8A5A4VlI&#34;&gt;concentrated in a limited portion of social media users&lt;/a&gt;, that individuals that have already extreme political views &lt;a href=&#34;https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf&#34;&gt;are more likely to be exposed to political misinformation&lt;/a&gt;, and that, in general, misinformation is &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.31.2.211&#34;&gt;unlikely to change people minds&lt;/a&gt;. And, simply, other studies have shown that the actual amount of online misinformation &lt;a href=&#34;http://advances.sciencemag.org/content/5/1/eaau4586&#34;&gt;is not that big&lt;/a&gt;.&lt;/p&gt;

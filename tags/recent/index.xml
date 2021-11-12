@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/recent/</link>
-      <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/recent/</link>
+      <atom:link href="/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Recent</title>
-      <link>https://acerbialberto.com/tags/recent/</link>
+      <link>/tags/recent/</link>
     </image>
     
     <item>
       <title>Populisme, vaccination. Pourquoi surestime-t-on le phenomene des Fake News</title>
-      <link>https://acerbialberto.com/media/echos/</link>
+      <link>/media/echos/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/echos/</guid>
+      <guid>/media/echos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Dissenter - Cultural Evolution in the Digital Age</title>
-      <link>https://acerbialberto.com/media/dissenter/</link>
+      <link>/media/dissenter/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/dissenter/</guid>
+      <guid>/media/dissenter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural Evolution in the Digital Age interview</title>
-      <link>https://acerbialberto.com/media/cultured_scene_ceda/</link>
+      <link>/media/cultured_scene_ceda/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/cultured_scene_ceda/</guid>
+      <guid>/media/cultured_scene_ceda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heaven knows pop’s miserable now</title>
-      <link>https://acerbialberto.com/media/the_times_sad_songs/</link>
+      <link>/media/the_times_sad_songs/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/the_times_sad_songs/</guid>
+      <guid>/media/the_times_sad_songs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tout ce que vous pensiez savoir d&#39;Internet est (sans doute) faux</title>
-      <link>https://acerbialberto.com/media/lepoint_book/</link>
+      <link>/media/lepoint_book/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/lepoint_book/</guid>
+      <guid>/media/lepoint_book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why are pop songs getting sadder than they used to be?</title>
-      <link>https://acerbialberto.com/media/aeon_emotions/</link>
+      <link>/media/aeon_emotions/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/aeon_emotions/</guid>
+      <guid>/media/aeon_emotions/</guid>
       <description></description>
     </item>
     
