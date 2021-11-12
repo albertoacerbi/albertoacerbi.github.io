@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucas Molleman | Alberto Acerbi</title>
-    <link>/authors/lucas-molleman/</link>
-      <atom:link href="/authors/lucas-molleman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/lucas-molleman/</link>
+      <atom:link href="https://acerbialberto.com/authors/lucas-molleman/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Molleman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Lucas Molleman</title>
-      <link>/authors/lucas-molleman/</link>
+      <link>https://acerbialberto.com/authors/lucas-molleman/</link>
     </image>
     
     <item>
       <title>Beyond social learning</title>
-      <link>/publication/2021_ptrsb_beyond/</link>
+      <link>https://acerbialberto.com/publication/2021_ptrsb_beyond/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_ptrsb_beyond/</guid>
+      <guid>https://acerbialberto.com/publication/2021_ptrsb_beyond/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;

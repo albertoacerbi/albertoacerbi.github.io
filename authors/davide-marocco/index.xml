@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Davide Marocco | Alberto Acerbi</title>
-    <link>/authors/davide-marocco/</link>
-      <atom:link href="/authors/davide-marocco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/davide-marocco/</link>
+      <atom:link href="https://acerbialberto.com/authors/davide-marocco/index.xml" rel="self" type="application/rss+xml" />
     <description>Davide Marocco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Davide Marocco</title>
-      <link>/authors/davide-marocco/</link>
+      <link>https://acerbialberto.com/authors/davide-marocco/</link>
     </image>
     
     <item>
       <title>Emergence of Leadership in a Group of Autonomous Robots</title>
-      <link>/publication/2015_plos/</link>
+      <link>https://acerbialberto.com/publication/2015_plos/</link>
       <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_plos/</guid>
+      <guid>https://acerbialberto.com/publication/2015_plos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Leadership in a Group of Autonomous Robots</title>
-      <link>/publication/cp_2012_leadership/</link>
+      <link>https://acerbialberto.com/publication/cp_2012_leadership/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2012_leadership/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2012_leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orienting learning by exploiting sociality: an evolutionary robotics simulations</title>
-      <link>/publication/cp_2009_orienting/</link>
+      <link>https://acerbialberto.com/publication/cp_2009_orienting/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2009_orienting/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2009_orienting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trasmissione sociale di comportamenti in una popolazione di robot autonomi</title>
-      <link>/publication/ita_2008_si/</link>
+      <link>https://acerbialberto.com/publication/ita_2008_si/</link>
       <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2008_si/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2008_si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social learning in embodied agents</title>
-      <link>/publication/2008_conn_sci/</link>
+      <link>https://acerbialberto.com/publication/2008_conn_sci/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/2008_conn_sci/</guid>
+      <guid>https://acerbialberto.com/publication/2008_conn_sci/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I edited, together with Davide Marocco and Paul Vogt, a double special issue of the journal &lt;em&gt;Connection Science&lt;/em&gt; on the topic &amp;ldquo;Social Learning in Embodied Agents&amp;rdquo;. This is our editorial.&lt;/p&gt;
 </description>
@@ -56,17 +56,17 @@
     
     <item>
       <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
-      <link>/publication/cp_2007_social/</link>
+      <link>https://acerbialberto.com/publication/cp_2007_social/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2007_social/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2007_social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptation and Social Facilitation in a Population of Autonomous Robots</title>
-      <link>/publication/cp_2007_adaptation/</link>
+      <link>https://acerbialberto.com/publication/cp_2007_adaptation/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2007_adaptation/</guid>
+      <guid>https://acerbialberto.com/publication/cp_2007_adaptation/</guid>
       <description></description>
     </item>
     

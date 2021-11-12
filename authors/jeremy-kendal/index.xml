@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy Kendal | Alberto Acerbi</title>
-    <link>/authors/jeremy-kendal/</link>
-      <atom:link href="/authors/jeremy-kendal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/jeremy-kendal/</link>
+      <atom:link href="https://acerbialberto.com/authors/jeremy-kendal/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Kendal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Jeremy Kendal</title>
-      <link>/authors/jeremy-kendal/</link>
+      <link>https://acerbialberto.com/authors/jeremy-kendal/</link>
     </image>
     
     <item>
       <title>Cultural complexity and demography: the case of folktales</title>
-      <link>/publication/2017_ehb/</link>
+      <link>https://acerbialberto.com/publication/2017_ehb/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_ehb/</guid>
+      <guid>https://acerbialberto.com/publication/2017_ehb/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data | Alberto Acerbi</title>
-    <link>/tags/data/</link>
-      <atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/data/</link>
+      <atom:link href="https://acerbialberto.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
     <description>data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>data</title>
-      <link>/tags/data/</link>
+      <link>https://acerbialberto.com/tags/data/</link>
     </image>
     
     <item>
       <title>Welcome to B-data</title>
-      <link>/post/2020_bdata/</link>
+      <link>https://acerbialberto.com/post/2020_bdata/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020_bdata/</guid>
+      <guid>https://acerbialberto.com/post/2020_bdata/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A short blog post to present a little project I am working on within the &lt;a href=&#34;https://www.brunel.ac.uk/psychology&#34;&gt;Psychology Division&lt;/a&gt; at Brunel University. &lt;a href=&#34;https://www.brunel.ac.uk/psychology/research-and-phd-programmes/Collection-of-resources&#34;&gt;B-data&lt;/a&gt; is a collection of resources for finding and processing online behavioural data (that is the &lt;em&gt;B&lt;/em&gt; in the name&amp;hellip;), which may be interesting for people working in psychology and cultural evolution.&lt;/p&gt;
 &lt;p&gt;As explained in the page:&lt;/p&gt;

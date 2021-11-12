@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fredrik Jansson | Alberto Acerbi</title>
-    <link>/authors/fredrik-jansson/</link>
-      <atom:link href="/authors/fredrik-jansson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/authors/fredrik-jansson/</link>
+      <atom:link href="https://acerbialberto.com/authors/fredrik-jansson/index.xml" rel="self" type="application/rss+xml" />
     <description>Fredrik Jansson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Fredrik Jansson</title>
-      <link>/authors/fredrik-jansson/</link>
+      <link>https://acerbialberto.com/authors/fredrik-jansson/</link>
     </image>
     
     <item>
       <title>Modelling cultural systems and selective filters</title>
-      <link>/publication/2021_ptrsb_systems/</link>
+      <link>https://acerbialberto.com/publication/2021_ptrsb_systems/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_ptrsb_systems/</guid>
+      <guid>https://acerbialberto.com/publication/2021_ptrsb_systems/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
