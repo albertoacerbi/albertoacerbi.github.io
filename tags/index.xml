@@ -5,12 +5,36 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>digital media</title>
+      <link>https://acerbialberto.com/tags/digital-media/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>individual based models</title>
+      <link>https://acerbialberto.com/tags/individual-based-models/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>https://acerbialberto.com/tags/misinformation/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/misinformation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cultural attraction</title>
@@ -25,30 +49,6 @@
       <link>https://acerbialberto.com/tags/cultural-evolution/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>individual based models</title>
-      <link>https://acerbialberto.com/tags/individual-based-models/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital media</title>
-      <link>https://acerbialberto.com/tags/digital-media/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misinformation</title>
-      <link>https://acerbialberto.com/tags/misinformation/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/misinformation/</guid>
       <description></description>
     </item>
     
