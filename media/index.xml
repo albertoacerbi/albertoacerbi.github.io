@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>Se battre contre la désinformation ou pour l&#39;information?</title>
+      <link>https://acerbialberto.com/media/futura/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/futura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should we spend less time fighting misinformation and more time fighting for information?</title>
+      <link>https://acerbialberto.com/media/niemanlab/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/niemanlab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Populisme, vaccination. Pourquoi surestime-t-on le phenomene des Fake News</title>

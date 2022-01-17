@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/recent/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/futura/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/niemanlab/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +84,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/sacha-altay/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,17 +318,7 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/media/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/media/echos/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/recent/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url>
   

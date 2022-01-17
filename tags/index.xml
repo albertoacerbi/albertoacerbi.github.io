@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Recent</title>
+      <link>https://acerbialberto.com/tags/recent/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/recent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>digital media</title>
@@ -81,14 +89,6 @@
       <link>https://acerbialberto.com/tags/transmission-biases/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/transmission-biases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent</title>
-      <link>https://acerbialberto.com/tags/recent/</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/recent/</guid>
       <description></description>
     </item>
     
