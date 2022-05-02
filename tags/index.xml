@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>cultural attraction</title>
-      <link>https://acerbialberto.com/tags/cultural-attraction/</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-attraction/</guid>
+      <title>cultural evolution</title>
+      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <title>digital age</title>
+      <link>https://acerbialberto.com/tags/digital-age/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cultural attraction</title>
+      <link>https://acerbialberto.com/tags/cultural-attraction/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
+      <guid>https://acerbialberto.com/tags/cultural-attraction/</guid>
       <description></description>
     </item>
     
@@ -41,14 +49,6 @@
       <link>https://acerbialberto.com/tags/big-questions/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/big-questions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital age</title>
-      <link>https://acerbialberto.com/tags/digital-age/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-age/</guid>
       <description></description>
     </item>
     
