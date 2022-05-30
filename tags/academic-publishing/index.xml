@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>academic publishing | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/academic-publishing/</link>
-      <atom:link href="https://acerbialberto.com/tags/academic-publishing/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/academic-publishing/</link>
+      <atom:link href="/tags/academic-publishing/index.xml" rel="self" type="application/rss+xml" />
     <description>academic publishing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>academic publishing</title>
-      <link>https://acerbialberto.com/tags/academic-publishing/</link>
+      <link>/tags/academic-publishing/</link>
     </image>
     
     <item>
       <title>Learning from failures</title>
-      <link>https://acerbialberto.com/post/2020_jce/</link>
+      <link>/post/2020_jce/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_jce/</guid>
+      <guid>/post/2020_jce/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;During the Second World War, aeroplanes coming back after battles showed a peculiar pattern of damage: they were mostly hit on the wings and on the centre of the fuselage (see the figure above, which is not a representation of any real data, but makes the point). Based on this, the military reckoned they needed to add additional protections on these parts. Statisticians suggested instead that protections were needed on the cockpit and on the back of the fuselage - the parts &lt;em&gt;less&lt;/em&gt; hit. And they were right! The point is that those aeroplanes were the returning ones: aeroplanes presenting that pattern of damage were actually able to come back succesfully after battle. It was the aiprlanes hit in the other areas that were lost.&lt;/p&gt;
 &lt;p&gt;Whether the story is true or not, it is a vivid representation of survivorship bias (as well as &lt;a href=&#34;https://xkcd.com/1827/&#34;&gt;this excellent xkcd&lt;/a&gt;). Each time someone is giving advice based on how they succeed, it is good to remember that one is generalising from a biased sample. In many fields, in addition, success is partly (or mostly, see again the xkcd comic), based on luck or on reasons that can be hardly linked to the success itself, which is a good moment to mention success in academia. The big professor that was interested in X from school? The brilliant researcher that takes a walk every morning? The 12-papers-a-year postdoc that meditate? The 10 rules for juggling academic job and family? (I swear I am not referring to any real example here. Really.)&lt;/p&gt;
