@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cultural attraction | Alberto Acerbi</title>
-    <link>/tags/cultural-attraction/</link>
-      <atom:link href="/tags/cultural-attraction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/tags/cultural-attraction/</link>
+      <atom:link href="https://acerbialberto.com/tags/cultural-attraction/index.xml" rel="self" type="application/rss+xml" />
     <description>cultural attraction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>cultural attraction</title>
-      <link>/tags/cultural-attraction/</link>
+      <link>https://acerbialberto.com/tags/cultural-attraction/</link>
     </image>
     
     <item>
       <title>From storytelling to Facebook</title>
-      <link>/post/2022_from_storytelling/</link>
+      <link>https://acerbialberto.com/post/2022_from_storytelling/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022_from_storytelling/</guid>
+      <guid>https://acerbialberto.com/post/2022_from_storytelling/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We are starting to have some suggestion about what kind of content is advantaged on social media, all other things being equal. Good candidates are &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00057-7&#34;&gt;negative&lt;/a&gt; &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00046-w&#34;&gt;content&lt;/a&gt;, generally &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1618923114?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34;&gt;emotional&lt;/a&gt; content, or &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2024292118&#34;&gt;out-group&lt;/a&gt; &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/abs/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602&#34;&gt;detraction&lt;/a&gt; (link to some papers if you click on the contents).&lt;/p&gt;
 &lt;p&gt;These effects, albeit generally quite small, are interesting, and they are consistent with the broadly accepted narrative that social media have a detrimental influence on human communication and social interactions. This may definitely be true, but what I believe is an important missing piece is a contrast with other forms of communication and social interactions.&lt;/p&gt;
 &lt;p&gt;In other words, how do we know that it is &lt;em&gt;because of social media&lt;/em&gt; that negative content - or emotional, or partisan, etc. - is favoured? To answer this question, we would need to isolate the features of social media we suppose are behind the effect, and compare situations in which these features are present and not, and we should be able to show that, say, negative content is favoured when the features are present, and not when they are not.&lt;/p&gt;
 &lt;p&gt;We can consider other forms of communication, and see what are the features that differ with respect to social media-mediated communication. An obvious starting point is oral, face-to-face, communication, a form of social interaction that has been dominant for the majority of human history (and partly still is). There are various studies in cultural evolution, for example, that show how &lt;a href=&#34;https://doi.org/10.1163%2F15685373-12342189&#34;&gt;emotional&lt;/a&gt; or &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1090513816301660&#34;&gt;negative&lt;/a&gt; content is favoured also in experiments that reproduce situations similar to oral transmission. How does oral communication differ from social media-mediated communication? First, anonymity is, though not impossible, difficult to implement in oral communication, while it is easier to implement in social media. Second, oral communication generally takes place in small group, where people often know each other. Third, the oral back-and-forth requires understanding, memorisation, and (re)production, while in social media one just need to decide what to share (understanding itself is not required if memorisation and reproduction are not needed).&lt;/p&gt;
-&lt;p&gt;Now, there could be other interesting differences (suggestions welcome!), but let&amp;rsquo;s stop here. I recently published a &lt;a href=&#34;https://link.springer.com/article/10.1007/s12110-022-09423-1s&#34;&gt;paper&lt;/a&gt; where I tried to do something similar, focusing on the last difference. I used &amp;ldquo;attractive&amp;rdquo; content that was found to be advantaged in recall and transmission in cultural evolution experiments - negative, eliciting disgust, and threat-related - and I compared it to a &amp;ldquo;neutral&amp;rdquo; version of the same content, i.e. without the elements making it negative, etc. The first, experiment, let&amp;rsquo;s call it &amp;ldquo;storytelling&amp;rdquo; scenario, was a situation resembling oral transmission (participants had to listen - actually read on a computer screen - a story and then retell - write - it to another participant, and so on) and the second one, &amp;ldquo;social media&amp;rdquo; scenario, was resembling online sharing (participants had to read a story and decide whether they would share it or not).&lt;/p&gt;
+&lt;p&gt;Now, there could be other interesting differences (suggestions welcome!), but let&amp;rsquo;s stop here. I recently published a &lt;a href=&#34;https://link.springer.com/article/10.1007/s12110-022-09423-1&#34;&gt;paper&lt;/a&gt; where I tried to do something similar, focusing on the last difference. I used &amp;ldquo;attractive&amp;rdquo; content that was found to be advantaged in recall and transmission in cultural evolution experiments - negative, eliciting disgust, and threat-related - and I compared it to a &amp;ldquo;neutral&amp;rdquo; version of the same content, i.e. without the elements making it negative, etc. The first, experiment, let&amp;rsquo;s call it &amp;ldquo;storytelling&amp;rdquo; scenario, was a situation resembling oral transmission (participants had to listen - actually read on a computer screen - a story and then retell - write - it to another participant, and so on) and the second one, &amp;ldquo;social media&amp;rdquo; scenario, was resembling online sharing (participants had to read a story and decide whether they would share it or not).&lt;/p&gt;
 &lt;p&gt;Long story short, the results presented a mixed picture (experiments and analyses were fully &lt;a href=&#34;https://osf.io/wf7pd&#34;&gt;preregistered&lt;/a&gt;, maybe there is a connection here?!), but two suggestions can be summarised here:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>A continuum of fidelity and selection</title>
-      <link>/post/2022_continuum/</link>
+      <link>https://acerbialberto.com/post/2022_continuum/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022_continuum/</guid>
+      <guid>https://acerbialberto.com/post/2022_continuum/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What is a carbonara? A recent YouGov &lt;a href=&#34;https://yougov.co.uk/topics/international/articles-reports/2022/02/03/italian-food-crimes?utm_source=twitter&amp;amp;utm_medium=website_article&amp;amp;utm_campaign=italian_food_crimes&#34;&gt;survey&lt;/a&gt; suggests that the majority of Italians find unacceptable to include cream in a carbonara sauce. But what about meat? Does it have to be guanciale or smoked pancetta is alright? And the cheese? I often use parmigiano instead of pecorino, and I do not feel much anxious about this modification. The cultural trait &amp;ldquo;carbonara&amp;rdquo; has fuzzy bundaries, still some similarity between various instantiations needs to exist to refer to them as &amp;ldquo;carbonara&amp;rdquo;. (We prepare, at home, a pasta with pancetta, cream, and onion soffritto: it is delicious, but we call it &amp;ldquo;french carbonara&amp;rdquo;, i.e., it is another, different, cultural trait.)&lt;/p&gt;
 &lt;p&gt;This property is fundamental for studying culture. A prerequisite for culture to exist is that there is a sufficient number of instantiations that are similar enough to justify the existence of &amp;ldquo;cultural traits&amp;rdquo; (another one is that there is some role of social transmission of information in how these instantiations are brough about). How does this (relative) similarity is maintained? In cultural evolution, the usual answer is: faithful copying and selection. According to this view, we have particular abilities that make us able to copy with precision from others, and we use a suite of heuristics (often referred to as &lt;a href=&#34;https://link.springer.com/article/10.3758/BF03196002&#34;&gt;social learning strategies&lt;/a&gt;) that make us choose preferentially some individuals to copy from, or some traits. This view has been very influential and productive, and for good reasons! Humans &lt;em&gt;are&lt;/em&gt; able to copy others faithfully and humans do use heuristics that select preferentially some traits to copy with respect to others. In addition, this description has the great appeal of making the processes of cultural transmission and evolution broadly similar to the processes of genetic transmission and evolution, with all the interesting advantages coming from here.&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Culture without copying or selection</title>
-      <link>/publication/2021_ehs/</link>
+      <link>https://acerbialberto.com/publication/2021_ehs/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_ehs/</guid>
+      <guid>https://acerbialberto.com/publication/2021_ehs/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -74,9 +74,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>/publication/2019_oup/</link>
+      <link>https://acerbialberto.com/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_oup/</guid>
+      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Book Club at &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/&#34;&gt;cognitionandculture.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;International Cognition and Culture Institute&lt;/em&gt; has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.&lt;/p&gt;
@@ -139,11 +139,11 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
-      <link>/publication/2019_pal_comm_a/</link>
+      <link>https://acerbialberto.com/publication/2019_pal_comm_a/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_pal_comm_a/</guid>
+      <guid>https://acerbialberto.com/publication/2019_pal_comm_a/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
 &lt;p&gt;Another popular &lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-les-vraies-raisons-du-succes-des-infox-09-09-2019-2334367_3590.php&#34;&gt;article&lt;/a&gt; (in French).&lt;/p&gt;
 
@@ -158,17 +158,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural complexity and demography: the case of folktales</title>
-      <link>/publication/2017_ehb/</link>
+      <link>https://acerbialberto.com/publication/2017_ehb/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_ehb/</guid>
+      <guid>https://acerbialberto.com/publication/2017_ehb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If we are all cultural Darwinians what’s the fuss about? Clarifying recent disagreements in the field of cultural evolution</title>
-      <link>/publication/2015_phil_bio/</link>
+      <link>https://acerbialberto.com/publication/2015_phil_bio/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_phil_bio/</guid>
+      <guid>https://acerbialberto.com/publication/2015_phil_bio/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Philosopher Massimo Pigliucci discussed this article in [The Trouble with Cultural Evolution] (&lt;a href=&#34;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&#34;&gt;http://www.philosophersmag.com/index.php/footnotes-to-plato/83-the-trouble-with-cultural-evolution),&lt;/a&gt; &lt;em&gt;Footnotes to Plato&lt;/em&gt;.&lt;/p&gt;
 
@@ -183,41 +183,41 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Behavioral constraints and the evolution of faithful social learning</title>
-      <link>/publication/2012_cur_zoo/</link>
+      <link>https://acerbialberto.com/publication/2012_cur_zoo/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_cur_zoo/</guid>
+      <guid>https://acerbialberto.com/publication/2012_cur_zoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelli evoluzionistici della cultura</title>
-      <link>/publication/ita_2009_rifl/</link>
+      <link>https://acerbialberto.com/publication/ita_2009_rifl/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2009_rifl/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2009_rifl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antropologia cognitiva e modularità della mente: il caso della folkbiology</title>
-      <link>/publication/ita_2006_folkbio/</link>
+      <link>https://acerbialberto.com/publication/ita_2006_folkbio/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2006_folkbio/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2006_folkbio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antropologia cognitiva: uno stato dell&#39;arte</title>
-      <link>/publication/ita_2005_si/</link>
+      <link>https://acerbialberto.com/publication/ita_2005_si/</link>
       <pubDate>Sat, 03 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2005_si/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2005_si/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La mente nella cultura: cognizione ed analisi dei fatti culturali</title>
-      <link>/publication/ita_2005_annali/</link>
+      <link>https://acerbialberto.com/publication/ita_2005_annali/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2005_annali/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2005_annali/</guid>
       <description></description>
     </item>
     
