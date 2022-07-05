@@ -3,8 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/5/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2022-06-29T09:00:00+00:00</lastmod>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/alex-mesoudi/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/2022_ibmcultevo/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/authors/marco-smolla/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +73,7 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/publication_types/3/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,32 +93,12 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/authors/sacha-altay/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,11 +194,6 @@
   
   <url>
     <loc>https://acerbialberto.com/authors/hugo-mercier/</loc>
-    <lastmod>2022-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/individual-based-models/</loc>
     <lastmod>2022-01-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -383,21 +403,6 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/authors/alex-mesoudi/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication/preprint_ibmcultevo/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/authors/marco-smolla/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acerbialberto.com/talk/2020_plymouth/</loc>
     <lastmod>2020-11-25T16:00:00+00:00</lastmod>
   </url>
@@ -585,11 +590,6 @@
   <url>
     <loc>https://acerbialberto.com/media/brunel_ceda/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/publication_types/5/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>

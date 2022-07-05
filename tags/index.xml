@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>cultural evolution</title>
+      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>individual based models</title>
+      <link>https://acerbialberto.com/tags/individual-based-models/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>digital media</title>
@@ -33,14 +49,6 @@
       <link>https://acerbialberto.com/tags/cultural-attraction/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/cultural-attraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cultural evolution</title>
-      <link>https://acerbialberto.com/tags/cultural-evolution/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
       <description></description>
     </item>
     
@@ -81,14 +89,6 @@
       <link>https://acerbialberto.com/tags/recent/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/recent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>individual based models</title>
-      <link>https://acerbialberto.com/tags/individual-based-models/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
       <description></description>
     </item>
     
