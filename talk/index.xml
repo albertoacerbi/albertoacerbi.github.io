@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/talk/</link>
       <atom:link href="https://acerbialberto.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 15:30:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://acerbialberto.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Social learning and misinformation online</title>
+      <link>https://acerbialberto.com/talk/2022_pcnet/</link>
+      <pubDate>Thu, 22 Sep 2022 15:30:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/talk/2022_pcnet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cultural evolution in the digital age</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>Misinformed on misinformation</title>
-      <link>https://acerbialberto.com/talk/2022_pcnet/</link>
+      <link>https://acerbialberto.com/talk/2022_palermo/</link>
       <pubDate>Mon, 18 Jul 2022 14:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/talk/2022_pcnet/</guid>
+      <guid>https://acerbialberto.com/talk/2022_palermo/</guid>
       <description></description>
     </item>
     
