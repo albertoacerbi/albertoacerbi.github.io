@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2022-11-27T18:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/talk/2022_ecc/</loc>
+    <lastmod>2022-11-27T18:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/talk/</loc>
+    <lastmod>2022-11-27T18:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,11 +65,6 @@
   <url>
     <loc>https://acerbialberto.com/publication/2022_jbee/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/talk/</loc>
-    <lastmod>2022-09-22T15:30:00+00:00</lastmod>
   </url>
   
   <url>
