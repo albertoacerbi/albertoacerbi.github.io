@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/talk/</link>
       <atom:link href="https://acerbialberto.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 18:10:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://acerbialberto.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Social influence and misinformation online</title>
+      <link>https://acerbialberto.com/talk/2022_aisc/</link>
+      <pubDate>Thu, 15 Dec 2022 14:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/talk/2022_aisc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Negative sentiment online</title>
