@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/software/</link>
-      <atom:link href="https://acerbialberto.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/software/</link>
+      <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <description>software</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>software</title>
-      <link>https://acerbialberto.com/tags/software/</link>
+      <link>/tags/software/</link>
     </image>
     
     <item>
       <title>Welcome to B-data</title>
-      <link>https://acerbialberto.com/post/2020_bdata/</link>
+      <link>/post/2020_bdata/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_bdata/</guid>
+      <guid>/post/2020_bdata/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A short blog post to present a little project I am working on within the &lt;a href=&#34;https://www.brunel.ac.uk/psychology&#34;&gt;Psychology Division&lt;/a&gt; at Brunel University. &lt;a href=&#34;https://www.brunel.ac.uk/psychology/research-and-phd-programmes/Collection-of-resources&#34;&gt;B-data&lt;/a&gt; is a collection of resources for finding and processing online behavioural data (that is the &lt;em&gt;B&lt;/em&gt; in the name&amp;hellip;), which may be interesting for people working in psychology and cultural evolution.&lt;/p&gt;
 &lt;p&gt;As explained in the page:&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>RStudio on Amazon Web Services</title>
-      <link>https://acerbialberto.com/post/2019_aws_rstudio/</link>
+      <link>/post/2019_aws_rstudio/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_aws_rstudio/</guid>
+      <guid>/post/2019_aws_rstudio/</guid>
       <description>&lt;p&gt;Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running &lt;a href=&#34;https://github.com/albertoacerbi/oranzees&#34;&gt;this&lt;/a&gt; individual-based model - you do not have this option. However, I just found out that launching your &lt;a href=&#34;https://www.rstudio.com&#34;&gt;RStudio&lt;/a&gt; script on Amazon Web Service (&lt;a href=&#34;https://aws.amazon.com&#34;&gt;AWS&lt;/a&gt;) is quite easy (and it is free).&lt;/p&gt;
 &lt;p&gt;As the information needed is scattered on the web, I put together a short tutorial. If you do not trust me, most material comes from &lt;a href=&#34;http://www.louisaslett.com/RStudio_AMI/&#34;&gt;here&lt;/a&gt;, but it is not  explained step-by-step, some information are possibly not relevant for a non-expert (as myself) and, mostly, the AWS interface has been changed from when the page was written. So, follow this short instructions, and you can close your laptop and have your script running for you somewhere else!&lt;/p&gt;
 &lt;h2 id=&#34;step-by-step-tutorial&#34;&gt;Step-by-step tutorial&lt;/h2&gt;
