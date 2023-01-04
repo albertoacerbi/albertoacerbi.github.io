@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ALife/robotics | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/alife/robotics/</link>
       <atom:link href="https://acerbialberto.com/tags/alife/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>ALife/robotics</description>
@@ -10,45 +11,85 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>ALife/robotics</title>
       <link>https://acerbialberto.com/tags/alife/robotics/</link>
+=======
+    <link>/tags/alife/robotics/</link>
+      <atom:link href="/tags/alife/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>ALife/robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ALife/robotics</title>
+      <link>/tags/alife/robotics/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2015_plos/</link>
       <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2015_plos/</guid>
+=======
+      <link>/publication/2015_plos/</link>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015_plos/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Emergence of Leadership in a Group of Autonomous Robots</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2012_leadership/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2012_leadership/</guid>
+=======
+      <link>/publication/cp_2012_leadership/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2012_leadership/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Orienting learning by exploiting sociality: an evolutionary robotics simulations</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2009_orienting/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2009_orienting/</guid>
+=======
+      <link>/publication/cp_2009_orienting/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2009_orienting/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Trasmissione sociale di comportamenti in una popolazione di robot autonomi</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/ita_2008_si/</link>
       <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/ita_2008_si/</guid>
+=======
+      <link>/publication/ita_2008_si/</link>
+      <pubDate>Sat, 02 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ita_2008_si/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Social learning in embodied agents</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2008_conn_sci/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2008_conn_sci/</guid>
+=======
+      <link>/publication/2008_conn_sci/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008_conn_sci/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;I edited, together with Davide Marocco and Paul Vogt, a double special issue of the journal &lt;em&gt;Connection Science&lt;/em&gt; on the topic &amp;ldquo;Social Learning in Embodied Agents&amp;rdquo;. This is our editorial.&lt;/p&gt;
 </description>
@@ -56,57 +97,99 @@
     
     <item>
       <title>La natura della cultura. Modelli simulativi dell&#39;apprendimento sociale</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/ita_2007_phd/</link>
       <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/ita_2007_phd/</guid>
+=======
+      <link>/publication/ita_2007_phd/</link>
+      <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ita_2007_phd/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2007_social/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2007_social/</guid>
+=======
+      <link>/publication/cp_2007_social/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2007_social/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The evolution of pain</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2007_pain/</link>
       <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2007_pain/</guid>
+=======
+      <link>/publication/cp_2007_pain/</link>
+      <pubDate>Fri, 14 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2007_pain/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Social Learning and Cultural Evolution in Embodied and Situated Agents</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2007_embodied/</link>
       <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2007_embodied/</guid>
+=======
+      <link>/publication/cp_2007_embodied/</link>
+      <pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2007_embodied/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Adaptation and Social Facilitation in a Population of Autonomous Robots</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2007_adaptation/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2007_adaptation/</guid>
+=======
+      <link>/publication/cp_2007_adaptation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2007_adaptation/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Cultural transmission between and within generations</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2006_jasss/</link>
       <pubDate>Tue, 31 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2006_jasss/</guid>
+=======
+      <link>/publication/2006_jasss/</link>
+      <pubDate>Tue, 31 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/2006_jasss/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Trasmissibilità culturale di tratti discreti e continui</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/ita_2006_aisc/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/ita_2006_aisc/</guid>
+=======
+      <link>/publication/ita_2006_aisc/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ita_2006_aisc/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

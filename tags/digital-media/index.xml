@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital media | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/digital-media/</link>
       <atom:link href="https://acerbialberto.com/tags/digital-media/index.xml" rel="self" type="application/rss+xml" />
     <description>digital media</description>
@@ -10,13 +11,29 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>digital media</title>
       <link>https://acerbialberto.com/tags/digital-media/</link>
+=======
+    <link>/tags/digital-media/</link>
+      <atom:link href="/tags/digital-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>digital media</title>
+      <link>/tags/digital-media/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Negative sentiment on Twitter in response to Netflix&#39;s Our Planet documentary</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_our_planet/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_our_planet/</guid>
+=======
+      <link>/publication/preprint_our_planet/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_our_planet/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -29,9 +46,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Misinformation Is a Threat Because (Other) People are Gullible</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_misinfo_third_person/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_misinfo_third_person/</guid>
+=======
+      <link>/publication/preprint_misinfo_third_person/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_misinfo_third_person/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -44,9 +67,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>From storytelling to Facebook</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/post/2022_from_storytelling/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/post/2022_from_storytelling/</guid>
+=======
+      <link>/post/2022_from_storytelling/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022_from_storytelling/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We are starting to have some suggestion about what kind of content is advantaged on social media, all other things being equal. Good candidates are &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00057-7&#34;&gt;negative&lt;/a&gt; &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00046-w&#34;&gt;content&lt;/a&gt;, generally &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1618923114?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34;&gt;emotional&lt;/a&gt; content, or &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2024292118&#34;&gt;out-group&lt;/a&gt; &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/abs/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602&#34;&gt;detraction&lt;/a&gt; (link to some papers if you click on the contents).&lt;/p&gt;
 &lt;p&gt;These effects, albeit generally quite small, are interesting, and they are consistent with the broadly accepted narrative that social media have a detrimental influence on human communication and social interactions. This may definitely be true, but what I believe is an important missing piece is a contrast with other forms of communication and social interactions.&lt;/p&gt;
@@ -69,9 +98,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Research note: Fighting misinformation or fighting for information?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_hks_misinfo/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_hks_misinfo/</guid>
+=======
+      <link>/publication/2022_hks_misinfo/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_hks_misinfo/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -84,9 +119,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Misinformation on Misinformation: Conceptual and Methodological Challenges</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</guid>
+=======
+      <link>/publication/preprint_misinfo_on_misinfo/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_misinfo_on_misinfo/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -99,9 +140,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_voter_fraud/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_voter_fraud/</guid>
+=======
+      <link>/publication/preprint_voter_fraud/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint_voter_fraud/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -114,17 +161,29 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural Accumulation and Improvement in Online Fan Fiction</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2020_chr/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2020_chr/</guid>
+=======
+      <link>/publication/cp_2020_chr/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cp_2020_chr/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2020_jnc/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2020_jnc/</guid>
+=======
+      <link>/publication/2020_jnc/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_jnc/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -137,9 +196,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution in the digital age</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_oup/</guid>
+=======
+      <link>/publication/2019_oup/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_oup/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;Book Club at &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/&#34;&gt;cognitionandculture.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;International Cognition and Culture Institute&lt;/em&gt; has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.&lt;/p&gt;
@@ -208,11 +273,19 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_pal_comm_a/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_pal_comm_a/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+=======
+      <link>/publication/2019_pal_comm_a/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_pal_comm_a/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
 &lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
 &lt;p&gt;Another popular &lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-les-vraies-raisons-du-succes-des-infox-09-09-2019-2334367_3590.php&#34;&gt;article&lt;/a&gt; (in French).&lt;/p&gt;
 
@@ -227,9 +300,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>A cultural evolution approach to digital media</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_fhn/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_fhn/</guid>
+=======
+      <link>/publication/2016_fhn/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_fhn/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;

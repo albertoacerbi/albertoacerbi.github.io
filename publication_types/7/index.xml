@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/publication_types/7/</link>
       <atom:link href="https://acerbialberto.com/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
@@ -10,13 +11,29 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>7</title>
       <link>https://acerbialberto.com/publication_types/7/</link>
+=======
+    <link>/publication_types/7/</link>
+      <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>7</title>
+      <link>/publication_types/7/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>La natura della cultura. Modelli simulativi dell&#39;apprendimento sociale</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/ita_2007_phd/</link>
       <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/ita_2007_phd/</guid>
+=======
+      <link>/publication/ita_2007_phd/</link>
+      <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/ita_2007_phd/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

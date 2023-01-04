@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pop culture | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/pop-culture/</link>
       <atom:link href="https://acerbialberto.com/tags/pop-culture/index.xml" rel="self" type="application/rss+xml" />
     <description>pop culture</description>
@@ -10,13 +11,29 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>pop culture</title>
       <link>https://acerbialberto.com/tags/pop-culture/</link>
+=======
+    <link>/tags/pop-culture/</link>
+      <atom:link href="/tags/pop-culture/index.xml" rel="self" type="application/rss+xml" />
+    <description>pop culture</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>pop culture</title>
+      <link>/tags/pop-culture/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Sentiment analysis of song lyrics by genre</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/post/2020_mxm_genres/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/post/2020_mxm_genres/</guid>
+=======
+      <link>/post/2020_mxm_genres/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020_mxm_genres/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;p&gt;In a recent &lt;a href=&#34;https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-of-emotional-expression-in-50-years-of-song-lyrics/E6E64C02BDB0480DB13B8B6BB7DFF598/core-reader&#34;&gt;paper&lt;/a&gt; with &lt;a href=&#34;https://lottybrand.wordpress.com&#34;&gt;Lotty Brand&lt;/a&gt; and &lt;a href=&#34;http://alexmesoudi.com&#34;&gt;Alex Mesoudi&lt;/a&gt;, we documented how the lyrics of popular songs have become sadder in the last few decades. The proportion of words with positive emotional content has decreased and, on the contrary, the proportion of words with negative emotional content has increased, on average, from the 1960s to now. (If you are a reader of this blog you probably already know about all that - if not, see &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;this aeon piece&lt;/a&gt; for more about the research).&lt;/p&gt;
 &lt;p&gt;Several people have suggested that this could be mainly due to the fact that new - sadder or angrier - genres (for example &lt;a href=&#34;https://marginalrevolution.com/marginalrevolution/2020/02/pop-songs-are-getting-sadder-and-angrier.html&#34;&gt;hip-hop&lt;/a&gt;) have replaced the genres dominant fifty years ago. This is a sensible hypothesis. In one of the two datasets we used for the main analysis (indicated in the paper as &amp;ldquo;mxm&amp;rdquo; dataset), derived from the lyrics in the website &lt;a href=&#34;https://www.musixmatch.com&#34;&gt;musixmatch.com&lt;/a&gt;, songs are also tagged with their genre, so it was relatively straightforward to explore the contribution of each genre to the general trend. The R code and the outputs are available in a &lt;a href=&#34;https://github.com/albertoacerbi/mxm_genres_analysis&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;First of all, here the general trends for the &amp;ldquo;mxm&amp;rdquo; dataset. (If you are interested, we explain in the aeon piece linked above what the facts that these numbers are small and that the proportion of negative emotion-words is anyway always lower than the proportion of positive emotion-words mean for the importance of the trends.)&lt;/p&gt;
@@ -40,9 +57,15 @@
     
     <item>
       <title>Sentiment analysis of Child Ballads&#39; lyrics</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/post/2020_child_ballads/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/post/2020_child_ballads/</guid>
+=======
+      <link>/post/2020_child_ballads/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020_child_ballads/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have recently published, together with &lt;a href=&#34;https://lottybrand.wordpress.com&#34;&gt;Lotty Brand&lt;/a&gt; and &lt;a href=&#34;http://alexmesoudi.com&#34;&gt;Alex Mesoudi&lt;/a&gt;, a paper studying the expression of emotions in the lyrics of the last 50 years of English-language pop songs - open access &lt;a href=&#34;https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-of-emotional-expression-in-50-years-of-song-lyrics/E6E64C02BDB0480DB13B8B6BB7DFF598/core-reader&#34;&gt;here&lt;/a&gt;. We try to explain two related empirical findings: the frequency of words with positive emotional content decreases and, on the contrary, the frequency of words with negative emotional content increases in song lyrics. (Both by roughly one third. If, for example, the average song in 1960s had 30 words associated with negative emotion, the average song in 2010s has 40, assuming that they have the same total number of words.) This is a specific aspect of a relatively well-known phenomenon, that has been measured in various ways: pop songs have become sadder in the last decades.&lt;/p&gt;
 &lt;p&gt;What we added in the paper is an attempt of explaining why this happened. We looked for cultural influences, such as upcoming artists copying the emotional tone from successful, or prestigious, artists of the previous years, but we did not find they were able to explain the pattern. We found, instead, that a general preference for songs with more negative lyrics, coupled with &amp;ldquo;unbiased transmission&amp;rdquo;, i.e. upcoming artists copying at random from the artists of the previous years, could explain it. Of course, upcoming artists do not &amp;ldquo;copy at random&amp;rdquo;: unbiased transmission stands for many unknown processes that cumulatively appear similar to genetic drift, where songs tend to &amp;ldquo;inherit&amp;rdquo; from one year to the other some of their features. The effect of unbiased transmission is important in our statistical model, but unbiased transmission is non-directional, so that a preference for negative lyrics, even if weak, can drive the process. We also wrote a popular piece about it in &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;aeon&lt;/a&gt;, where we explain more in detail all that.&lt;/p&gt;

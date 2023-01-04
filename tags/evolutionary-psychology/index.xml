@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolutionary psychology | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/evolutionary-psychology/</link>
       <atom:link href="https://acerbialberto.com/tags/evolutionary-psychology/index.xml" rel="self" type="application/rss+xml" />
     <description>evolutionary psychology</description>
@@ -10,15 +11,33 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>evolutionary psychology</title>
       <link>https://acerbialberto.com/tags/evolutionary-psychology/</link>
+=======
+    <link>/tags/evolutionary-psychology/</link>
+      <atom:link href="/tags/evolutionary-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <description>evolutionary psychology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>evolutionary psychology</title>
+      <link>/tags/evolutionary-psychology/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_pal_comm_b/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_pal_comm_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+=======
+      <link>/publication/2019_pal_comm_b/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_pal_comm_b/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
 
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -31,17 +50,29 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Folk-economic beliefs as “evidential fiction”: Putting the economic public discourse back on track</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2018_bbs/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2018_bbs/</guid>
+=======
+      <link>/publication/2018_bbs/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_bbs/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2017_cog_emo/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2017_cog_emo/</guid>
+=======
+      <link>/publication/2017_cog_emo/</link>
+      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_cog_emo/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -54,9 +85,15 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Antropologia cognitiva e modularità della mente: il caso della folkbiology</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/ita_2006_folkbio/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/ita_2006_folkbio/</guid>
+=======
+      <link>/publication/ita_2006_folkbio/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/ita_2006_folkbio/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

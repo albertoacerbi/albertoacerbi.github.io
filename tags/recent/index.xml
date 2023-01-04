@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/recent/</link>
       <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
@@ -10,53 +11,99 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent</title>
       <link>https://acerbialberto.com/tags/recent/</link>
+=======
+    <link>/tags/recent/</link>
+      <atom:link href="/tags/recent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent</title>
+      <link>/tags/recent/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Se battre contre la désinformation ou pour l&#39;information?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/futura/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/futura/</guid>
+=======
+      <link>/media/futura/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/media/futura/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Should we spend less time fighting misinformation and more time fighting for information?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/niemanlab/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/niemanlab/</guid>
+=======
+      <link>/media/niemanlab/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/media/niemanlab/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Populisme, vaccination. Pourquoi surestime-t-on le phenomene des Fake News</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/echos/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/echos/</guid>
+=======
+      <link>/media/echos/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/media/echos/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Dissenter - Cultural Evolution in the Digital Age</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/dissenter/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/dissenter/</guid>
+=======
+      <link>/media/dissenter/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/media/dissenter/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Cultural Evolution in the Digital Age interview</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/cultured_scene_ceda/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/cultured_scene_ceda/</guid>
+=======
+      <link>/media/cultured_scene_ceda/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/media/cultured_scene_ceda/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Tout ce que vous pensiez savoir d&#39;Internet est (sans doute) faux</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/lepoint_book/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/lepoint_book/</guid>
+=======
+      <link>/media/lepoint_book/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/media/lepoint_book/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/publication_types/</link>
       <atom:link href="https://acerbialberto.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
@@ -10,61 +11,113 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://acerbialberto.com/publication_types/</link>
+=======
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>2</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/2/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/2/</guid>
+=======
+      <link>/publication_types/2/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication_types/2/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>3</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/3/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/3/</guid>
+=======
+      <link>/publication_types/3/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication_types/3/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>5</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/5/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/5/</guid>
+=======
+      <link>/publication_types/5/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication_types/5/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>0</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/0/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/0/</guid>
+=======
+      <link>/publication_types/0/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication_types/0/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>6</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/6/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/6/</guid>
+=======
+      <link>/publication_types/6/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication_types/6/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>1</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/1/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/1/</guid>
+=======
+      <link>/publication_types/1/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication_types/1/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>7</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/publication_types/7/</link>
       <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication_types/7/</guid>
+=======
+      <link>/publication_types/7/</link>
+      <pubDate>Sat, 03 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication_types/7/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

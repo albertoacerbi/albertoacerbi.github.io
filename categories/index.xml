@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/categories/</link>
       <atom:link href="https://acerbialberto.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
@@ -10,6 +11,16 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://acerbialberto.com/categories/</link>
+=======
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
   </channel>

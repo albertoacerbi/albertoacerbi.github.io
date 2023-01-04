@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
@@ -10,181 +11,323 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
+=======
+    <link>/media/</link>
+      <atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Media</title>
+      <link>/media/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Se battre contre la désinformation ou pour l&#39;information?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/futura/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/futura/</guid>
+=======
+      <link>/media/futura/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/media/futura/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Should we spend less time fighting misinformation and more time fighting for information?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/niemanlab/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/niemanlab/</guid>
+=======
+      <link>/media/niemanlab/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/media/niemanlab/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Populisme, vaccination. Pourquoi surestime-t-on le phenomene des Fake News</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/echos/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/echos/</guid>
+=======
+      <link>/media/echos/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/media/echos/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Dissenter - Cultural Evolution in the Digital Age</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/dissenter/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/dissenter/</guid>
+=======
+      <link>/media/dissenter/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/media/dissenter/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Cultural Evolution in the Digital Age interview</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/cultured_scene_ceda/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/cultured_scene_ceda/</guid>
+=======
+      <link>/media/cultured_scene_ceda/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/media/cultured_scene_ceda/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Heaven knows pop’s miserable now</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/the_times_sad_songs/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/the_times_sad_songs/</guid>
+=======
+      <link>/media/the_times_sad_songs/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/media/the_times_sad_songs/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Tout ce que vous pensiez savoir d&#39;Internet est (sans doute) faux</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/lepoint_book/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/lepoint_book/</guid>
+=======
+      <link>/media/lepoint_book/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/media/lepoint_book/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Why are pop songs getting sadder than they used to be?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/aeon_emotions/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/aeon_emotions/</guid>
+=======
+      <link>/media/aeon_emotions/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/media/aeon_emotions/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>How digital&#39;s defining culture</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/brunel_ceda/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/brunel_ceda/</guid>
+=======
+      <link>/media/brunel_ceda/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/media/brunel_ceda/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Les vraies raisons du succès des infox</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/lepoint/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/lepoint/</guid>
+=======
+      <link>/media/lepoint/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/media/lepoint/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Perché le fake news ci attraggono? Un contributo dall’antropologia cognitiva ed evoluzionistica</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/cicap/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/cicap/</guid>
+=======
+      <link>/media/cicap/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/media/cicap/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Dedicated Followers (After a Fashion)</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/cmo/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/cmo/</guid>
+=======
+      <link>/media/cmo/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/media/cmo/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Trouble with Cultural Evolution</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/plato/</link>
       <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/plato/</guid>
+=======
+      <link>/media/plato/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/media/plato/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>How much is that doggie from the movie?</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/nyt_movies_dogs/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/nyt_movies_dogs/</guid>
+=======
+      <link>/media/nyt_movies_dogs/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/media/nyt_movies_dogs/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Lassie effect. Movies drive our preference for certain dog breeds</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/science_movies_dogs/</link>
       <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/science_movies_dogs/</guid>
+=======
+      <link>/media/science_movies_dogs/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/media/science_movies_dogs/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Why hard times make for miserable books</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/cnn_misery/</link>
       <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/cnn_misery/</guid>
+=======
+      <link>/media/cnn_misery/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/media/cnn_misery/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Information is power</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/radio3_misery/</link>
       <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/radio3_misery/</guid>
+=======
+      <link>/media/radio3_misery/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/media/radio3_misery/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Literature gloom mirrors economic misery, study finds</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/guardian_misery/</link>
       <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/guardian_misery/</guid>
+=======
+      <link>/media/guardian_misery/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/media/guardian_misery/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The History of Our Emotions in Millions of Books</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/huffington_emotions/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/huffington_emotions/</guid>
+=======
+      <link>/media/huffington_emotions/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/media/huffington_emotions/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Text mining uncovers British reserve and US emotion</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/nature_emotions/</link>
       <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/nature_emotions/</guid>
+=======
+      <link>/media/nature_emotions/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/media/nature_emotions/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Aiuto, i nostri romanzi hanno perso le emozioni</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/repubblica_emotions/</link>
       <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/repubblica_emotions/</guid>
+=======
+      <link>/media/repubblica_emotions/</link>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/media/repubblica_emotions/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Planck, Elusive Giant Squid, Emotive words</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/media/bbc_emotions/</link>
       <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/media/bbc_emotions/</guid>
+=======
+      <link>/media/bbc_emotions/</link>
+      <pubDate>Thu, 17 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/media/bbc_emotions/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

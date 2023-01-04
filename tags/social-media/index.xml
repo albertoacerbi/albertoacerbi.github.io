@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social media | Alberto Acerbi</title>
+<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/social-media/</link>
       <atom:link href="https://acerbialberto.com/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <description>social media</description>
@@ -10,13 +11,29 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>social media</title>
       <link>https://acerbialberto.com/tags/social-media/</link>
+=======
+    <link>/tags/social-media/</link>
+      <atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>social media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>social media</title>
+      <link>/tags/social-media/</link>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>From storytelling to Facebook</title>
+<<<<<<< HEAD
       <link>https://acerbialberto.com/post/2022_from_storytelling/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/post/2022_from_storytelling/</guid>
+=======
+      <link>/post/2022_from_storytelling/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022_from_storytelling/</guid>
+>>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We are starting to have some suggestion about what kind of content is advantaged on social media, all other things being equal. Good candidates are &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00057-7&#34;&gt;negative&lt;/a&gt; &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00046-w&#34;&gt;content&lt;/a&gt;, generally &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1618923114?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34;&gt;emotional&lt;/a&gt; content, or &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2024292118&#34;&gt;out-group&lt;/a&gt; &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/abs/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602&#34;&gt;detraction&lt;/a&gt; (link to some papers if you click on the contents).&lt;/p&gt;
 &lt;p&gt;These effects, albeit generally quite small, are interesting, and they are consistent with the broadly accepted narrative that social media have a detrimental influence on human communication and social interactions. This may definitely be true, but what I believe is an important missing piece is a contrast with other forms of communication and social interactions.&lt;/p&gt;
