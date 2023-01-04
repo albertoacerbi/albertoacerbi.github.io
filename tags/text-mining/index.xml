@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text mining | Alberto Acerbi</title>
-<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/text-mining/</link>
       <atom:link href="https://acerbialberto.com/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>text mining</description>
@@ -11,29 +10,13 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>text mining</title>
       <link>https://acerbialberto.com/tags/text-mining/</link>
-=======
-    <link>/tags/text-mining/</link>
-      <atom:link href="/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
-    <description>text mining</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>text mining</title>
-      <link>/tags/text-mining/</link>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>The self-control vs. self-indulgence dilemma. A culturomic analysis of 20th century trends</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_jbee/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_jbee/</guid>
-=======
-      <link>/publication/2022_jbee/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_jbee/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -46,15 +29,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>The impact of the “World’s 25 Most Endangered Primates” list on scientific publications and media</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2020_jnc/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2020_jnc/</guid>
-=======
-      <link>/publication/2020_jnc/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_jnc/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -67,15 +44,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution of emotional expression in 50 years of song lyrics</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_ehs/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_ehs/</guid>
-=======
-      <link>/publication/2019_ehs/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_ehs/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;Together with Lotty Brand, we wrote a piece for &lt;em&gt;aeon&lt;/em&gt; about the paper: &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;Why are pop songs getting sadder than they used to be?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The piece was then widely covered by popular and scientific media, including for example &lt;a href=&#34;https://www.thetimes.co.uk/edition/news/heaven-knows-pops-miserable-now-777dzqw7x&#34;&gt;The Times&lt;/a&gt; (UK), &lt;a href=&#34;https://www.standaard.be/cnt/dmf20200226_04866569&#34;&gt;De Standaard&lt;/a&gt; (Belgium), or &lt;a href=&#34;https://www.information.dk/kultur/2020/02/popsange-soergeligere-soergeligere-viser-ny-undersoegelse&#34;&gt;Dagbaldet Information&lt;/a&gt; (Danemark)&lt;/p&gt;
@@ -91,19 +62,11 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Why people die in novels: Testing the ordeal simulation hypothesis</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_pal_comm_b/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_pal_comm_b/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
-=======
-      <link>/publication/2019_pal_comm_b/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_pal_comm_b/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_ordeal_simulation/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
 
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -116,29 +79,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Role of Neutral evolution in word turnover during centuries of English word popularity</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2017_complex_sys/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2017_complex_sys/</guid>
-=======
-      <link>/publication/2017_complex_sys/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_complex_sys/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2017_cog_emo/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2017_cog_emo/</guid>
-=======
-      <link>/publication/2017_cog_emo/</link>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_cog_emo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -151,15 +102,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Books average previous decade of economic misery</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2014_plos_b/</link>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2014_plos_b/</guid>
-=======
-      <link>/publication/2014_plos_b/</link>
-      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_plos_b/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;This paper has been widely covered by popular and scientific media. Here some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -191,29 +136,17 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Robustness of emotion extraction from 20th century English books</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2013_emotion/</link>
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2013_emotion/</guid>
-=======
-      <link>/publication/cp_2013_emotion/</link>
-      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2013_emotion/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The expression of emotions in 20th century books</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2013_plos_b/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2013_plos_b/</guid>
-=======
-      <link>/publication/2013_plos_b/</link>
-      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_plos_b/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a &lt;a href=&#34;http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html&#34;&gt;popular summary&lt;/a&gt; of the paper for the &lt;em&gt;Huffington Post&lt;/em&gt; (US edition). Other media coverage includes:&lt;/p&gt;
 &lt;ul&gt;

@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>individual based models | Alberto Acerbi</title>
-<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/individual-based-models/</link>
       <atom:link href="https://acerbialberto.com/tags/individual-based-models/index.xml" rel="self" type="application/rss+xml" />
     <description>individual based models</description>
@@ -11,29 +10,13 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>individual based models</title>
       <link>https://acerbialberto.com/tags/individual-based-models/</link>
-=======
-    <link>/tags/individual-based-models/</link>
-      <atom:link href="/tags/individual-based-models/index.xml" rel="self" type="application/rss+xml" />
-    <description>individual based models</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>individual based models</title>
-      <link>/tags/individual-based-models/</link>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>The method of exclusion (still) cannot identify specific mechanisms of cultural inheritance</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_oranzees/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_oranzees/</guid>
-=======
-      <link>/publication/2022_oranzees/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_oranzees/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -46,15 +29,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_ibmcultevo/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_ibmcultevo/</guid>
-=======
-      <link>/publication/2022_ibmcultevo/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_ibmcultevo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -67,15 +44,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Research note: Fighting misinformation or fighting for information?</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_hks_misinfo/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_hks_misinfo/</guid>
-=======
-      <link>/publication/2022_hks_misinfo/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_hks_misinfo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -88,15 +59,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Culture without copying or selection</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2021_ehs/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2021_ehs/</guid>
-=======
-      <link>/publication/2021_ehs/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_ehs/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -109,15 +74,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Modelling cultural systems and selective filters</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2021_ptrsb_systems/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2021_ptrsb_systems/</guid>
-=======
-      <link>/publication/2021_ptrsb_systems/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_ptrsb_systems/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -130,15 +89,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Copy-the-majority of instances or individuals? Two approaches to the majority and their consequences for conformist decision-making</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_plos/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_plos/</guid>
-=======
-      <link>/publication/2019_plos/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_plos/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -151,225 +104,129 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Reply to ‘Sigmoidal Acquisition Curves are Good Indicators of Conformist Transmission’</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2018_sci_rep/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2018_sci_rep/</guid>
-=======
-      <link>/publication/2018_sci_rep/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_sci_rep/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Role of Neutral evolution in word turnover during centuries of English word popularity</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2017_complex_sys/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2017_complex_sys/</guid>
-=======
-      <link>/publication/2017_complex_sys/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_complex_sys/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>A reappreciation of “conformity”</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_an_behav/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_an_behav/</guid>
-=======
-      <link>/publication/2016_an_behav/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_an_behav/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Conformity cannot be identified based on population-level signatures</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_sci_rep/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_sci_rep/</guid>
-=======
-      <link>/publication/2016_sci_rep/</link>
-      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_sci_rep/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The role of redundant information in cultural transmission and cultural stabilization</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_jcp/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_jcp/</guid>
-=======
-      <link>/publication/2016_jcp/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_jcp/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Biases in cultural transmission shape the turnover of popular traits</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2014_ehb/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2014_ehb/</guid>
-=======
-      <link>/publication/2014_ehb/</link>
-      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_ehb/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Regulatory traits: Cultural Influences on Cultural Evolution</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2014_regulatory/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2014_regulatory/</guid>
-=======
-      <link>/publication/cp_2014_regulatory/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2014_regulatory/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Old and Young Individuals’ Role in Cultural Change</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2012_jasss/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2012_jasss/</guid>
-=======
-      <link>/publication/2012_jasss/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_jasss/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Behavioral constraints and the evolution of faithful social learning</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2012_cur_zoo/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2012_cur_zoo/</guid>
-=======
-      <link>/publication/2012_cur_zoo/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_cur_zoo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Logic of Fashion Cycles</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2012_plos/</link>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2012_plos/</guid>
-=======
-      <link>/publication/2012_plos/</link>
-      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/2012_plos/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Regulatory Traits in Cultural Evolution</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/cp_2012_regulatory/</link>
       <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/cp_2012_regulatory/</guid>
-=======
-      <link>/publication/cp_2012_regulatory/</link>
-      <pubDate>Tue, 21 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/cp_2012_regulatory/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Modeling imitation and emulation in constrained search spaces</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2011_learn_behav/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2011_learn_behav/</guid>
-=======
-      <link>/publication/2011_learn_behav/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_learn_behav/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Predation and the phasing of sleep: an evolutionary individual-based model</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2011_an_behav/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2011_an_behav/</guid>
-=======
-      <link>/publication/2011_an_behav/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/2011_an_behav/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>The Sometimes Evitable Route to Conservatism and Persuasiveness. A Reply to Xue and Costopoulos</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2010_cur_anthr/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2010_cur_anthr/</guid>
-=======
-      <link>/publication/2010_cur_anthr/</link>
-      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/2010_cur_anthr/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Cultural evolution and individual development of openness and conservatism</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2009_pnas/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2009_pnas/</guid>
-=======
-      <link>/publication/2009_pnas/</link>
-      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/2009_pnas/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>To sleep or not to sleep: the ecology of sleep in artificial organisms</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2008_bmc/</link>
       <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2008_bmc/</guid>
-=======
-      <link>/publication/2008_bmc/</link>
-      <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/2008_bmc/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

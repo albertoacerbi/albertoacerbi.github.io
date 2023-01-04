@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>experiment | Alberto Acerbi</title>
-<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/experiment/</link>
       <atom:link href="https://acerbialberto.com/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
     <description>experiment</description>
@@ -11,43 +10,21 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>experiment</title>
       <link>https://acerbialberto.com/tags/experiment/</link>
-=======
-    <link>/tags/experiment/</link>
-      <atom:link href="/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
-    <description>experiment</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>experiment</title>
-      <link>/tags/experiment/</link>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Did Einstein really say that? Testing content versus context in the cultural selection of quotations</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2018_jocc/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2018_jocc/</guid>
-=======
-      <link>/publication/2018_jocc/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_jocc/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_rsos/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_rsos/</guid>
-=======
-      <link>/publication/2016_rsos/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_rsos/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

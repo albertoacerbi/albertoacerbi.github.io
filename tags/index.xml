@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Alberto Acerbi</title>
-<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
@@ -11,379 +10,213 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
-=======
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>/tags/</link>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>cultural attraction</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/cultural-attraction/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/cultural-attraction/</guid>
-=======
-      <link>/tags/cultural-attraction/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/cultural-attraction/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>cultural evolution</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/cultural-evolution/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/cultural-evolution/</guid>
-=======
-      <link>/tags/cultural-evolution/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/cultural-evolution/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>my research</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/my-research/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/my-research/</guid>
-=======
-      <link>/tags/my-research/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/my-research/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>individual based models</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/individual-based-models/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/individual-based-models/</guid>
-=======
-      <link>/tags/individual-based-models/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/individual-based-models/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>text mining</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/text-mining/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/text-mining/</guid>
-=======
-      <link>/tags/text-mining/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/text-mining/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>conservation</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/conservation/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/conservation/</guid>
-=======
-      <link>/tags/conservation/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/conservation/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>digital media</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/digital-media/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/digital-media/</guid>
-=======
-      <link>/tags/digital-media/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/digital-media/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>misinformation</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/misinformation/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/misinformation/</guid>
-=======
-      <link>/tags/misinformation/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/misinformation/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>social media</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/social-media/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/social-media/</guid>
-=======
-      <link>/tags/social-media/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/social-media/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>digital age</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/digital-age/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/digital-age/</guid>
-=======
-      <link>/tags/digital-age/</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/digital-age/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>big questions</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/big-questions/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/big-questions/</guid>
-=======
-      <link>/tags/big-questions/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/big-questions/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>Recent</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/recent/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/recent/</guid>
-=======
-      <link>/tags/recent/</link>
-      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/recent/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>transmission biases</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/transmission-biases/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/transmission-biases/</guid>
-=======
-      <link>/tags/transmission-biases/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>/tags/transmission-biases/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>academic publishing</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/academic-publishing/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/academic-publishing/</guid>
-=======
-      <link>/tags/academic-publishing/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/academic-publishing/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/data/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/data/</guid>
-=======
-      <link>/tags/data/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/data/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/software/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/software/</guid>
-=======
-      <link>/tags/software/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/software/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>pop culture</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/pop-culture/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/pop-culture/</guid>
-=======
-      <link>/tags/pop-culture/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/pop-culture/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>emotions</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/emotions/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/emotions/</guid>
-=======
-      <link>/tags/emotions/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/emotions/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>RStudio</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/rstudio/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/rstudio/</guid>
-=======
-      <link>/tags/rstudio/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/rstudio/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>evolutionary psychology</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/evolutionary-psychology/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/evolutionary-psychology/</guid>
-=======
-      <link>/tags/evolutionary-psychology/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/evolutionary-psychology/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>fiction</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/fiction/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/fiction/</guid>
-=======
-      <link>/tags/fiction/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/fiction/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>dataset</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/dataset/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/dataset/</guid>
-=======
-      <link>/tags/dataset/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/dataset/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>experiment</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/experiment/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/experiment/</guid>
-=======
-      <link>/tags/experiment/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/experiment/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>sleep</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/sleep/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/sleep/</guid>
-=======
-      <link>/tags/sleep/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>/tags/sleep/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>in Italian</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/in-italian/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/in-italian/</guid>
-=======
-      <link>/tags/in-italian/</link>
-      <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/tags/in-italian/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     
     <item>
       <title>ALife/robotics</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/tags/alife/robotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/alife/robotics/</guid>
-=======
-      <link>/tags/alife/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/alife/robotics/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description></description>
     </item>
     

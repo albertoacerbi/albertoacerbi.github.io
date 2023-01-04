@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>misinformation | Alberto Acerbi</title>
-<<<<<<< HEAD
     <link>https://acerbialberto.com/tags/misinformation/</link>
       <atom:link href="https://acerbialberto.com/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
     <description>misinformation</description>
@@ -11,29 +10,13 @@
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>misinformation</title>
       <link>https://acerbialberto.com/tags/misinformation/</link>
-=======
-    <link>/tags/misinformation/</link>
-      <atom:link href="/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
-    <description>misinformation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>misinformation</title>
-      <link>/tags/misinformation/</link>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
     </image>
     
     <item>
       <title>Misinformation Is a Threat Because (Other) People are Gullible</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_misinfo_third_person/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_misinfo_third_person/</guid>
-=======
-      <link>/publication/preprint_misinfo_third_person/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_misinfo_third_person/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -46,15 +29,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Is fighting fake news a red herring?</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/post/2022_fake_news/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/post/2022_fake_news/</guid>
-=======
-      <link>/post/2022_fake_news/</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/post/2022_fake_news/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Fake news spreading on social media is often considered the cause of all bad things happened in the last years. From &lt;a href=&#34;https://www.independent.co.uk/voices/michael-gove-boris-johnson-brexit-eurosceptic-press-theresa-may-a7533806.html&#34;&gt;Brexit&lt;/a&gt; to the &lt;a href=&#34;https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/&#34;&gt;election of Trump&lt;/a&gt;, and later to &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642&#34;&gt;covid anti-vaxx sentiments&lt;/a&gt;, examples are not lacking. Of course, &amp;ldquo;bad&amp;rdquo; depends on your point of view, but also vaccines and lockdown &lt;em&gt;support&lt;/em&gt; have been considered a product of &lt;a href=&#34;https://open.spotify.com/episode/3SCsueX2bZdbEzRtKOCEyT&#34;&gt;mass formation psychosis&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am &lt;a href=&#34;https://acerbialberto.wordpress.com/2016/08/16/did-technology-disrupt-the-truth-probably-not/&#34;&gt;long-time sceptical&lt;/a&gt; of this line of reasoning. From a &lt;a href=&#34;https://global.oup.com/academic/product/how-traditions-live-and-die-9780190210502?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;cognitive&lt;/a&gt; and &lt;a href=&#34;https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday&#34;&gt;evolutionary&lt;/a&gt; perspective on &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;cultural transmission&lt;/a&gt;, it makes sense to think to humans not as overly gullible individuals, but as wary social learners, that use relatively sophisticated strategies to decide whether to accept social information or not. In fact, recent empirical studies &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0052&#34;&gt;show&lt;/a&gt; that apparently we do not use social information enough, even when it would be advantageous. You can replace to the stereotype of gullible individuals the one of stubborn agents: the problem seems to be not that we are too easy to influence, but that we do not change our mind when we should.&lt;/p&gt;
@@ -69,15 +46,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Research note: Fighting misinformation or fighting for information?</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2022_hks_misinfo/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2022_hks_misinfo/</guid>
-=======
-      <link>/publication/2022_hks_misinfo/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_hks_misinfo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -90,15 +61,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Misinformation on Misinformation: Conceptual and Methodological Challenges</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_misinfo_on_misinfo/</guid>
-=======
-      <link>/publication/preprint_misinfo_on_misinfo/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_misinfo_on_misinfo/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -111,15 +76,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/preprint_voter_fraud/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/preprint_voter_fraud/</guid>
-=======
-      <link>/publication/preprint_voter_fraud/</link>
-      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint_voter_fraud/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -132,15 +91,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution in the digital age</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_oup/</guid>
-=======
-      <link>/publication/2019_oup/</link>
-      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_oup/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>&lt;hr&gt;
 &lt;p&gt;Book Club at &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/&#34;&gt;cognitionandculture.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;International Cognition and Culture Institute&lt;/em&gt; has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.&lt;/p&gt;
@@ -209,19 +162,11 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cognitive attraction and online misinformation</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2019_pal_comm_a/</link>
       <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2019_pal_comm_a/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;https://acerbialberto.com/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
-=======
-      <link>/publication/2019_pal_comm_a/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_pal_comm_a/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;I wrote a presentation of the research behind the paper in &lt;a href=&#34;/post/2019_morgue/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt;
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
 &lt;p&gt;An &lt;a href=&#34;https://www.cicap.org/n/articolo.php?id=278920&#34;&gt;article&lt;/a&gt; (in Italian) summarising the paper.&lt;/p&gt;
 &lt;p&gt;Another popular &lt;a href=&#34;https://www.lepoint.fr/phebe/phebe-les-vraies-raisons-du-succes-des-infox-09-09-2019-2334367_3590.php&#34;&gt;article&lt;/a&gt; (in French).&lt;/p&gt;
 
@@ -236,15 +181,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>A cultural evolution approach to digital media</title>
-<<<<<<< HEAD
       <link>https://acerbialberto.com/publication/2016_fhn/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/publication/2016_fhn/</guid>
-=======
-      <link>/publication/2016_fhn/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_fhn/</guid>
->>>>>>> 13c6f5d2904fb25956bb85b4643c352e64cf9372
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
