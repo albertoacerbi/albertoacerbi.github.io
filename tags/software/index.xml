@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | Alberto Acerbi</title>
+    <link>/tags/software/</link>
+      <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>software</title>
+      <link>/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to B-data</title>
+      <link>/post/2020_bdata/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020_bdata/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A short blog post to present a little project I am working on within the &lt;a href=&#34;https://www.brunel.ac.uk/psychology&#34;&gt;Psychology Division&lt;/a&gt; at Brunel University. &lt;a href=&#34;https://www.brunel.ac.uk/psychology/research-and-phd-programmes/Collection-of-resources&#34;&gt;B-data&lt;/a&gt; is a collection of resources for finding and processing online behavioural data (that is the &lt;em&gt;B&lt;/em&gt; in the name&amp;hellip;), which may be interesting for people working in psychology and cultural evolution.&lt;/p&gt;
+&lt;p&gt;As explained in the page:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B-data is a curated collection of resources for working with online behavioural data. In recent years, there has been an enormous growth of freely available datasets. In parallel, computational resources and tools to process and analyse them have become more broadly accessible. Lastly, working on pre-existent data can be an important resource in situations where collecting new data may be problematic, for example, due to contemporary COVID 19-related restrictions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The collection aims to provide not only links to datasets of psychological interest, but a more comprehensive perspective on working with online data, including software, examples of previous researches, or pointers to tools for extracting your data from webpages and social media. It will be hopefully useful for research, student projects, and teaching.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Finally, the number of possible datasets and software out there is enormous. The collection tries to strike a balance between the standard choices and resources linked to more specific topics, and cannot be in any way exhaustive. If you have a niche interest you would probably not find here a datasets, but it should be, at least, a good place to start exploring.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am still working on it, but there should be enough material to be hopefully useful for other people. And, of course, feedback and suggestions are more than welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RStudio on Amazon Web Services</title>
+      <link>/post/2019_aws_rstudio/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019_aws_rstudio/</guid>
+      <description>&lt;p&gt;Here a situation that may have occurred to some of you: your R script (a model analysing a big dataset, a simulation where you test many parameter combinations) needs hours to run. If you are lucky, you may have access to a cluster, or a remote computer, where you can run your script. All sorted. Sometimes - as it happens to me now, running &lt;a href=&#34;https://github.com/albertoacerbi/oranzees&#34;&gt;this&lt;/a&gt; individual-based model - you do not have this option. However, I just found out that launching your &lt;a href=&#34;https://www.rstudio.com&#34;&gt;RStudio&lt;/a&gt; script on Amazon Web Service (&lt;a href=&#34;https://aws.amazon.com&#34;&gt;AWS&lt;/a&gt;) is quite easy (and it is free).&lt;/p&gt;
+&lt;p&gt;As the information needed is scattered on the web, I put together a short tutorial. If you do not trust me, most material comes from &lt;a href=&#34;http://www.louisaslett.com/RStudio_AMI/&#34;&gt;here&lt;/a&gt;, but it is not  explained step-by-step, some information are possibly not relevant for a non-expert (as myself) and, mostly, the AWS interface has been changed from when the page was written. So, follow this short instructions, and you can close your laptop and have your script running for you somewhere else!&lt;/p&gt;
+&lt;h2 id=&#34;step-by-step-tutorial&#34;&gt;Step-by-step tutorial&lt;/h2&gt;
+&lt;h5 id=&#34;1-create-an-aws-account&#34;&gt;(1) Create an AWS account&lt;/h5&gt;
+&lt;p&gt;First of all, we need an AWS account. Amazon Web Service &amp;ldquo;provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered pay-as-you-go basis&amp;rdquo;. However, some products - including the one we will use - are free. Let&amp;rsquo;s go to &lt;a href=&#34;https://aws.amazon.com/&#34;&gt;the AWS webpage&lt;/a&gt; and create the account. It asks us some personal data, including the address and, annoyingly, a credit card number, in case we use products that are not free, or exceed the usage limits. (In any case, Amazon probably already knows our credit card number.)&lt;/p&gt;
+&lt;h5 id=&#34;2-launch-the-ami&#34;&gt;(2) Launch the AMI&lt;/h5&gt;
+&lt;p&gt;Now we want to run our script in the Amazon cloud. Ideally, we would like to run it on a (virtual) computer with RStudio installed. Luckily, someone already did this. Go to &lt;a href=&#34;http://www.louisaslett.com/RStudio_AMI/&#34;&gt;this&lt;/a&gt; webpage and choose one of the &lt;em&gt;AMI&lt;/em&gt; on the right of the page, according to the geographic location (in my case: EU West, London).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Amazon_Machine_Image&#34;&gt;Here&lt;/a&gt; is the Wikipedia page about AMI (Amazon Machine Image) if you want to know more, but you do not need to.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./01.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;3-choose-the-instance&#34;&gt;(3) Choose the instance&lt;/h5&gt;
+&lt;p&gt;Now we landed on the AWS page of the AMI we choose. The &amp;ldquo;Free Tier&amp;rdquo; instance is already selected, so we do not have to do anything.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./02.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;4-configure-the-security&#34;&gt;(4) Configure the security&lt;/h5&gt;
+&lt;p&gt;To access to Rstudio in the cloud with our browser we need to configure the security in the right way. Thus, before launching the instance, we need to go on the tab 6 (&amp;ldquo;Configure Security Group&amp;rdquo;), and select &amp;ldquo;HTTP&amp;rdquo; from the drop-down menu.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./03.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;5-review-and-launch&#34;&gt;(5) Review and launch&lt;/h5&gt;
+&lt;p&gt;We click on &amp;ldquo;Review and Launch&amp;rdquo; and we land on this page. Check that the &amp;ldquo;AMI details&amp;rdquo; are correct and then click &amp;ldquo;Launch&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./04.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;6-select-the-key-pair&#34;&gt;(6) Select the key pair&lt;/h5&gt;
+&lt;p&gt;Before launching the instance, we are asked to select a key pair. From the drop-down menu we choose &amp;ldquo;Proceed without a key pair&amp;rdquo;, and check the box below. Now we can click &amp;ldquo;Launch Instances&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./05.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;7-the-instance-is-launched&#34;&gt;(7) The instance is launched!&lt;/h5&gt;
+&lt;p&gt;All good. Click on the ID of the instance (it will be different from the one shown here), to access it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./06.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;8-connecting-to-rstudio&#34;&gt;(8) Connecting to RStudio&lt;/h5&gt;
+&lt;p&gt;Here is the console of our instance. After some time, the &amp;ldquo;Instance State&amp;rdquo; will be on &amp;ldquo;running&amp;rdquo;. We need to copy the Public DNS, and paste it in the address bar of another page our browser to access our instance of RStudio.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./07.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;9-starting-rstudio&#34;&gt;(9) Starting RStudio&lt;/h5&gt;
+&lt;p&gt;After a while this page should appear (if not, we need to wait a bit an retry, it may need a few minutes). The username is &amp;ldquo;rstudio&amp;rdquo;, and the password is our &amp;ldquo;Instance ID&amp;rdquo; (see the previous screenshot, on the left side of the Public DNS).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./08.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;10-virtual-rstudio&#34;&gt;(10) Virtual RStudio&lt;/h5&gt;
+&lt;p&gt;If all went well, we should see the familiar screen below. There is a &lt;strong&gt;Welcome.R&lt;/strong&gt; script. There are two things we should do (which are well explained in the script). First, it is advisable to change our password, from the &amp;ldquo;Instance ID&amp;rdquo; to something else of our choice. To do this, we first load the package included (&lt;code&gt;library(&amp;quot;RStudioAMI&amp;quot;)&lt;/code&gt;), and use the function &lt;code&gt;passwd()&lt;/code&gt;, which asks for old and new password. The second thing is that we can link our Dropbox so that we can load directly our script, using the function &lt;code&gt;linkDropbox()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./09.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;11-authorising-dropbox&#34;&gt;(11) Authorising Dropbox&lt;/h5&gt;
+&lt;p&gt;After few seconds, a message on the RStudio console (&amp;ldquo;Please visit the following URL in your browser now to link the server to your Dropbox account:&amp;quot;) will prompt us to authorise the cloud computer to connect to our Dropbox, landing on this page. We need to click on &amp;ldquo;Connect&amp;rdquo;. (We will also receive a mail from Dropbox asking to confirm.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./10.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;12-excluding-folders-from-dropbox-sync&#34;&gt;(12) Excluding folders from Dropbox sync&lt;/h5&gt;
+&lt;p&gt;At this point, a &amp;ldquo;Dropbox&amp;rdquo; folder appears in the &amp;ldquo;Files&amp;rdquo; tab of RStudio. We do not want to sync &lt;em&gt;all&lt;/em&gt; our Dropbox folder in the cloud. When our Dropbox folders start to appear in RStudio, we can use the function &lt;code&gt;excludeSyncDropbox(&amp;quot;*&amp;quot;)&lt;/code&gt; to exclude all files to be synced.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./11.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;13-syncing-what-we-need&#34;&gt;(13) Syncing what we need&lt;/h5&gt;
+&lt;p&gt;Imagine the script we need to run is called &lt;strong&gt;scriptThatRunsForHours.R&lt;/strong&gt;. A good idea is to create a folder in our dropbox - let&amp;rsquo;s call it &amp;ldquo;AWS_RStudio&amp;rdquo; and put the script in that folder. Now we can ask to synchronise only this folder, using the function &lt;code&gt;includeSyncDropbox(&amp;quot;AWS_RStudio&amp;quot;)&lt;/code&gt;. Now we can open our script as we would do in our local RStudio and do whatever we need to do with it, including running it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./12.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;14-going-back-the-script&#34;&gt;(14) Going back the script&lt;/h5&gt;
+&lt;p&gt;When the script runs, we can close our browser, and just forget about it. To go back to our instance, we go again on the AWS webpage, we login to our account, and we click the EC2 service.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./13.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We should have one instance running. Clicking on it, we are back to the instance console (see point 8), from where, following again points 8 and 9, we go again on our virtual RStudio.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./14.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;15-terminate-the-instance&#34;&gt;(15) Terminate the instance&lt;/h5&gt;
+&lt;p&gt;When the script is finished, and if we do not have anything else to run, from the instance console we can &amp;ldquo;terminate&amp;rdquo; the instance, as shown below. All done!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./15.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;limitations&#34;&gt;Limitations&lt;/h2&gt;
+&lt;p&gt;This quick tutorial is intended as a very basic shortcut to run RStudio on AWS. The pros are that it works, that it should have you run a R script in a handful of minutes and that it does not require any technical knowledge. On the other hand, there are some obvious limitations (all suggestions are more than welcome!):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I have not been able to write output files on my local computer. While the modifications of the scripts I made in the instance are saved on my Dropbox, the output files, produced with &lt;code&gt;write_csv(&amp;quot;myLongScriptOutput.csv&amp;quot;)&lt;/code&gt; are not. They appear in the &amp;ldquo;Files&amp;rdquo; tab in the virtual RStudio and I manually export them from there to my computer (&amp;ldquo;More&amp;gt;Export&amp;rdquo;). This is not very elegant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The virtual RStudio comes with some packages pre-installed. In particular, the &amp;ldquo;tidyverse&amp;rdquo; package, which is the only one I needed, is there. I did not try to install any other package, so I do not know whether this will work straightforwardly or not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The most annoying aspect is that my script runs &lt;em&gt;slower&lt;/em&gt; in the cloud that on my laptop! (Around twice slower.) This is probably due to the fact that I am using a &amp;ldquo;Free Tier&amp;rdquo; instance, so I would need to pay for more computational power. So, this is a viable option if you are not exactly in a rush, unless someone finds a solution to this.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finally, I just scratched the surface of what one can do (again the goal was to provide a fast and easy solution). I do not have idea of how the majority of the options present in the instance console work, and I did not mention few for which I have some idea. (For example, how to monitor your script, or how to pair your instance with a ssh key so to access it directly from terminal, see point 6).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;As usual, comments and feedback welcome, and happy to know about better solutions!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
