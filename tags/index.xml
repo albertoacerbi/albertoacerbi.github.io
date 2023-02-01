@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://acerbialberto.com/tags/</link>
     </image>
+    
+    <item>
+      <title>digital media</title>
+      <link>https://acerbialberto.com/tags/digital-media/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misinformation</title>
+      <link>https://acerbialberto.com/tags/misinformation/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/misinformation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cultural attraction</title>
@@ -57,22 +73,6 @@
       <link>https://acerbialberto.com/tags/conservation/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/tags/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital media</title>
-      <link>https://acerbialberto.com/tags/digital-media/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>misinformation</title>
-      <link>https://acerbialberto.com/tags/misinformation/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/misinformation/</guid>
       <description></description>
     </item>
     
