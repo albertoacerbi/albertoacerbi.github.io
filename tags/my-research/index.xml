@@ -2,21 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>my research | Alberto Acerbi</title>
-    <link>https://acerbialberto.com/tags/my-research/</link>
-      <atom:link href="https://acerbialberto.com/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/my-research/</link>
+      <atom:link href="/tags/my-research/index.xml" rel="self" type="application/rss+xml" />
     <description>my research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://acerbialberto.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>my research</title>
-      <link>https://acerbialberto.com/tags/my-research/</link>
+      <link>/tags/my-research/</link>
     </image>
     
     <item>
+      <title>Why too much focus on online misinformation is a problem</title>
+      <link>/post/2023_focus_misinfo/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/post/2023_focus_misinfo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.gif&#34; alt=&#34;gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Together with &lt;a href=&#34;https://sites.google.com/view/sacha-altay/home&#34;&gt;Sacha Altay&lt;/a&gt; and &lt;a href=&#34;https://manonberriche.github.io&#34;&gt;Manon Berriche&lt;/a&gt;, we just published a new article in &lt;em&gt;Social Media + Society&lt;/em&gt;: &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/20563051221150412&#34;&gt;Misinformation on Misinformation: Conceptual and Methodological Challenges&lt;/a&gt;. The article puts together, in an hopefully coherent framework, a number of criticisms to current research on online misinformation that we discussed and developed in a more informal way in the past (several) years. If you know our research, it may not come as a surprise that we tend to be wary of a scaremongering approach to online misinformation, proposing instead that there may be nothing particularly surprising in the (limited) current spread of misinformation and that, if anything, misinformation is not much of a problem by itself, but a symptom of more deep, and important, societal problems.&lt;/p&gt;
+&lt;p&gt;Now, these ideas are quite controversial today, but this is not what I want to explore in this short post: you can read the article, which is exactly about that and it is written for a - relatively - large audience. In want to focus on another aspect. I had the impression that, for some people at least, by minimising the danger of misinformation, we are siding with the &amp;ldquo;bad guys&amp;rdquo;. These bad guys being either big social media companies or vaguely right-wingish figures, which claim that the fight against misinformation is the way the &amp;ldquo;establishment&amp;rdquo; suppresses dissenting voices (&lt;a href=&#34;https://goofynomics.blogspot.com/2023/02/disinformare-sulla-disinformazione.html&#34;&gt;here&lt;/a&gt; an Italian example of this).&lt;/p&gt;
+&lt;p&gt;I am unsuccessful enough as a public persona to not be too worried about being associated to the bad guys, but I think it is quite misguided. First, downplaying the importance of online misinformation is hardly playing into big social media companies&amp;rsquo; hands. On the contrary, the continuous attention to online misinformation provides both an analogous continuous attention to the activity of social media companies and support to the (I think wrong) idea that what happens on social media has a determinant influence on seemingly any event. If you are Elon Musk, you would certainly prefers people thinking that Twitter can change election results or even the course of a pandemic than thinking that it does not matter that much.&lt;/p&gt;
+&lt;p&gt;One of my all-time favourite here is a Economist&amp;rsquo;s &lt;a href=&#34;https://www.economist.com/prospero/2019/07/24/the-great-hack-is-a-misinformed-documentary-about-misinformation&#34;&gt;review&lt;/a&gt; of &amp;ldquo;The Great Hack&amp;rdquo;, a documentary about Cambridge Analytica: &amp;ldquo;So credulous is “The Great Hack” that if Cambridge Analytica had not shut down, its bosses would be using the movie as a testimonial&amp;rdquo;. Or, let me quote from &lt;a href=&#34;https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/&#34;&gt;this&lt;/a&gt; excellent article:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ironically, to the extent that this work creates undue alarm about disinformation, it supports Facebook’s sales pitch. What could be more appealing to an advertiser, after all, than a machine that can persuade anyone of anything? This understanding benefits Facebook, which spreads more bad information, which creates more alarm. Legacy outlets with usefully prestigious brands are taken on board as trusted partners, to determine when the levels of contamination in the information ecosystem (from which they have magically detached themselves) get too high. For the old media institutions, it’s a bid for relevance, a form of self-preservation. For the tech platforms, it’s a superficial strategy to avoid deeper questions. A trusted disinformation field is, in this sense, a very useful thing for Mark Zuckerberg.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This quote also hints to another important point: how the focus on misinformation may be a &amp;ldquo;superficial strategy to avoid deeper questions&amp;rdquo;. We do not have good support for the idea that misinformation &lt;em&gt;causes&lt;/em&gt; bad outcomes outside of social media. Really, we do not (you can read much more about this in the &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/20563051221150412&#34;&gt;paper&lt;/a&gt;). &lt;em&gt;Assuming&lt;/em&gt; that it does, when what we want to assess are exactly the effect of misinformation, is putting the cart before the horse. In a world with unlimited resources this could not be a problem. Maybe (maybe) zero misinformation is better than some misinformation. However, we do not live a world with unlimited resources. When people claim that, say, to increase vaccinations we need to fight misinformation, they are using time - and, mostly, a lot of resources - assuming that misinformation causes people not vaccinating themselves. But if that is not the case, we are wasting time, and a lot of resources. More, we are not considering the importance of deeper issues, focusing our efforts on dubious technological fixes. Perhaps, in the case of vaccination, we should work on the reasons behind the luck of trust in science, institutions, reliable news sources, and so on. And, unfortunately, these reasons may have even deeper social, economical, and cultural causes, but, hey, &amp;ldquo;fake news&amp;rdquo;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unxeroxing culture</title>
-      <link>https://acerbialberto.com/post/2023_unxeroxing/</link>
+      <link>/post/2023_unxeroxing/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2023_unxeroxing/</guid>
+      <guid>/post/2023_unxeroxing/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Believe it or not, this post is more than three years in the making (I can prove it with a talk in Stockholm, &lt;a href=&#34;https://acerbialberto.com/talk/2019_stockholm/&#34;&gt;dated december 2019&lt;/a&gt;, where I was starting to put together the argument), but, as academic publishing goes, the three papers that were supposed to be part of it are only out now, so here it is. The topic is hardly new, in &lt;a href=&#34;http://www.dan.sperber.fr/wp-content/uploads/1991_atran_learning-without-teaching-its-place-in-culture.pdf&#34;&gt;general&lt;/a&gt; and for me, and it is a classic in the so-called Paris school of cultural evolution - in fact, I may have stolen the xerox analogy from Olivier Morin&amp;rsquo;s &lt;a href=&#34;https://global.oup.com/academic/product/how-traditions-live-and-die-9780190210502?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;book&lt;/a&gt; - but here is my version. (Maybe the last one?)&lt;/p&gt;
 &lt;p&gt;There is an apparent paradox: on one side, humans are clearly cultural animals. Everything we see, do, use, results from accumulated knowledge that we could not re-invent by ourselves. Vaccines and electric cars, sure, but also kinship systems and lasagne. Nothing controversial here. On the other side, however (here the controversial part), humans do not seem to copy others that much. We rarely blindly copy others&amp;rsquo; actions and beliefs in the details: in general, we reconstruct them accordingly to our previous beliefs and interests. Rich domain-specific shared knowledge influences what and how we learn from others. Finally, experiments show that, even when we should - and could easily - copy from others, we do it less than what would be optimal (more on this below). How can we reconcile these two observations? In general, cultural evolutionists tend to minimise the importance of the second observation: we copy &lt;em&gt;enough&lt;/em&gt; to keep the machinery on, and that is the important part. Or, according to some readings, evolutionary psychologists tend to to minimise the first bit: many - or more that one would think - &amp;ldquo;cultural&amp;rdquo; items and behaviours are ultimately product of evolutionary hard-coded knowledge that interacts with variable environmental inputs. Another option to solve the paradox, that I, among many others, favour, is that interactions other than copying are crucial to produce and stabilise culture.&lt;/p&gt;
@@ -29,9 +46,9 @@
     
     <item>
       <title>From storytelling to Facebook</title>
-      <link>https://acerbialberto.com/post/2022_from_storytelling/</link>
+      <link>/post/2022_from_storytelling/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2022_from_storytelling/</guid>
+      <guid>/post/2022_from_storytelling/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We are starting to have some suggestion about what kind of content is advantaged on social media, all other things being equal. Good candidates are &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00057-7&#34;&gt;negative&lt;/a&gt; &lt;a href=&#34;https://link.springer.com/article/10.1007/s42761-021-00046-w&#34;&gt;content&lt;/a&gt;, generally &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.1618923114?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34;&gt;emotional&lt;/a&gt; content, or &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.2024292118&#34;&gt;out-group&lt;/a&gt; &lt;a href=&#34;https://www.cambridge.org/core/journals/american-political-science-review/article/abs/partisan-polarization-is-the-primary-psychological-motivation-behind-political-fake-news-sharing-on-twitter/3F7D2098CD87AE5501F7AD4A7FA83602&#34;&gt;detraction&lt;/a&gt; (link to some papers if you click on the contents).&lt;/p&gt;
 &lt;p&gt;These effects, albeit generally quite small, are interesting, and they are consistent with the broadly accepted narrative that social media have a detrimental influence on human communication and social interactions. This may definitely be true, but what I believe is an important missing piece is a contrast with other forms of communication and social interactions.&lt;/p&gt;
@@ -54,9 +71,9 @@
     
     <item>
       <title>A continuum of fidelity and selection</title>
-      <link>https://acerbialberto.com/post/2022_continuum/</link>
+      <link>/post/2022_continuum/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2022_continuum/</guid>
+      <guid>/post/2022_continuum/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What is a carbonara? A recent YouGov &lt;a href=&#34;https://yougov.co.uk/topics/international/articles-reports/2022/02/03/italian-food-crimes?utm_source=twitter&amp;amp;utm_medium=website_article&amp;amp;utm_campaign=italian_food_crimes&#34;&gt;survey&lt;/a&gt; suggests that the majority of Italians find unacceptable to include cream in a carbonara sauce. But what about meat? Does it have to be guanciale or smoked pancetta is alright? And the cheese? I often use parmigiano instead of pecorino, and I do not feel much anxious about this modification. The cultural trait &amp;ldquo;carbonara&amp;rdquo; has fuzzy bundaries, still some similarity between various instantiations needs to exist to refer to them as &amp;ldquo;carbonara&amp;rdquo;. (We prepare, at home, a pasta with pancetta, cream, and onion soffritto: it is delicious, but we call it &amp;ldquo;french carbonara&amp;rdquo;, i.e., it is another, different, cultural trait.)&lt;/p&gt;
 &lt;p&gt;This property is fundamental for studying culture. A prerequisite for culture to exist is that there is a sufficient number of instantiations that are similar enough to justify the existence of &amp;ldquo;cultural traits&amp;rdquo; (another one is that there is some role of social transmission of information in how these instantiations are brough about). How does this (relative) similarity is maintained? In cultural evolution, the usual answer is: faithful copying and selection. According to this view, we have particular abilities that make us able to copy with precision from others, and we use a suite of heuristics (often referred to as &lt;a href=&#34;https://link.springer.com/article/10.3758/BF03196002&#34;&gt;social learning strategies&lt;/a&gt;) that make us choose preferentially some individuals to copy from, or some traits. This view has been very influential and productive, and for good reasons! Humans &lt;em&gt;are&lt;/em&gt; able to copy others faithfully and humans do use heuristics that select preferentially some traits to copy with respect to others. In addition, this description has the great appeal of making the processes of cultural transmission and evolution broadly similar to the processes of genetic transmission and evolution, with all the interesting advantages coming from here.&lt;/p&gt;
@@ -74,9 +91,9 @@
     
     <item>
       <title>Is fighting fake news a red herring?</title>
-      <link>https://acerbialberto.com/post/2022_fake_news/</link>
+      <link>/post/2022_fake_news/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2022_fake_news/</guid>
+      <guid>/post/2022_fake_news/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Fake news spreading on social media is often considered the cause of all bad things happened in the last years. From &lt;a href=&#34;https://www.independent.co.uk/voices/michael-gove-boris-johnson-brexit-eurosceptic-press-theresa-may-a7533806.html&#34;&gt;Brexit&lt;/a&gt; to the &lt;a href=&#34;https://www.washingtonpost.com/news/the-fix/wp/2018/04/03/a-new-study-suggests-fake-news-might-have-won-donald-trump-the-2016-election/&#34;&gt;election of Trump&lt;/a&gt;, and later to &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642&#34;&gt;covid anti-vaxx sentiments&lt;/a&gt;, examples are not lacking. Of course, &amp;ldquo;bad&amp;rdquo; depends on your point of view, but also vaccines and lockdown &lt;em&gt;support&lt;/em&gt; have been considered a product of &lt;a href=&#34;https://open.spotify.com/episode/3SCsueX2bZdbEzRtKOCEyT&#34;&gt;mass formation psychosis&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am &lt;a href=&#34;https://acerbialberto.wordpress.com/2016/08/16/did-technology-disrupt-the-truth-probably-not/&#34;&gt;long-time sceptical&lt;/a&gt; of this line of reasoning. From a &lt;a href=&#34;https://global.oup.com/academic/product/how-traditions-live-and-die-9780190210502?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;cognitive&lt;/a&gt; and &lt;a href=&#34;https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday&#34;&gt;evolutionary&lt;/a&gt; perspective on &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;cultural transmission&lt;/a&gt;, it makes sense to think to humans not as overly gullible individuals, but as wary social learners, that use relatively sophisticated strategies to decide whether to accept social information or not. In fact, recent empirical studies &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0052&#34;&gt;show&lt;/a&gt; that apparently we do not use social information enough, even when it would be advantageous. You can replace to the stereotype of gullible individuals the one of stubborn agents: the problem seems to be not that we are too easy to influence, but that we do not change our mind when we should.&lt;/p&gt;
@@ -91,9 +108,9 @@
     
     <item>
       <title>Won&#39;t somebody please think of the children!</title>
-      <link>https://acerbialberto.com/post/2021_facebook/</link>
+      <link>/post/2021_facebook/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2021_facebook/</guid>
+      <guid>/post/2021_facebook/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;With unsurprising regularity, new &amp;ldquo;scandals&amp;rdquo; or &amp;ldquo;shocking&amp;rdquo; information about social media appear in the press, and, of course, in social media themselves. Lately, Facebook seems to be the main target. (Incidentally, why Facebook? My hunch is that academics and journalists, which are the main producers and consumers of this information, tend to not be Facebook users, so it feels less dissonant to think it is the real baddy. If only &lt;em&gt;the others&lt;/em&gt; would understand it! &amp;hellip;Anyway, this is not very important for the rest of the post.)&lt;/p&gt;
 &lt;p&gt;First, around one month ago, the Washington Post &lt;a href=&#34;https://twitter.com/washingtonpost/status/1433749542474747910&#34;&gt;reported&lt;/a&gt; that &amp;ldquo;Misinformation on Facebook got six times more clicks than factual news during the 2020 election&amp;rdquo;. The news was, of course, a hit. However, the &amp;ldquo;six times&amp;rdquo; figure seems at odds with much recent literature that shows that, when considered together with the total information present, the amount of misinformation circulating in social media &lt;a href=&#34;https://www.science.org/doi/abs/10.1126/science.aau2706&#34;&gt;is&lt;/a&gt; &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aay3539&#34;&gt;actually&lt;/a&gt; &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aau4586&#34;&gt;modest&lt;/a&gt;, something like the 5% of the total information (often less). For this reason, it would have been interesting to know how the &amp;ldquo;clicks&amp;rdquo; were actually calculated or what was exactly considered as &amp;ldquo;misinformation&amp;rdquo;. Unfortunately the study to which the Washington Post referred to was not out at the moment, and it is still, after one month, not available (not even in form of preprint, which is now relatively standard practice).&lt;/p&gt;
@@ -121,9 +138,9 @@
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-      <link>https://acerbialberto.com/post/2020_ibm_cultevo/</link>
+      <link>/post/2020_ibm_cultevo/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_ibm_cultevo/</guid>
+      <guid>/post/2020_ibm_cultevo/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the past, I have been asked by a few people where they could start if they wanted to learn how to do individual-based models (IBMs) of cultural evolution. I never had a good answer, so, together with &lt;a href=&#34;https://marcosmolla.com&#34;&gt;Marco Smolla&lt;/a&gt;, we discussed it would have been interesting to develop some material, in a form of a long tutorial, or a book (at that time, conferences were still in person&amp;hellip;). While doing some research, I quickly found that &lt;a href=&#34;https://marcosmolla.com&#34;&gt;Alex Mesoudi&lt;/a&gt; had already put together some basic R Markdown IBMs with the same goal, so we happily joined forces.&lt;/p&gt;
 &lt;p&gt;The result is &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/&#34;&gt;Individual-based model of cultural evolution. A step-by-step guide using R&lt;/a&gt;. The &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/introduction.html&#34;&gt;Introduction&lt;/a&gt; quickly explains the whys, whats, and hows of the book, and I would suggest to start from there if you are intersted. Some main points here:&lt;/p&gt;
@@ -153,9 +170,9 @@
     
     <item>
       <title>Covid misinformation on mainstream Italian media</title>
-      <link>https://acerbialberto.com/post/2020_covid_misinfo/</link>
+      <link>/post/2020_covid_misinfo/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_covid_misinfo/</guid>
+      <guid>/post/2020_covid_misinfo/</guid>
       <description>&lt;p&gt;You may have heard the we live in a post-truth era, that we are facing an infodemic or, even, a &lt;a href=&#34;https://science.sciencemag.org/content/370/6523/1395&#34;&gt;syndemic&lt;/a&gt;, the combination of &lt;em&gt;two&lt;/em&gt; epidemics, meaning that covid &amp;ldquo;emerged in an information ecosystem that helps misinformation and lies spread faster than scientific evidence, weakening our ability to respond to new threats&amp;rdquo;. Not only this is not true but, I believe, is also a dangerous narrative that makes us focus on the wrong problems instead of the real ones. Anyway, this is not a topic I can elaborate on here (hey, I wrote a &lt;a href=&#34;https://acerbialberto.com/publication/2019_oup/&#34;&gt;book&lt;/a&gt; - partly - about that!).&lt;/p&gt;
 &lt;p&gt;But, of course, &lt;em&gt;some&lt;/em&gt; misinformation does spread. Another aspect of these stale criticism is that, naturally, the culprit is social media. Luckily, many real experts of media have long recognised the contribution, or in fact the prominent role, that mainstream, traditional, media have in the current spread of misinformation. &lt;a href=&#34;https://twitter.com/rasmus_kleis&#34;&gt;Rasmus Kleis Nielsen&lt;/a&gt;, director of Reuters Institute at Oxford University, reports on Twitter several examples of mainstream media, or prominent political figures, spreading or originating false or misleading information: &lt;a href=&#34;https://twitter.com/search?q=Misinformation%20often%20comes%20from%20the%20top&amp;amp;src=typed_query&#34;&gt;Misinformation often comes from the top&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As an Italian living in UK, with part of my family living in Italy, I have been irritated by how the major Italian newspaper (for number of readers), &lt;a href=&#34;https://www.repubblica.it&#34;&gt;La Repubblica&lt;/a&gt;, covered the last days of news from UK. But I noticed the disservice before, so hang with me.&lt;/p&gt;
@@ -176,9 +193,9 @@
     
     <item>
       <title>Cultural evolution in the digital age book club</title>
-      <link>https://acerbialberto.com/post/2020_ceda_book_club/</link>
+      <link>/post/2020_ceda_book_club/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_ceda_book_club/</guid>
+      <guid>/post/2020_ceda_book_club/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Just a short post to advertise and bookmark the book club that &lt;a href=&#34;http://cognitionandculture.net&#34;&gt;cognitionandculture.net&lt;/a&gt; organised around &lt;em&gt;Cultural evolution in the digital age&lt;/em&gt; (&lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/cultural-evolution-in-the-digital-age-book-club/&#34;&gt;here&lt;/a&gt;). Every now and then, the people at the International Cognition &amp;amp; Culture Institute (ICCI) choose a book of culture-and-cognition interest and invite the author to write a short précis and various experts on the topic to write commentaries (see some previous examples &lt;a href=&#34;http://cognitionandculture.net/ebooks&#34;&gt;here&lt;/a&gt;).  All is followed by an open online discussion: for &lt;em&gt;Cultural evolution in the digital age&lt;/em&gt; it starts today and will last until the 12th of July.&lt;/p&gt;
 &lt;p&gt;The commentaries, by &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/are-humans-wary-learners/&#34;&gt;Alex Mesoudi&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/what-is-the-recipe/&#34;&gt;Sacha Altay&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/cultural-transmission-reinvention-and-progress/&#34;&gt;Olivier Morin&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/consuming-vs-sharing-information-online/&#34;&gt;Hugo Mercier&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/the-participatory-age/&#34;&gt;Mathieu Charbonneau&lt;/a&gt;, &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/the-mystery-of-production/&#34;&gt;Pascal Boyer&lt;/a&gt;, and &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/truth-is-not-always-the-point/&#34;&gt;Tiffany Morisseau&lt;/a&gt; are extremely insightful, and they should appeal to anybody interested in cultural evolution and especially in its application to contemporary online dynamics.&lt;/p&gt;
@@ -188,9 +205,9 @@
     
     <item>
       <title>Cultural evolution and networks</title>
-      <link>https://acerbialberto.com/post/2020_cultural_evolution_networks/</link>
+      <link>/post/2020_cultural_evolution_networks/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_cultural_evolution_networks/</guid>
+      <guid>/post/2020_cultural_evolution_networks/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.andrewbuskell.com&#34;&gt;Andrew Buskell&lt;/a&gt; just published in &lt;em&gt;Acta Biotheoretica&lt;/em&gt; an insightful combined &lt;a href=&#34;https://link.springer.com/article/10.1007/s10441-020-09384-x&#34;&gt;review&lt;/a&gt; of &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;Cultural evolution in the digital age&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/hugomercier/&#34;&gt;Hugo Mercier&lt;/a&gt;&amp;lsquo;s &lt;a href=&#34;https://sites.google.com/site/hugomercier/not-born-yesterday&#34;&gt;Not Born Yesterday&lt;/a&gt;. There are many things to appreciate in the review. First - but I may be biased here&amp;hellip; - it is a positive one. Andrew concludes by writing:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -207,9 +224,9 @@
     
     <item>
       <title>Sentiment analysis of song lyrics by genre</title>
-      <link>https://acerbialberto.com/post/2020_mxm_genres/</link>
+      <link>/post/2020_mxm_genres/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_mxm_genres/</guid>
+      <guid>/post/2020_mxm_genres/</guid>
       <description>&lt;p&gt;In a recent &lt;a href=&#34;https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-of-emotional-expression-in-50-years-of-song-lyrics/E6E64C02BDB0480DB13B8B6BB7DFF598/core-reader&#34;&gt;paper&lt;/a&gt; with &lt;a href=&#34;https://lottybrand.wordpress.com&#34;&gt;Lotty Brand&lt;/a&gt; and &lt;a href=&#34;http://alexmesoudi.com&#34;&gt;Alex Mesoudi&lt;/a&gt;, we documented how the lyrics of popular songs have become sadder in the last few decades. The proportion of words with positive emotional content has decreased and, on the contrary, the proportion of words with negative emotional content has increased, on average, from the 1960s to now. (If you are a reader of this blog you probably already know about all that - if not, see &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;this aeon piece&lt;/a&gt; for more about the research).&lt;/p&gt;
 &lt;p&gt;Several people have suggested that this could be mainly due to the fact that new - sadder or angrier - genres (for example &lt;a href=&#34;https://marginalrevolution.com/marginalrevolution/2020/02/pop-songs-are-getting-sadder-and-angrier.html&#34;&gt;hip-hop&lt;/a&gt;) have replaced the genres dominant fifty years ago. This is a sensible hypothesis. In one of the two datasets we used for the main analysis (indicated in the paper as &amp;ldquo;mxm&amp;rdquo; dataset), derived from the lyrics in the website &lt;a href=&#34;https://www.musixmatch.com&#34;&gt;musixmatch.com&lt;/a&gt;, songs are also tagged with their genre, so it was relatively straightforward to explore the contribution of each genre to the general trend. The R code and the outputs are available in a &lt;a href=&#34;https://github.com/albertoacerbi/mxm_genres_analysis&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;First of all, here the general trends for the &amp;ldquo;mxm&amp;rdquo; dataset. (If you are interested, we explain in the aeon piece linked above what the facts that these numbers are small and that the proportion of negative emotion-words is anyway always lower than the proportion of positive emotion-words mean for the importance of the trends.)&lt;/p&gt;
@@ -233,9 +250,9 @@
     
     <item>
       <title>Sentiment analysis of Child Ballads&#39; lyrics</title>
-      <link>https://acerbialberto.com/post/2020_child_ballads/</link>
+      <link>/post/2020_child_ballads/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_child_ballads/</guid>
+      <guid>/post/2020_child_ballads/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have recently published, together with &lt;a href=&#34;https://lottybrand.wordpress.com&#34;&gt;Lotty Brand&lt;/a&gt; and &lt;a href=&#34;http://alexmesoudi.com&#34;&gt;Alex Mesoudi&lt;/a&gt;, a paper studying the expression of emotions in the lyrics of the last 50 years of English-language pop songs - open access &lt;a href=&#34;https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-evolution-of-emotional-expression-in-50-years-of-song-lyrics/E6E64C02BDB0480DB13B8B6BB7DFF598/core-reader&#34;&gt;here&lt;/a&gt;. We try to explain two related empirical findings: the frequency of words with positive emotional content decreases and, on the contrary, the frequency of words with negative emotional content increases in song lyrics. (Both by roughly one third. If, for example, the average song in 1960s had 30 words associated with negative emotion, the average song in 2010s has 40, assuming that they have the same total number of words.) This is a specific aspect of a relatively well-known phenomenon, that has been measured in various ways: pop songs have become sadder in the last decades.&lt;/p&gt;
 &lt;p&gt;What we added in the paper is an attempt of explaining why this happened. We looked for cultural influences, such as upcoming artists copying the emotional tone from successful, or prestigious, artists of the previous years, but we did not find they were able to explain the pattern. We found, instead, that a general preference for songs with more negative lyrics, coupled with &amp;ldquo;unbiased transmission&amp;rdquo;, i.e. upcoming artists copying at random from the artists of the previous years, could explain it. Of course, upcoming artists do not &amp;ldquo;copy at random&amp;rdquo;: unbiased transmission stands for many unknown processes that cumulatively appear similar to genetic drift, where songs tend to &amp;ldquo;inherit&amp;rdquo; from one year to the other some of their features. The effect of unbiased transmission is important in our statistical model, but unbiased transmission is non-directional, so that a preference for negative lyrics, even if weak, can drive the process. We also wrote a popular piece about it in &lt;a href=&#34;https://aeon.co/ideas/why-are-pop-songs-getting-sadder-than-they-used-to-be&#34;&gt;aeon&lt;/a&gt;, where we explain more in detail all that.&lt;/p&gt;
@@ -250,9 +267,9 @@ It looks my hypothesis was wrong. The proportion of words associated to emotions
     
     <item>
       <title>A few thoughts on cultural attraction</title>
-      <link>https://acerbialberto.com/post/2020_cultural_attraction/</link>
+      <link>/post/2020_cultural_attraction/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2020_cultural_attraction/</guid>
+      <guid>/post/2020_cultural_attraction/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As I am finishing the work on the submission of a modelling paper about cultural attraction theory (the preprint, quite different from the current version, is &lt;a href=&#34;https://osf.io/vjcq3/&#34;&gt;here&lt;/a&gt;), I thought I could go back after a while to a darling of this blog. Writing down these few musings is mostly useful for me, but perhaps they can be interesting for the people that already know the diatribe - the post is hardly a crowd-pleaser.&lt;/p&gt;
 &lt;p&gt;First, my general position is more or less stable on what I wrote five (!) years ago together with Alex Mesoudi (&lt;a href=&#34;https://link.springer.com/article/10.1007/s10539-015-9490-2&#34;&gt;here&lt;/a&gt;, even if I have a different opinion on many specific points) and, more recently, in the first half of the &amp;ldquo;Transmitting and sharing&amp;rdquo; chapter of my &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;book&lt;/a&gt;. The points carried forward by cultural attraction theory are valuable and overlooked in much cultural evolution research, so it is important to pay attention to them. Convergent transformation can, as much as faithful copying, bring about cultural stability. Explaining the diffusion of a trait with &lt;em&gt;culture&lt;/em&gt; - a tendency to copy others faithfully - is to assume what requires itself an explanation. We copy the majority, the successful, the elders: until we do not. Individual and social learning are not two different processes, and, yes, I now think that culture &amp;ldquo;is a property, not a thing&amp;rdquo;.&lt;/p&gt;
@@ -267,9 +284,9 @@ It looks my hypothesis was wrong. The proportion of words associated to emotions
     
     <item>
       <title>Sichuan food and the transience of traditions</title>
-      <link>https://acerbialberto.com/post/2019_sichuan/</link>
+      <link>/post/2019_sichuan/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_sichuan/</guid>
+      <guid>/post/2019_sichuan/</guid>
       <description>&lt;p&gt;One of my secret passion (or not-so-secret, if you know me a bit) is cooking. Last weekend was devoted to the new edition of Fuchsia Dunlop&amp;rsquo;s &lt;a href=&#34;https://www.amazon.co.uk/Food-Sichuan-Fuchsia-Dunlop/dp/1324004835&#34;&gt;The Food of Sichuan&lt;/a&gt;, widely considered as one of the best western-accessible resource on the topic. If you want to know, I cooked &amp;lsquo;Strange Flavour&amp;rsquo; Bang Bang Chicken and Fish-Fragrant Aubergines. (Both will need much improvement&amp;mdash;for example I ended up burning the peanuts while deep-frying them&amp;hellip;&amp;mdash; so if I ever happen to offer to cook you Sichuan food, ask for my only piece of resistance so far, the classic Mapo Tofu.)&lt;/p&gt;
 &lt;p&gt;The book has a fairly good historical introduction, where a few things caught my eye. Sure, the cuisine of Sichuan is renowned for its variety, and for the ability to combine several ingredients to create distinctive flavour combinations, but at the end of the day many of us will appreciate it for the signature &amp;ldquo;hot-and-numbing&amp;rdquo; taste given by the combination of Sichuan pepper (in the picture below) and abundant serving of chillies.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
@@ -284,9 +301,9 @@ It looks my hypothesis was wrong. The proportion of words associated to emotions
     
     <item>
       <title>The ordeal simulation hypothesis</title>
-      <link>https://acerbialberto.com/post/2019_ordeal_simulation/</link>
+      <link>/post/2019_ordeal_simulation/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_ordeal_simulation/</guid>
+      <guid>/post/2019_ordeal_simulation/</guid>
       <description>&lt;p&gt;You have probably heard the adagio that “man bites dog”, and not “dog bites man”, makes for a good piece of news: unusual, exceptional, events are better stories than everyday occurrences. Hidden behind the surface, however, there is another message that seems so obvious we do not even think about it: both examples are negative events. “Dog wins the lottery” would probably be a good piece of news too, but it is not mentioned. That negative news – and possibly negative narratives in general – are more attractive than positive ones is a bit of a cliché, but it supported by much research.&lt;/p&gt;
 &lt;p&gt;An interesting case-study is false news. By definition, they do not need to describe real facts, so they can exploit our preferences in an almost unconstrained way. In a content analysis of a small sample of articles categorised as online misinformation, I found that &lt;a href=&#34;https://www.nature.com/articles/s41599-019-0224-y&#34;&gt;negative articles where around five times more numerous than positive articles&lt;/a&gt;. It is not just about news. English-language fiction became consistently more negative &lt;a href=&#34;http://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528&#34;&gt;in the last two centuries&lt;/a&gt;, and English-language song lyrics did the same &lt;a href=&#34;https://osf.io/preprints/socarxiv/3j6wx/&#34;&gt;in the last fifty years&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;And why, yet, this should be the case? There are many possible explanations: one is that the stories we tell each other are simulations. As much as pilots can exercise their flight skills in dangerous situations safe from risks in a simulator, the pleasure we experience when we enjoy narratives would be rooted in the possibility of exercise our skills in an analogous safe environment. The next time you are in the woods you should be suspicious of the wolf.&lt;/p&gt;
@@ -305,9 +322,9 @@ It looks my hypothesis was wrong. The proportion of words associated to emotions
     
     <item>
       <title>Morgue employee cremated by mistake while taking a nap</title>
-      <link>https://acerbialberto.com/post/2019_morgue/</link>
+      <link>/post/2019_morgue/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/post/2019_morgue/</guid>
+      <guid>/post/2019_morgue/</guid>
       <description>&lt;p&gt;Online misinformation, fake news, false news, hoaxes, you name it, has been blamed for almost everything bad happening in the last years, from the success of Trump to Brexit, from the election of Bolsonaro to the (relative) spread of the anti-vax movement. The scientific consensus on the prominence and on the effect of online misinformation, however, is, at best, mixed.&lt;/p&gt;
 &lt;p&gt;Some highly-publicised studies had supported the scaremongers showing, for example, that falsehood spread &lt;a href=&#34;http://science.sciencemag.org/content/359/6380/1146&#34;&gt;farther, faster, deeper, and more broadly than the truth&lt;/a&gt; or that &lt;a href=&#34;https://www.nature.com/articles/s41562-017-0132&#34;&gt;‘low-quality’ information is equally likely to go ‘viral’ than ‘hi-quality’ information because of our ‘limited attention’&lt;/a&gt; (notice however that the former study does not compare ‘falsehood’ with ‘truth’, but debunked rumours versus confirmed rumours, so that real news that nobody debunked, i.e. the majority of them, are not even considered, and the latter has been recently retracted).&lt;/p&gt;
 &lt;p&gt;Many other works, however, had painted a more nuanced image, showing that the production and the consumption of misinformation is &lt;a href=&#34;http://science.sciencemag.org/content/363/6425/374?fbclid=IwAR0ThyrRJk7feelo0SdkBr6obs3NIwjJgZt_E4QCCHYkfAva7Eo8A5A4VlI&#34;&gt;concentrated in a limited portion of social media users&lt;/a&gt;, that individuals that have already extreme political views &lt;a href=&#34;https://www.dartmouth.edu/~nyhan/fake-news-2016.pdf&#34;&gt;are more likely to be exposed to political misinformation&lt;/a&gt;, and that, in general, misinformation is &lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/jep.31.2.211&#34;&gt;unlikely to change people minds&lt;/a&gt;. And, simply, other studies have shown that the actual amount of online misinformation &lt;a href=&#34;http://advances.sciencemag.org/content/5/1/eaau4586&#34;&gt;is not that big&lt;/a&gt;.&lt;/p&gt;
