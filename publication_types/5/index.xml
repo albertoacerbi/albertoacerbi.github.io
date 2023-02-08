@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Alberto Acerbi</title>
-    <link>/publication_types/5/</link>
-      <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://acerbialberto.com/publication_types/5/</link>
+      <atom:link href="https://acerbialberto.com/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>5</title>
-      <link>/publication_types/5/</link>
+      <link>https://acerbialberto.com/publication_types/5/</link>
     </image>
     
     <item>
       <title>Individual-based models of cultural evolution. A step-by-step guide using R</title>
-      <link>/publication/2022_ibmcultevo/</link>
+      <link>https://acerbialberto.com/publication/2022_ibmcultevo/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022_ibmcultevo/</guid>
+      <guid>https://acerbialberto.com/publication/2022_ibmcultevo/</guid>
       <description>
 
 &lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
@@ -29,9 +29,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Cultural evolution in the digital age</title>
-      <link>/publication/2019_oup/</link>
+      <link>https://acerbialberto.com/publication/2019_oup/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_oup/</guid>
+      <guid>https://acerbialberto.com/publication/2019_oup/</guid>
       <description>&lt;hr&gt;
 &lt;p&gt;Book Club at &lt;a href=&#34;http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/&#34;&gt;cognitionandculture.net&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;International Cognition and Culture Institute&lt;/em&gt; has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.&lt;/p&gt;
@@ -100,9 +100,9 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
     
     <item>
       <title>Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia</title>
-      <link>/publication/ita_2009_umano/</link>
+      <link>https://acerbialberto.com/publication/ita_2009_umano/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/ita_2009_umano/</guid>
+      <guid>https://acerbialberto.com/publication/ita_2009_umano/</guid>
       <description></description>
     </item>
     
