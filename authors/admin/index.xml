@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/authors/admin/</link>
       <atom:link href="https://acerbialberto.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
       <link>https://acerbialberto.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Digital Culture</title>
+      <link>https://acerbialberto.com/publication/cp_2023_oxford_handbook/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/cp_2023_oxford_handbook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Misinformation on Misinformation: Conceptual and Methodological Challenges</title>
