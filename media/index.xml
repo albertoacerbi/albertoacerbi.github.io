@@ -5,12 +5,28 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>What the misinformation scare reveals about faith in democracy</title>
+      <link>https://acerbialberto.com/media/wapo_misinfo/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/wapo_misinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New research highlights the misinformation about misinformation research</title>
+      <link>https://acerbialberto.com/media/psypost_misinfo/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/psypost_misinfo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Se battre contre la désinformation ou pour l&#39;information?</title>

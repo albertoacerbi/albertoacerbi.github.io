@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/recent/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/media/wapo_misinfo/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/6/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,8 +68,8 @@
   </url>
   
   <url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+    <loc>https://acerbialberto.com/media/psypost_misinfo/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -320,16 +340,6 @@
   <url>
     <loc>https://acerbialberto.com/post/2022_fake_news/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/media/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/tags/recent/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
