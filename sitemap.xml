@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2023-04-28T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/talk/2023_siena/</loc>
+    <lastmod>2023-04-28T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acerbialberto.com/talk/</loc>
+    <lastmod>2023-04-28T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -165,11 +175,6 @@
   <url>
     <loc>https://acerbialberto.com/post/2023_unxeroxing/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acerbialberto.com/talk/</loc>
-    <lastmod>2022-12-15T14:00:00+00:00</lastmod>
   </url>
   
   <url>
