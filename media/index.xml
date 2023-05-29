@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>Misinformation alarmism taps into the tendency to view other people as gullible, study suggests</title>
+      <link>https://acerbialberto.com/media/psypost_misinfo_3person/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/psypost_misinfo_3person/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What the misinformation scare reveals about faith in democracy</title>
