@@ -32,10 +32,7 @@
     <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/conservation/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication_types/</loc>
@@ -50,10 +47,19 @@
     <loc>https://acerbialberto.com/publication/2023_adam_smith/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://acerbialberto.com/tags/text-mining/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/authors/alex-mesoudi/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/bethany-trapp/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/conservation/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/jakub-kryczka/</loc>
@@ -75,9 +81,6 @@
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication_types/6/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/cp_2023_oxford_handbook/</loc>
@@ -137,9 +140,6 @@
     <loc>https://acerbialberto.com/talk/2022_ecc/</loc>
     <lastmod>2022-11-27T18:10:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/text-mining/</loc>
-    <lastmod>2022-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/publication/2022_jbee/</loc>
     <lastmod>2022-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -194,9 +194,6 @@
     <loc>https://acerbialberto.com/talk/2022_iast/</loc>
     <lastmod>2022-05-04T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/digital-age/</loc>
-    <lastmod>2022-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/publication/2022_hn_chains/</loc>
     <lastmod>2022-05-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -207,6 +204,9 @@
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/big-questions/</loc>
+    <lastmod>2022-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/digital-age/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/post/2022_fake_news/</loc>
