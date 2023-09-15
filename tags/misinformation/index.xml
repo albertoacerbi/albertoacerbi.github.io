@@ -5,12 +5,27 @@
     <link>https://acerbialberto.com/tags/misinformation/</link>
       <atom:link href="https://acerbialberto.com/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
     <description>misinformation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>misinformation</title>
       <link>https://acerbialberto.com/tags/misinformation/</link>
     </image>
+    
+    <item>
+      <title>Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election</title>
+      <link>https://acerbialberto.com/publication/2023_voter_fraud/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/publication/2023_voter_fraud/</guid>
+      <description>
+
+&lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
+src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+
+&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;donut&#34; data-doi=&#34;10.1057/s41599-023-02106-x&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>People believe misinformation is a threat because they assume others are gullible</title>
@@ -70,21 +85,6 @@ src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/scri
 src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
 
 &lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;donut&#34; data-doi=&#34;10.37016/mr-2020-87&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Cultural transmission bias in the spread of voter fraud conspiracy theories on Twitter during the 2020 US election</title>
-      <link>https://acerbialberto.com/publication/preprint_voter_fraud/</link>
-      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/publication/preprint_voter_fraud/</guid>
-      <description>
-
-&lt;script id=&#34;altmetric-embed-js&#34; type=&#34;text/javascript&#34;
-src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
-
-&lt;div data-badge-details=&#34;right&#34; data-badge-type=&#34;donut&#34; data-doi=&#34;10.31234/osf.io/2jksg&#34; data-hide-no-mentions=&#34;true&#34; class=&#34;altmetric-embed&#34;&gt;&lt;/div&gt;
 
 </description>
     </item>

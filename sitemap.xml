@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/2/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2023-07-11T15:00:00+00:00</lastmod>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/joseph-stubbersfield/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/mason-youngblood/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/misinformation/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/2023_voter_fraud/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/olivier-morin/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/ryan-glassman/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/talk/2023_cppn/</loc>
     <lastmod>2023-07-11T15:00:00+00:00</lastmod>
@@ -20,9 +62,6 @@
     <loc>https://acerbialberto.com/tags/recent/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/media/bbc_ourplanet/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,24 +70,6 @@
   </url><url>
     <loc>https://acerbialberto.com/talk/2023_siena/</loc>
     <lastmod>2023-04-28T16:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/sacco-pier-luigi/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
@@ -66,9 +87,6 @@
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/conservation/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/jakub-kryczka/</loc>
@@ -94,9 +112,6 @@
   </url><url>
     <loc>https://acerbialberto.com/publication/cp_2023_oxford_handbook/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/misinformation/</loc>
-    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/2023_misinfo_third_person/</loc>
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
@@ -247,24 +262,6 @@
   </url><url>
     <loc>https://acerbialberto.com/talk/2021_cben/</loc>
     <lastmod>2021-11-18T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/3/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication/preprint_voter_fraud/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/joseph-stubbersfield/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/mason-youngblood/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/olivier-morin/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/ryan-glassman/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/post/2021_facebook/</loc>
     <lastmod>2021-10-06T00:00:00+00:00</lastmod>
