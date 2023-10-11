@@ -5,12 +5,27 @@
     <link>https://acerbialberto.com/tags/digital-age/</link>
       <atom:link href="https://acerbialberto.com/tags/digital-age/index.xml" rel="self" type="application/rss+xml" />
     <description>digital age</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>digital age</title>
       <link>https://acerbialberto.com/tags/digital-age/</link>
     </image>
+    
+    <item>
+      <title>Postdoc position</title>
+      <link>https://acerbialberto.com/post/2023_postdoc/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/post/2023_postdoc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I will advertise in the next days a two-year postdoc position in the &lt;a href=&#34;https://www.sociologia.unitn.it/en&#34;&gt;Department of Sociology and Social Research&lt;/a&gt;  in Trento, possibly starting from December 2023, broadly on analysis of social media data from a cultural evolution perspective.&lt;/p&gt;
+&lt;p&gt;The postdoc will work in a project funded by the &lt;a href=&#34;https://www.templeton.org&#34;&gt;John Templeton Foundation&lt;/a&gt; on &amp;ldquo;Changing the perspective on social media interventions: improving engagement with true news&amp;rdquo;. The basic idea, explored at length in &lt;a href=&#34;https://misinforeview.hks.harvard.edu/article/research-note-fighting-misinformation-or-fighting-for-information/&#34;&gt;this paper&lt;/a&gt; with Sacha Altay and Hugo Mercier, is that, to improve the social media informational ecosystem, we should focus on increasing the engagement with true news, rather than fighting the diffusion of misinformation. More in details, the project identified four features of content that increase engagement with information: negative content, emotional content in general, threat-related information, and out-group detraction. We will collect a large dataset of social media messages related to news from outlets of different political orientations and examine if these features of content will predict engagement with true/reliable news, and what kind of engagement, by including in the analysis also reactions and comments. Given the recent mess with social media (thank you Elon), we will be relatively free about which data exactly to collect, and possibly to modify various aspects of the research questions, as long as they fit with the basic idea. (Optimistically, it could be an interesting time to analyse the consequences of the changing social media informational landscape.)&lt;/p&gt;
+&lt;p&gt;The essential requisites are a PhD in any related discipline (social and psychological sciences, data/computer sciences, etc.) and good programming experience with the &lt;a href=&#34;https://www.r-project.org&#34;&gt;R language&lt;/a&gt;. Experience with collection and analysis of data from social media, NLP (text mining, sentiment analysis, etc.), open science (e.g. preregistration, managing open data repositories), collaborative programming tools (e.g. GitHub), and statistical modelling are desirable.&lt;/p&gt;
+&lt;p&gt;I am completely open to remote work - as I did myself several postdocs, I know it can be annoying to relocate for a non-permanent contract and I have/had myself several long-distance collaborations - but, if one has the possibility, living in Trento could be a plus. Trento is a beautiful town in the Dolomites and it is consistently at the top ranks for quality of life in Italy (as I now live here, I can confirm). The Department of Sociology and Social Research is very research-active, and the postdoc will participate in the activities of the &lt;a href=&#34;https://c2s2.unitn.it&#34;&gt;C2S2 - Centre for Computational Social Science and Human Dynamics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The salary is in the very top tier of Italian postdoc (gross 38,900 Euros/year) and the grant include research and travel money.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;official&amp;rdquo; advert will be published soon (I will link it also here), but if you are interested or have any question get in contact with me!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Is fighting fake news a red herring?</title>
