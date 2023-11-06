@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/recent/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/sibf/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +24,6 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/ai/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/digital-age/</loc>
@@ -82,12 +91,6 @@
   </url><url>
     <loc>https://acerbialberto.com/talk/2023_cosmos/</loc>
     <lastmod>2023-07-05T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/media/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/recent/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/media/bbc_ourplanet/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
