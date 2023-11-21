@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/authors/</link>
       <atom:link href="https://acerbialberto.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,123 @@
     <item>
       <title></title>
       <link>https://acerbialberto.com/authors/admin/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a researcher in the field of cultural evolution. My work is at the interface of psychology, anthropology, and sociology. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach with different methodologies, especially individual-based models and quantitative analysis of large-scale cultural data. I am an Assistant Professor in the &lt;a href=&#34;https://www.sociologia.unitn.it/en&#34;&gt;Department of Sociology and Social Research&lt;/a&gt; at the &lt;a href=&#34;https://www.unitn.it/en&#34;&gt;University of Trento&lt;/a&gt;, and member of the &lt;a href=&#34;https://c2s2.unitn.it&#34;&gt;C2S2 - Centre for Computational Social Science and Human Dynamics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I wrote a book for Oxford University Press: &lt;a href=&#34;https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&amp;amp;lang=en&amp;amp;&#34;&gt;Cultural evolution in the digital age&lt;/a&gt;, and an open access manual: &lt;a href=&#34;https://acerbialberto.com/IBM-cultevo/&#34;&gt;Individual-based models of cultural evolution. A step-by-step guide using R&lt;/a&gt; (a physical version is available with &lt;a href=&#34;https://www.routledge.com/Individual-Based-Models-of-Cultural-Evolution-A-Step-by-Step-Guide-Using/Acerbi-Mesoudi-Smolla/p/book/9781032252063&#34;&gt;Routeldge&lt;/a&gt;). I also curate a free substack newsletter (in Italian), with links to material about cultural evolution and digital technologies: &lt;a href=&#34;https://albertoacerbi.substack.com&#34;&gt;Cinque link a settimana&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Agnieszka Czaplicka</title>
+      <link>https://acerbialberto.com/authors/agnieszka-czaplicka/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/agnieszka-czaplicka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne-Marie Nussberger</title>
+      <link>https://acerbialberto.com/authors/anne-marie-nussberger/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/anne-marie-nussberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Baumann</title>
+      <link>https://acerbialberto.com/authors/fabian-baumann/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/fabian-baumann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iyad Rahwan</title>
+      <link>https://acerbialberto.com/authors/iyad-rahwan/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/iyad-rahwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-François Bonnefon</title>
+      <link>https://acerbialberto.com/authors/jean-francois-bonnefon/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/jean-francois-bonnefon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel Z. Leibo</title>
+      <link>https://acerbialberto.com/authors/joel-z.-leibo/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/joel-z.-leibo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Stray</title>
+      <link>https://acerbialberto.com/authors/jonathan-stray/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/jonathan-stray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Henrich</title>
+      <link>https://acerbialberto.com/authors/joseph-henrich/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/joseph-henrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levin Brinkmann</title>
+      <link>https://acerbialberto.com/authors/levin-brinkmann/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/levin-brinkmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxime Derex</title>
+      <link>https://acerbialberto.com/authors/maxime-derex/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/maxime-derex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre-Yves Oudeyer</title>
+      <link>https://acerbialberto.com/authors/pierre-yves-oudeyer/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/pierre-yves-oudeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard McElreath</title>
+      <link>https://acerbialberto.com/authors/richard-mcelreath/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/richard-mcelreath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas F. Müller</title>
+      <link>https://acerbialberto.com/authors/thomas-f.-muller/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/thomas-f.-muller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas L. Griffiths</title>
+      <link>https://acerbialberto.com/authors/thomas-l.-griffiths/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/authors/thomas-l.-griffiths/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -259,14 +371,6 @@
       <link>https://acerbialberto.com/authors/manvir-singh/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://acerbialberto.com/authors/manvir-singh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maxime Derex</title>
-      <link>https://acerbialberto.com/authors/maxime-derex/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/authors/maxime-derex/</guid>
       <description></description>
     </item>
     
