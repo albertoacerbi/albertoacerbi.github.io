@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>Lab take on a kids’ game reveals biases in ChatGPT</title>
+      <link>https://acerbialberto.com/media/nature_italy/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/nature_italy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIBF 2023 - Influencing is hard work, says expert panel discussing and dissecting impacts of social media</title>
