@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/tags/recent/</link>
       <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent</title>
       <link>https://acerbialberto.com/tags/recent/</link>
     </image>
+    
+    <item>
+      <title>Clima. Disinformazione e comportamenti - una sfida per gli studiosi</title>
+      <link>https://acerbialberto.com/media/sfi_radio/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/sfi_radio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lab take on a kids’ game reveals biases in ChatGPT</title>
