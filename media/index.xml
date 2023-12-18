@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>OpenAI’s ChatGPT exhibits a surprisingly human-like transmission chain bias</title>
+      <link>https://acerbialberto.com/media/psypost_chat_gpt/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/psypost_chat_gpt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clima. Disinformazione e comportamenti - una sfida per gli studiosi</title>

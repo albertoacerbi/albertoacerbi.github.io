@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/</link>
       <atom:link href="https://acerbialberto.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Acerbi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Alberto Acerbi</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://acerbialberto.com/talk/</link>
-      <pubDate>Thu, 14 Dec 2023 09:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/talk/</guid>
+      <title>Media</title>
+      <link>https://acerbialberto.com/media/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Media</title>
-      <link>https://acerbialberto.com/media/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://acerbialberto.com/talk/</link>
+      <pubDate>Thu, 14 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/talk/</guid>
       <description></description>
     </item>
     
