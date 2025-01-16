@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/2/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/chiara-bonacchi/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/marta-krzyzanska/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/2025_scirep_archeo/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/media/unitrentomag/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
@@ -12,9 +42,6 @@
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/recent/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/media/rai3_radio/</loc>
@@ -26,28 +53,10 @@
     <loc>https://acerbialberto.com/talk/</loc>
     <lastmod>2024-03-20T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/tags/misinformation/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/2024_misinfo_third_person/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/sacha-altay/</loc>

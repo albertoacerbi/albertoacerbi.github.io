@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/tags/</link>
       <atom:link href="https://acerbialberto.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Recent</title>
-      <link>https://acerbialberto.com/tags/recent/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/recent/</guid>
+      <title>digital media</title>
+      <link>https://acerbialberto.com/tags/digital-media/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/digital-media/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>digital media</title>
-      <link>https://acerbialberto.com/tags/digital-media/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/tags/digital-media/</guid>
+      <title>Recent</title>
+      <link>https://acerbialberto.com/tags/recent/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/tags/recent/</guid>
       <description></description>
     </item>
     
