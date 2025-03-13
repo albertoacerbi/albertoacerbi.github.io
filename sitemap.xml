@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acerbialberto.com/authors/admin/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/5/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/</loc>
-    <lastmod>2025-02-26T16:00:00+00:00</lastmod>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/authors/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/digital-media/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/misinformation/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication_types/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/publication/2025_tecnopanico/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/talk/2025_durham/</loc>
     <lastmod>2025-02-26T16:00:00+00:00</lastmod>
@@ -11,43 +47,19 @@
     <loc>https://acerbialberto.com/talk/</loc>
     <lastmod>2025-02-26T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/authors/admin/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/publication_types/2/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/authors/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/benoit-de-courson/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/cultural-attraction/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/cultural-evolution/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/tags/modelling/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication_types/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/publication/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/2025_pnas/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/chiara-bonacchi/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/digital-media/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/marta-krzyzanska/</loc>
@@ -70,9 +82,6 @@
   </url><url>
     <loc>https://acerbialberto.com/talk/2024_kcl/</loc>
     <lastmod>2024-03-20T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/misinformation/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/2024_misinfo_third_person/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
@@ -272,9 +281,6 @@
     <loc>https://acerbialberto.com/project/4_attraction/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/publication_types/5/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/publication/2022_ibmcultevo/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -384,9 +390,6 @@
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication/2021_ptrsb_antisocial/</loc>
-    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/talk/2021_roph/</loc>
