@@ -5,12 +5,52 @@
     <link>https://acerbialberto.com/media/</link>
       <atom:link href="https://acerbialberto.com/media/index.xml" rel="self" type="application/rss+xml" />
     <description>Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Media</title>
       <link>https://acerbialberto.com/media/</link>
     </image>
+    
+    <item>
+      <title>Tecnopanico - l&#39;uso dei cellulari e dei nuovi media, e i timori che li accompagnano</title>
+      <link>https://acerbialberto.com/media/tecnopanico_rai_regione/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_rai_regione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Come vivere in maniera ragionevole nell’era digitale</title>
+      <link>https://acerbialberto.com/media/tecnopanico_warroom/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_warroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fake news più grande in rete...è quella sulle fake news in rete</title>
+      <link>https://acerbialberto.com/media/tecnopanico_verita/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_verita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I libri di saggistica da scoprire a marzo 2025 - Wired</title>
+      <link>https://acerbialberto.com/media/tecnopanico_wired/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_wired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnopanico? Come affrontare il digitale con intelligenza</title>
+      <link>https://acerbialberto.com/media/tecnopanico_resistenze/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_resistenze/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>La gioventù che verrà</title>

@@ -5,7 +5,7 @@
     <link>https://acerbialberto.com/tags/recent/</link>
       <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent</title>
@@ -13,66 +13,42 @@
     </image>
     
     <item>
-      <title>La gioventù che verrà</title>
-      <link>https://acerbialberto.com/media/unitrentomag/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/unitrentomag/</guid>
+      <title>Tecnopanico - l&#39;uso dei cellulari e dei nuovi media, e i timori che li accompagnano</title>
+      <link>https://acerbialberto.com/media/tecnopanico_rai_regione/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_rai_regione/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fake news e Chatgpt - Dipartimento di Sociologia</title>
-      <link>https://acerbialberto.com/media/rai3_radio/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/rai3_radio/</guid>
+      <title>Come vivere in maniera ragionevole nell’era digitale</title>
+      <link>https://acerbialberto.com/media/tecnopanico_warroom/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_warroom/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>OpenAI’s ChatGPT exhibits a surprisingly human-like transmission chain bias</title>
-      <link>https://acerbialberto.com/media/psypost_chat_gpt/</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/psypost_chat_gpt/</guid>
+      <title>La fake news più grande in rete...è quella sulle fake news in rete</title>
+      <link>https://acerbialberto.com/media/tecnopanico_verita/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_verita/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clima. Disinformazione e comportamenti - una sfida per gli studiosi</title>
-      <link>https://acerbialberto.com/media/sfi_radio/</link>
-      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/sfi_radio/</guid>
+      <title>I libri di saggistica da scoprire a marzo 2025 - Wired</title>
+      <link>https://acerbialberto.com/media/tecnopanico_wired/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_wired/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lab take on a kids’ game reveals biases in ChatGPT</title>
-      <link>https://acerbialberto.com/media/nature_italy/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/nature_italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIBF 2023 - Influencing is hard work, says expert panel discussing and dissecting impacts of social media</title>
-      <link>https://acerbialberto.com/media/sibf/</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/sibf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Misinformation alarmism taps into the tendency to view other people as gullible, study suggests</title>
-      <link>https://acerbialberto.com/media/psypost_misinfo_3person/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/psypost_misinfo_3person/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What the misinformation scare reveals about faith in democracy</title>
-      <link>https://acerbialberto.com/media/wapo_misinfo/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/wapo_misinfo/</guid>
+      <title>Tecnopanico? Come affrontare il digitale con intelligenza</title>
+      <link>https://acerbialberto.com/media/tecnopanico_resistenze/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_resistenze/</guid>
       <description></description>
     </item>
     

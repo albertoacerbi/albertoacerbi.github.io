@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://acerbialberto.com/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/recent/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/tags/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/tecnopanico_rai_regione/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/tecnopanico_warroom/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/tecnopanico_verita/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://acerbialberto.com/authors/admin/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/publication_types/5/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/authors/</loc>
@@ -32,14 +50,17 @@
     <loc>https://acerbialberto.com/publication/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://acerbialberto.com/tags/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://acerbialberto.com/publication/2025_tecnopanico/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/tags/transmission-biases/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/tecnopanico_wired/</loc>
+    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://acerbialberto.com/media/tecnopanico_resistenze/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/talk/2025_durham/</loc>
     <lastmod>2025-02-26T16:00:00+00:00</lastmod>
@@ -69,12 +90,6 @@
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/media/unitrentomag/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/media/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://acerbialberto.com/tags/recent/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://acerbialberto.com/media/rai3_radio/</loc>
