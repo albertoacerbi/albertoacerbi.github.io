@@ -5,12 +5,20 @@
     <link>https://acerbialberto.com/tags/recent/</link>
       <atom:link href="https://acerbialberto.com/tags/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://acerbialberto.com/img/icon-192.png</url>
       <title>Recent</title>
       <link>https://acerbialberto.com/tags/recent/</link>
     </image>
+    
+    <item>
+      <title>Tecnopanico - Il Cantiere delle Idee</title>
+      <link>https://acerbialberto.com/media/tecnopanico_cantiere_delle_idee/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://acerbialberto.com/media/tecnopanico_cantiere_delle_idee/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tecnopanico - l&#39;uso dei cellulari e dei nuovi media, e i timori che li accompagnano</title>
@@ -45,10 +53,10 @@
     </item>
     
     <item>
-      <title>Tecnopanico? Come affrontare il digitale con intelligenza</title>
-      <link>https://acerbialberto.com/media/tecnopanico_resistenze/</link>
+      <title>Cosa è il tecnopanico e perché non serve a criticare la tecnologia (e Big Tech)</title>
+      <link>https://acerbialberto.com/media/tecnopanico_guerre_di_rete/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://acerbialberto.com/media/tecnopanico_resistenze/</guid>
+      <guid>https://acerbialberto.com/media/tecnopanico_guerre_di_rete/</guid>
       <description></description>
     </item>
     
